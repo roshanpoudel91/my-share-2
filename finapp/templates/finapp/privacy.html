@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+     {% block main %}
+
+     <main>
+        <h1 class="title">Privacy Policy</h1>
+
+
+        <p class="info">My Amazing Stocks (this site) is committed to protect your privacy and we take this issue seriously. This policy describes what information we collect from our users and how we use them. By joining this site, or subscribing to it, you agree to this Privacy Policy.</p>
+        <p class="info bold">What Information We Collect</p>
+        <p class ="info"><span class="bold">User Name: </span> You have to provide a username, unique to this site, which would be used to identify you, your subscriptions, your account status within this site. Your username can be anything so it should not be personally identifiable to you.</p>
+        <p class ="info"><span class="bold">Email Address: </span> You have to provide a valid email address while registering for this site. Your email address will be used to uniquely identify you, to convey important information about your subscriptions, your account, for password resets, to convey periodical communications (if you agree to receive). We never sell or provide access to this information to anyone else.</p>
+        <p class ="info"><span class="bold">Tracking Information: </span> We may automatically save certain information about how you're using our site. It might include your IP Address you logged in from, the URL that you just came from, the pages you visited. We may collect this information for making this site better, to enhance the usability for our users, to determine the customer behaviour. We only use this information in our analysis. These information will be collected anonymously and will not be tracked to you or any specific individual.</p>
+        <p class="info bold">Where We Process and Store the Information</p>
+        <p class ="info">The information collected from our users is processed and stored in multiple servers in the United States. We ensure that your information is treated securely and in accordance with this Privacy Policy and any applicable law.</p>
+        <p class="info bold">Questions?</p>
+        <p class ="info">Should you have any questions regarding your personal information and this policy, please contact us at myamazingstocks (at) gmail.com</p>
+
+
+
+
+        <div class="blank"></div>
+      </main>
+      <style>
+           main{margin:80px auto 20px auto; width: 75%; border-radius: 8px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+          .title{font-family:Acme, sans-serif; width:100%; text-align: center; padding:20px 0 10px 0;}
+          .info{padding:20px 20px 0 20px;}
+          .bold{font-weight: bold;}
+          .blank{height: 50px;}
+      </style>
+
+      {% endblock %}

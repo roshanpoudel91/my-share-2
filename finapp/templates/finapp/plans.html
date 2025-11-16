@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+
+{% block main %}
+<div class="main container text-center">
+    <div class="my-4"><h1 class="display-5">Plans and Pricing</h1></div>
+    <div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+	    <div class="col-lg-4 col-md-6">
+	        <div class="card mb-4 rounded-3 shadow-sm">
+                <div class="card-header py-3 bg-warning"><h4 class="my-0 fw-normal">Try-Out</h4></div>
+                <div class="card-body  bg-warning-subtle">
+                    <h1 class="card-title pricing-card-title">$0<small class="text-body-secondary fw-light">/mo</small></h1>
+                    <ul class="list-unstyled mt-3 mb-4">
+                        <li>20 Tickers</li>
+                        <li>No Account Required</li>
+                        <li>Standard Email Support</li>
+                    </ul>
+                    <a class="w-100 btn btn-lg btn-outline-warning text-dark-emphasis" href="{% url 'finapp:stock_selection' %}" role="button">Get Started</a>
+                </div>
+            </div>
+	    </div>
+	    <div class="col-lg-4 col-md-6">
+	        <div class="card mb-4 rounded-3 shadow-sm">
+                <div class="card-header py-3 bg-primary"><h4 class="my-0 fw-normal text-light">Basic</h4></div>
+                <div class="card-body bg-info-subtle">
+                    <h1 class="card-title pricing-card-title">$0<small class="text-body-secondary fw-light">/mo</small></h1>
+                    <ul class="list-unstyled mt-3 mb-4">
+                        <li>100 Tickers</li>
+                        <li>Free Account Required</li>
+                        <li>Standard Email Support</li>
+                    </ul>
+	                <a class="w-100 btn btn-lg btn-outline-primary" href="{% url 'home:register' %}" role="button">Create a Basic Account</a>
+                </div>
+            </div>
+	    </div>
+	    <div class="col-lg-4 col-md-12">
+    	    <div class="card mb-4 rounded-3 shadow-sm">
+                <div class="card-header py-3 bg-success"><h4 class="my-0 fw-normal text-light">Pro</h4></div>
+                <div class="card-body bg-success-subtle">
+                    <h1 class="card-title pricing-card-title">$5<small class="text-body-secondary fw-light">/mo</small></h1>
+                    <ul class="list-unstyled mt-3 mb-4">
+                        <li>3000+ Tickers</li>
+                        <li>Monthly Subscription Required</li>
+                        <li>Priority Email Support</li>
+                    </ul>
+                    <button type="button" class="w-100 btn btn-lg btn-outline-success">Coming Soon</button>
+                </div>
+            </div>
+	    </div>
+    </div>
+    <p class="lead">*Disclaimer: We are now in development phase. Plan rates and details might change without notice.</p>
+</div>
+
+{% endblock %}

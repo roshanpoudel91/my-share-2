@@ -1,0 +1,113 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block main %}
+
+<h1 class="title">Stock Analysis</h1>
+<div class="img"><img src="{% static 'finapp/bull.jpg' %}" alt='bull picture' style="height:200px"></div>
+<p class="sub-title">Please select a company below to analyze. </p> <!--If you are unable to find your company in the list above, you can manually enter the data
+<a class="link" href="#">here</a></p> -->
+<form method="POST">
+    {% csrf_token %}
+    <div class="form">
+        <!-- {{tick_form.as_p}} -->
+        <!-- <input type="text" list="tickers" name="ticker" id="ticker" placeholder="Search Company.." class="form-control" style="width: 300px; margin: auto;"> -->
+        <!-- <datalist id="tickers">
+            {% for results in tick_form %}
+            <option value="{{results.ticker}}">{{results.name}} --- {{results.ticker}}</option>
+            {% endfor %}
+        </datalist> -->
+        <br>
+        <select class="js-example-basic-single form-select" name="ticker" placeholder="Search Company.." style="width: 300px;">
+            <option value="" disabled selected>Search Company...</option>
+            {% for item in datas %}
+                <option value="{{ item.ticker }}">{{item.ticker}} - {{ item.name }}</option>
+            {% endfor %}
+        </select>
+        <div class="btn-container"><input type="submit" value="GO!" class="btn"></div>
+    </div>
+</form>
+    <div class="description">
+    <p class="item"><strong>Caveats on using results: </strong></p>
+    <p><em>We are not suggesting any buy/sell but equiping you with calculation that we think can assist you in your choices.</em></p>
+
+    <ul class="item-first">
+          <li>Future may not track historical operational performance </li>
+          <li>Please focus on qualitative factors to avoid value trap</li>
+          <li>Search internet and SEC filings to identify any adverse update as below and make your decision:
+          <ul class="item-second">
+            <li>Loss of major customer/supplier</li>
+            <li>Failure of pipeline product</li>
+            <li>Regulatory scrutitny and recalls</li>
+            <li>Management Changes and management calls</li>
+            <li>Geopolitical Impact</li>
+            <li>Other relevant news that may impact price</li>
+          </ul>
+          </li>
+    </ul>
+    </div>
+<div class="links">
+    <p>Some useful links:
+    <ul>
+    <li><a href="https://www.federalreserve.gov/data/nominal-yield-curve.htm" target="_blank" rel="noopener noreferrer">Fed site for data on Yield (RF), Inflation and GDP</a></li>
+    <li><a href="https://pages.stern.nyu.edu/~adamodar/" target="_blank" rel="noopener noreferrer">Useful link by top professor for various inputs - ERP, Beta, Market Aggregation etc.</a></li>
+    </ul></p>
+</div>
+
+<div class="overlay"></div>
+<div class="spanner">
+  <div class="loader"></div>
+  <p>Getting data, Please wait...</p>
+</div>
+
+
+<style>
+    .title{margin-top:100px; text-align:center;}
+    .sub-title{width:70%; margin:10px auto; line-height:200%;}
+    .btn-container{width: 100%;margin:10px auto;text-align:center;}
+    .links{width:70%; margin:20px auto;}
+    .links a:hover{text-decoration:underline;}
+    .link:hover{text-decoration:underline;}
+    .link{color:purple;}
+    .img{text-align: center;}
+    #id_ticker{font-size:1rem; padding:5px;}
+    form{margin:20px auto; width:70%;border:1px solid gray;text-align: center;border-radius: 8px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+    form label{padding:10px; display:block;font-size: 1.2rem;}
+    .btn{text-align:center;padding:8px; border-radius:8px;background-color: #4B56D2;color:white; font-size:1.3rem;margin-top:15px;margin-bottom:15px;}
+    .btn:hover{color:#FF8B13;}
+    .description{margin:20px auto; width:70%;}
+    .item-first{list-style:square;padding-left:20px; margin-top: 10px;}
+    em{padding-left:10px; color:red;}
+    .item-second{padding-left:20px; list-style:circle;}
+
+
+    @media only screen and (max-width:768px){
+        .sub-title{width:90%;}
+        form{width:90%;}
+        .description{width:90%;}
+    }
+    @media only screen and (max-width:576px){
+        .sub-title{width:95%;}
+        form{width:95%;}
+        .description{width:95%;}
+    }
+</style>
+
+<link rel="stylesheet" href="{% static 'finapp/loader.css' %}">
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+    $(document).ready(function() {
+        $('.js-example-basic-single').select2({
+            outerWidth:'50px'
+        });
+    });
+</script>
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+
+<script>
+  $("input[type='submit']").click(function(){
+  $("div.spanner").addClass("show");
+  $("div.overlay").addClass("show");
+});
+</script>
+
+{% endblock %}

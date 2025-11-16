@@ -1,0 +1,29 @@
+<div class="tab-pane" id="nav-performance" role="tabpanel" aria-labelledby="nav-performance-tab" tabindex="0">
+    <p class="display-6 text-success mt-3">Comparative Performance</p>
+    <p>Let's see how this company's implied growth compares to its last years' and 3-year average performance. We can also compare other significant parameters, how the current earnings compares to historical performances.</p>
+    <div class="stock-table">{{comparative|safe}}</div>
+    <hr>
+
+    {% if is_data %}
+    <p class="display-6 text-success mt-3">Expected Gain/Loss Scenario</p>
+    <!-- <p class="lead text-center my-2">Gain-Loss under various Revenue Growth and ECOS Margin Scenario</p>
+    <div class="text-center border rounded mb-5"><img class="img-fluid" src='data:image/png;base64,{{ plot2 }}'></div> -->
+    <p>Expected Gain (Loss) under various growth and margin scenario is as below:</p>
+    <div class="stock-table">
+        {{new_result|safe}}
+    </div>
+    {% else %}
+    <p class="error">Your selection didn't yield any results. This might be due to invalid or missing data in the server.Try again later.</p>
+    {% endif %}
+
+    {% if eer %}
+    <hr>
+    <p class="display-6 text-success mt-3">Growth and Margin Trend</p>
+    <p>Annual revenue growth, ECOS margin and EBITDA margin trend for last 4 years plus TTM.</p>
+    <div class="stock-table">
+        {{eer|safe}}
+    </div>
+    {% endif %}
+
+
+</div>

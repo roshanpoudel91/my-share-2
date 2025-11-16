@@ -1,0 +1,291 @@
+<div class="tab-pane" id="nav-backtest" role="tabpanel" aria-labelledby="nav-backtest-tab" tabindex="0">
+    <h5 class="display-6 text-success mt-2">Portfolio Outcome</h5>
+    <div class="container text-center">
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          &nbsp;
+        </div>
+        <div class="col border border-secondary-subtle">
+           <strong>3-Month Return</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+           <strong>6-Month Return</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+           <strong>9-Month Return</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+           <strong>1-Year Return</strong>
+        </div>
+      </div>
+
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>No. of Quarters</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{qtr_details.0}}
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{qtr_details.1}}
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{qtr_details.2}}
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{qtr_details.3}}
+        </div>
+      </div>
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Positive Gain %</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.12}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.13}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.14}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.15}} %
+        </div>
+      </div>
+      <div class="row align-items-start  border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Mean Return</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.4}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.5}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.6}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.7}} %
+        </div>
+      </div>
+
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Max Return</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.8}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.9}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.10}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.11}} %
+        </div>
+      </div>
+
+
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Return 10%**</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.16}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.17}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.18}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.19}} %
+        </div>
+      </div>
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Return 25%**</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.20}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.21}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.22}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{qtr_details.23}} %
+        </div>
+      </div>
+    </div>
+    <hr />
+
+    <h5 class="display-6 text-success mt-2">Stock Selection Outcome</h5>
+    <div class="container text-center">
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          &nbsp;
+        </div>
+        <div class="col border border-secondary-subtle">
+           <strong>3-Month Return</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+           <strong>6-Month Return</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+           <strong>9-Month Return</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+           <strong>1-Year Return</strong>
+        </div>
+      </div>
+
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Count</strong><span class="text-secondary fw-lighter"> (No. of Observations)</span>
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{summary_details.0}}
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{summary_details.1}}
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{summary_details.2}}
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{summary_details.3}}
+        </div>
+      </div>
+
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Gainers (%)*</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{summary_details.4}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{summary_details.5}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{summary_details.6}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+           {{summary_details.7}} %
+        </div>
+      </div>
+
+      <div class="row align-items-start  border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Mean Return</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.8}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.9}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.10}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.11}} %
+        </div>
+      </div>
+
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Return 10%**</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.12}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.13}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.14}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.15}} %
+        </div>
+      </div>
+
+
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Return 25%***</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.16}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.17}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.18}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.19}} %
+        </div>
+      </div>
+
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Return 50%****</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.20}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.21}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.22}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.23}} %
+        </div>
+      </div>
+
+      <div class="row align-items-start border border-secondary-subtle">
+        <div class="col border border-secondary-subtle">
+          <strong>Max Return</strong>
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.24}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.25}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.26}} %
+        </div>
+        <div class="col border border-secondary-subtle">
+          {{summary_details.27}} %
+        </div>
+      </div>
+    </div>
+
+
+    <div>
+        <span class="small">* Percentage of observation having positive return <br />
+        ** 10% probability of having return lower than the corresponding 3, 6, 9-month or 1-year return.<br />
+        *** 25% probability of having return lower than the corresponding 3, 6, 9-month or 1-year return.<br />
+        **** 50% probability of having return lower than the corresponding 3, 6, 9-month or 1-year return.</span>
+    </div>
+
+    <hr />
+    <p class="text-center text-secondary"></p>
+    <div class="text-center border rounded mb-5"><img class="img-fluid" src='data:image/png;base64,{{ chart1 }}'></div>
+    <hr />
+
+</div>

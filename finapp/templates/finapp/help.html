@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+
+{% block main %}
+<div class="container main my-5">
+    <h1 class="display-6 text-center my-3"><b>How to Use <i class="text-primary">MyAmazingStocks.com</i></b></h1>
+    <p class="mb-3">Upon clicking on <code>STOCKS</code> on the main page, you will be directed to stocks page, where you can either enter a specific stock ticker (or company name)
+        to search for the ticker or select from a convenient drop-down menu. The platform undertakes intricate calculations, requiring some time to deliver the results for that selected
+        stock. The Result Interpretation section comprises four informative tabs:
+        <ul>
+            <li><strong>Summary Tab</strong>: This section zeroes in on crucial details, particularly the total annualized returns for the past 10, 5, and 3 years. It underscores the belief that companies
+                with robust business models and effective management should augment shareholder wealth, striving for returns exceeding 10%, in comparison to historical returns of the S&P 500.</li>
+            <li><strong>Performance Tab</strong>: A comprehensive summary of business growth and profitability is presented in relation to its valuation. The tab not only offers insights into how these factors
+                align but also provides sensitivities to variations in growth and margin.</li>
+            <li>
+                <strong>Back Testing Tab</strong>: Delving into the realm of hypothetical scenarios, this tab furnishes data-driven results depicting what might have transpired had a portfolio been constructed
+                based on the analyzed stock's features. It provides insights at both the portfolio and stock levels, with a bar chart illustrating the number of stocks available for investment
+                and a line chart showcasing the fluctuation in value over different time periods
+            </li>
+            <li><strong>Visualization</strong>: This is still under development. These charts display the change in valuation repeats past sentiments and products tracks past demand and operations tracks past performances.</li>
+        </ul>
+    </p>
+    <hr />
+    <h1 class="display-6 text-center my-3"><b>Portfolio Building Steps</b></h1>
+    <h3 class="display-6">Select a Approach</h3>
+    <ul>
+        <li><strong>Approach 1:</strong> Follow Data with Equal Importance: I lean on data-driven insights , giving equal weight to historical returns and performance-aligned valuations.</li>
+        <li><strong>Approach 2:</strong> Consider Market Overreactions: Recognizing market overreactions, I rely on data but emphasize valuations aligned with performance.</li>
+        <li><strong>Approach 3:</strong> Non-Expert, Data-Focused: As a non-expert, I lean on data-driven insights without specific emphasis on historical returns or valuations.</li>
+    </ul>
+    <h3 class="display-6 mt-5">Determine Stock Fit Based on Approach</h3>
+    <h5 class="text-secondary">Approach 1 Evaluation</h5>
+    <ul>
+        <li>Verify historical returns (10, 5 and 3 years) align with your expected return requirements.</li>
+        <li>Confirm implied growth in the Performance tab aligns with current/past growth rates.</li>
+        <li>Assess losses under various growth scenarios , current margin and three-year average margin are within your risk tolerance.</li>
+        <li>Examine back-testing tab for possibilities of win, expected return, and losses to ensure that they are within your return and risk range.</li>
+    </ul>
+    <h5 class="text-secondary">Approach 2 Evaluation</h5>
+    <ul>
+        <li>Confirm implied growth in the Performance tab aligns with current/past growth rates.</li>
+        <li>Assess losses under various growth scenarios , current margin and three-year average margin are within your risk tolerance.</li>
+        <li>Examine back-testing tab for possibilities of win, expected return, and losses to ensure that they are within your return and risk range.</li>
+    </ul>
+    <h5 class="text-secondary">Approach 3 Evaluation</h5>
+    <ul>
+        <li>Examine back-testing tab for possibilities of win, expected return, and losses to ensure that they are within your return and risk range.</li>
+    </ul>
+    <h3 class="display-6 mt-5">Review and Rebalance your Portfolio</h3>
+    <p>Re-assess your portfolio so built every 3 months/ six months to identify stocks that still meet your criteria. Stocks not fitting your approach
+        have to be sold thereby providing opportunity to add new entrees to the portfolio that may have now fit your approach.</p>
+</div>
+{% endblock %}

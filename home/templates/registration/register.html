@@ -1,0 +1,53 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Investment App">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Acme|Murecho">
+    <link rel="shortcut icon" type="image/ico" href="{% static 'favicon.ico' %}" >
+
+    <title>New User Registration</title>
+    <style>
+      *{box-sizing:border-box; margin: 0; padding: 0;}
+      a{text-decoration: none; color:inherit;}
+      body{font-family:Murecho, sans-serif;}
+      ul{list-style: none}
+
+      .img{text-align: center;margin-top: 5px;}
+      .title{text-align:center;font-size: 1.5rem; margin:50px auto;font-family: Acme,sans-serif;}
+
+      form{width:100%; margin:10px auto;}
+      .table{width:60%; margin:10px auto;display:table; border-spacing: 10px;}
+      .table p{display:table-row;}
+      .table label{display: table-cell;padding-right:10px; text-align: right;}
+      .table input{display:table-cell;font-size: 1rem;padding:5px;}
+      .helptext, .table ul{display:none;}
+      .errorlist{color:red; text-align: center;}
+
+      .btn{text-align:center;padding:8px; border-radius:8px;background-color: #4B56D2;color:white; font-size:1.3rem;margin-top:15px auto;}
+      .btn:hover{color:#FF8B13;}
+      .buttonholder{margin:5px auto;text-align:center;}
+      .disclaimer{font-size:0.8rem; text-align:center;margin:15px auto;width:65%;}
+      .links:hover{text-decoration:underline;}
+
+    </style>
+  </head>
+  <body>
+    <div class="img"><img src="{% static 'home/logo.png' %}" style="height:120px"></div>
+  	<p class="title">New User Registration</p>
+
+	<form method="POST">
+	  <div class="table">
+    	{% csrf_token %}
+    	{{ form.as_p }}
+	  </div>
+	  <p>{{form.username.errors}}{{form.email.errors}}{{form.password1.errors}}{{form.password2.errors}}</p>
+	  <div class="buttonholder"><input type="submit" value="Register" class="btn"></div>
+	      <p class="disclaimer">By signing up with "My Amazing Stocks", you agree to our <a class="links" href="{% url 'finapp:termsofuse' %}">Terms of Use</a> and <a class="links" href="{% url 'finapp:privacy' %}">Privacy Policy</a>.</p>
+	  </div>
+	</form>
+  </body>
+</html>
+

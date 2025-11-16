@@ -1,0 +1,5 @@
+myproj/settings.py
+home/migrations
+finapp/migrations/
+**/__pycache__/
+**/migrations/

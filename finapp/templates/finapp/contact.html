@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block main %}
+<div class="main">
+    <h1 class="title">Contact Us</h1>
+    <div class="form">
+        <form method="POST">
+            {% csrf_token %}
+            {{form.as_p}}
+        <div class="btn-container"><input type="submit" class="btn" value="Send"></div>
+        </form>
+    </div>
+</div>
+<style>
+    .main{margin:100px auto 20px auto; width:40%}
+    .title{font-family:Acme, sans-serif; text-align:center;padding:20px 0 20px 0;}
+    .form{width:60%;margin:10px auto;}
+    .form p label{display:block; padding: 25px 0 8px 0;}
+    .form p textarea, .form p input{padding:5px;font-size: 0.8rem;}
+    .btn-container{width: 100%;margin:10px auto;text-align:center;}
+    .btn{text-align:center;padding:8px; border-radius:8px;background-color: #4B56D2;color:white; font-size:1.3rem;margin-top:15px;margin-bottom:15px;}
+    .btn:hover{color:#FF8B13;}
+</style>
+{% endblock %}

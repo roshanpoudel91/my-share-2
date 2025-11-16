@@ -1,0 +1,3765 @@
+STHO,1.8082,Real Estate Operating Companies
+AAPL,1.3,"Technology Hardware, Storage and Peripherals"
+MSFT,0.915,Systems Software
+GOOG,1.09,Interactive Media and Services
+GOOGL,1.09,Interactive Media and Services
+AMZN,1.25,Broadline Retail
+NVDA,1.76,Semiconductors
+BRK.B,0.882,Multi-Sector Holdings
+TSLA,2.07,Automobile Manufacturers
+META,1.18,Interactive Media and Services
+V,0.966,Transaction and Payment Processing Services
+XOM,1.08,Integrated Oil and Gas
+UNH,0.692,Managed Health Care
+JNJ,0.534,Pharmaceuticals
+WMT,0.488,Consumer Staples Merchandise Retail
+JPM,1.11,Diversified Banks
+PG,0.385,Household Products
+MA,1.11,Transaction and Payment Processing Services
+CVX,1.15,Integrated Oil and Gas
+LLY,0.354,Pharmaceuticals
+HD,0.934,Home Improvement Retail
+ABBV,0.587,Biotechnology
+MRK,0.353,Pharmaceuticals
+KO,0.539,Soft Drinks and Non-alcoholic Beverages
+AVGO,1.12,Semiconductors
+PEP,0.542,Soft Drinks and Non-alcoholic Beverages
+ORCL,1.01,Systems Software
+PFE,0.59,Pharmaceuticals
+BAC,1.41,Diversified Banks
+TMO,0.787,Life Sciences Tools and Services
+COST,0.788,Consumer Staples Merchandise Retail
+CSCO,0.982,Communications Equipment
+MCD,0.625,Restaurants
+CRM,1.21,Application Software
+NKE,1.11,Footwear
+DHR,0.802,Life Sciences Tools and Services
+DIS,1.3,Movies and Entertainment
+ACN,1.24,IT Consulting and Other Services
+ADBE,1.27,Application Software
+TMUS,0.556,Wireless Telecommunication Services
+ABT,0.666,Health Care Equipment
+LIN,0.854,Industrial Gases
+TXN,1.02,Semiconductors
+UPS,1.08,Air Freight and Logistics
+VZ,0.335,Integrated Telecommunication Services
+CMCSA,1,Cable and Satellite
+AMD,1.95,Semiconductors
+NFLX,1.26,Movies and Entertainment
+NEE,0.442,Electric Utilities
+PM,0.717,Tobacco
+MS,1.35,Investment Banking and Brokerage
+BMY,0.448,Pharmaceuticals
+RTX,0.74,Aerospace and Defense
+QCOM,1.3,Semiconductors
+WFC,1.17,Diversified Banks
+T,0.767,Integrated Telecommunication Services
+INTC,0.811,Semiconductors
+AMGN,0.65,Biotechnology
+HON,1.11,Industrial Conglomerates
+BA,1.44,Aerospace and Defense
+INTU,1.16,Application Software
+UNP,1.11,Rail Transportation
+AXP,1.2,Consumer Finance
+DE,1.06,Agricultural and Farm Machinery
+COP,1.31,Oil and Gas Exploration and Production
+LMT,0.679,Aerospace and Defense
+SBUX,0.938,Restaurants
+LOW,1.09,Home Improvement Retail
+IBM,0.852,IT Consulting and Other Services
+CAT,1.1,Construction Machinery and Heavy Transportation Equipment
+PLD,1,Industrial REITs
+GS,1.42,Investment Banking and Brokerage
+SPGI,1.12,Financial Exchanges and Data
+ELV,0.863,Managed Health Care
+SYK,0.934,Health Care Equipment
+MDT,0.721,Health Care Equipment
+GE,1.19,Industrial Conglomerates
+AMAT,1.61,Semiconductor Materials and Equipment
+GILD,0.405,Biotechnology
+BLK,1.3,Asset Management and Custody Banks
+BKNG,1.32,"Hotels, Resorts and Cruise Lines"
+ADI,1.14,Semiconductors
+SCHW,0.931,Investment Banking and Brokerage
+CVS,0.629,Health Care Services
+AMT,0.557,Telecom Tower REITs
+MDLZ,0.661,Packaged Foods and Meats
+NOW,1.03,Systems Software
+ADP,0.819,Human Resource and Employment Services
+C,1.59,Diversified Banks
+TJX,0.91,Apparel Retail
+ISRG,1.29,Health Care Equipment
+EL,0.995,Personal Care Products
+REGN,0.209,Biotechnology
+PYPL,1.31,Transaction and Payment Processing Services
+PGR,0.493,Property and Casualty Insurance
+MMC,0.919,Insurance Brokers
+VRTX,0.485,Biotechnology
+CB,0.671,Property and Casualty Insurance
+MO,0.633,Tobacco
+ABNB,1.16,"Hotels, Resorts and Cruise Lines"
+ZTS,0.759,Pharmaceuticals
+TGT,1.05,Consumer Staples Merchandise Retail
+CI,0.677,Health Care Services
+SO,0.482,Electric Utilities
+DUK,0.414,Electric Utilities
+ITW,1.12,Industrial Machinery and Supplies and Components
+HCA,1.64,Health Care Facilities
+BSX,0.785,Health Care Equipment
+LRCX,1.49,Semiconductor Materials and Equipment
+FISV,0.858,Transaction and Payment Processing Services
+BDX,0.556,Health Care Equipment
+NOC,0.508,Aerospace and Defense
+SLB,1.79,Oil and Gas Equipment and Services
+CME,0.428,Financial Exchanges and Data
+ETN,1.13,Electrical Components and Equipment
+EOG,1.52,Oil and Gas Exploration and Production
+ATVI,0.418,Interactive Home Entertainment
+EQIX,0.608,Data Center REITs
+WM,0.725,Environmental and Facilities Services
+MU,1.39,Semiconductors
+AON,0.887,Insurance Brokers
+UBER,1.22,Passenger Ground Transportation
+APD,0.858,Industrial Gases
+GD,0.834,Aerospace and Defense
+CL,0.469,Household Products
+BX,1.51,Asset Management and Custody Banks
+CSX,1.22,Rail Transportation
+HUM,0.724,Managed Health Care
+PANW,1.16,Systems Software
+MPC,1.59,Oil and Gas Refining and Marketing
+MRNA,1.7,Biotechnology
+SCCO,1.23,Copper
+SNPS,1.18,Application Software
+FCX,2.02,Copper
+ICE,0.93,Financial Exchanges and Data
+CCI,0.665,Telecom Tower REITs
+SHW,1.07,Specialty Chemicals
+MMM,0.963,Industrial Conglomerates
+FDX,1.32,Air Freight and Logistics
+CDNS,1.07,Application Software
+MNST,0.868,Soft Drinks and Non-alcoholic Beverages
+MCO,1.3,Financial Exchanges and Data
+OXY,1.79,Integrated Oil and Gas
+KLAC,1.38,Semiconductor Materials and Equipment
+USB,1,Diversified Banks
+CHTR,1.12,Cable and Satellite
+WDAY,1.26,Application Software
+VMW,0.826,Systems Software
+PSA,0.437,Self-Storage REITs
+ORLY,0.879,Automotive Retail
+FTNT,1.14,Systems Software
+HSY,0.306,Packaged Foods and Meats
+ANET,1.25,Communications Equipment
+VLO,1.64,Oil and Gas Refining and Marketing
+MAR,1.59,"Hotels, Resorts and Cruise Lines"
+GM,1.38,Automobile Manufacturers
+PNC,1.14,Regional Banks
+F,1.54,Automobile Manufacturers
+GIS,0.265,Packaged Foods and Meats
+SNOW,0.75,Internet Services and Infrastructure
+EW,1.01,Health Care Equipment
+EMR,1.39,Electrical Components and Equipment
+KDP,0.578,Soft Drinks and Non-alcoholic Beverages
+MCK,0.592,Health Care Distributors
+APH,1.25,Electronic Components
+NSC,1.3,Rail Transportation
+PXD,1.44,Oil and Gas Exploration and Production
+MSI,0.925,Communications Equipment
+SRE,0.731,Multi-Utilities
+KHC,0.703,Packaged Foods and Meats
+CMG,1.3,Restaurants
+ECL,0.984,Specialty Chemicals
+CTAS,1.33,Diversified Support Services
+ROP,1.03,Application Software
+AEP,0.437,Electric Utilities
+PSX,1.36,Oil and Gas Refining and Marketing
+D,0.466,Multi-Utilities
+LULU,1.35,"Apparel, Accessories and Luxury Goods"
+DG,0.334,Consumer Staples Merchandise Retail
+MCHP,1.57,Semiconductors
+KMB,0.411,Household Products
+TFC,1.1,Regional Banks
+KKR,1.55,Asset Management and Custody Banks
+AZO,0.692,Automotive Retail
+DXCM,1.09,Health Care Equipment
+MET,1.08,Life and Health Insurance
+MSCI,1.13,Financial Exchanges and Data
+ADSK,1.51,Application Software
+LVS,1.17,Casinos and Gaming
+TEAM,0.827,Application Software
+ADM,0.792,Agricultural Products and Services
+PH,1.51,Industrial Machinery and Supplies and Components
+CTVA,0.798,Fertilizers and Agricultural Chemicals
+RSG,0.662,Environmental and Facilities Services
+TT,1.19,Building Products
+O,0.795,Retail REITs
+STZ,1.01,Distillers and Vintners
+EXC,0.592,Electric Utilities
+IDXX,1.18,Health Care Equipment
+JCI,1.25,Building Products
+SQ,2.35,Transaction and Payment Processing Services
+PAYX,0.977,Human Resource and Employment Services
+AJG,0.702,Insurance Brokers
+HES,1.56,Oil and Gas Exploration and Production
+TDG,1.37,Aerospace and Defense
+BIIB,0.193,Biotechnology
+TRV,0.625,Property and Casualty Insurance
+AFL,0.939,Life and Health Insurance
+KMI,0.928,Oil and Gas Storage and Transportation
+GFS,2.01,Semiconductors
+SYY,1.09,Food Distributors
+NEM,0.32,Gold
+NUE,1.6,Steel
+DOW,1.33,Commodity Chemicals
+LNG,1.01,Oil and Gas Storage and Transportation
+PCAR,0.945,Construction Machinery and Heavy Transportation Equipment
+CARR,1.17,Building Products
+SGEN,0.531,Biotechnology
+HLT,1.24,"Hotels, Resorts and Cruise Lines"
+ODFL,1.08,Cargo Ground Transportation
+LHX,0.712,Aerospace and Defense
+GEHC,2.012752294,Health Care Equipment
+A,1.05,Life Sciences Tools and Services
+MRVL,1.47,Semiconductors
+XEL,0.421,Electric Utilities
+YUM,0.984,Restaurants
+AIG,1.16,Multi-line Insurance
+IQV,1.41,Life Sciences Tools and Services
+WBD,1.5,Movies and Entertainment
+ILMN,1.15,Life Sciences Tools and Services
+COF,1.5,Consumer Finance
+SPG,1.55,Retail REITs
+WMB,1.21,Oil and Gas Storage and Transportation
+BK,1.09,Asset Management and Custody Banks
+ROST,0.988,Apparel Retail
+APO,1.72,Diversified Financial Services
+CPRT,1.21,Diversified Support Services
+ON,1.75,Semiconductors
+KR,0.469,Food Retail
+WELL,1.04,Health Care REITs
+OTIS,0.818,Industrial Machinery and Supplies and Components
+CNC,0.561,Managed Health Care
+GWW,1.18,Trading Companies and Distributors
+ED,0.347,Multi-Utilities
+CMI,1.01,Construction Machinery and Heavy Transportation Equipment
+MTD,1.18,Life Sciences Tools and Services
+ROK,1.44,Electrical Components and Equipment
+DHI,1.51,Homebuilding
+AME,1.22,Electrical Components and Equipment
+DVN,2.36,Oil and Gas Exploration and Production
+EA,0.854,Interactive Home Entertainment
+DD,1.25,Specialty Chemicals
+VICI,0.981,Other Specialized REITs
+ABC,0.537,Health Care Distributors
+CRWD,1.02,Systems Software
+AMP,1.49,Asset Management and Custody Banks
+RMD,0.472,Health Care Equipment
+FIS,0.85,Transaction and Payment Processing Services
+PCG,1.11,Electric Utilities
+DLTR,0.682,Consumer Staples Merchandise Retail
+PPG,1.17,Specialty Chemicals
+PEG,0.566,Multi-Utilities
+CTSH,1.11,IT Consulting and Other Services
+BF.A,0.702,Distillers and Vintners
+BF.B,0.702,Distillers and Vintners
+FAST,1.17,Trading Companies and Distributors
+LYB,1.23,Commodity Chemicals
+APTV,2.04,Automotive Parts and Equipment
+PRU,1.4,Life and Health Insurance
+WEC,0.382,Multi-Utilities
+TTD,1.82,Advertising
+GLW,1.07,Electronic Components
+WBA,0.717,Drug Retail
+LEN,1.41,Homebuilding
+LEN.B,1.41,Homebuilding
+VRSK,0.839,Research and Consulting Services
+DELL,0.98,"Technology Hardware, Storage and Peripherals"
+VEEV,0.896,Health Care Technology
+BKR,1.45,Oil and Gas Equipment and Services
+ALL,0.591,Property and Casualty Insurance
+HPQ,1.03,"Technology Hardware, Storage and Peripherals"
+ANSS,1.24,Application Software
+KEYS,1.07,Electronic Equipment and Instruments
+ENPH,1.49,Semiconductor Materials and Equipment
+DLR,0.542,Data Center REITs
+HAL,2.14,Oil and Gas Equipment and Services
+AWK,0.558,Water Utilities
+OKE,1.63,Oil and Gas Storage and Transportation
+SBAC,0.487,Telecom Tower REITs
+CSGP,0.875,Research and Consulting Services
+GPN,1.01,Transaction and Payment Processing Services
+URI,1.85,Trading Companies and Distributors
+ULTA,1.3,Other Specialty Retail
+ES,0.467,Electric Utilities
+RBLX,1.72,Interactive Home Entertainment
+ZBH,1.01,Health Care Equipment
+EIX,0.794,Electric Utilities
+NDAQ,0.966,Financial Exchanges and Data
+CDW,1.13,Technology Distributors
+STT,1.61,Asset Management and Custody Banks
+ALB,1.58,Specialty Chemicals
+DFS,1.46,Consumer Finance
+SPOT,1.75,Movies and Entertainment
+TSCO,0.826,Other Specialty Retail
+IT,1.28,IT Consulting and Other Services
+CEG,0.97,Electric Utilities
+WST,1.08,Life Sciences Tools and Services
+ALGN,1.6,Health Care Supplies
+TROW,1.32,Asset Management and Custody Banks
+ACGL,0.739,Property and Casualty Insurance
+EFX,1.45,Research and Consulting Services
+HZNP,1.14,Biotechnology
+DASH,1.45,Restaurants
+ALNY,0.486,Biotechnology
+FANG,2.03,Oil and Gas Exploration and Production
+WTW,0.77,Insurance Brokers
+FTV,1.17,Industrial Machinery and Supplies and Components
+PWR,1.09,Construction and Engineering
+EBAY,1.36,Broadline Retail
+MPWR,1.14,Semiconductors
+IR,1.43,Industrial Machinery and Supplies and Components
+GPC,0.914,Distributors
+AVB,0.919,Multi-Family Residential REITs
+IFF,1.1,Specialty Chemicals
+DDOG,0.987,Application Software
+FSLR,1.36,Semiconductors
+FE,0.422,Electric Utilities
+K,0.427,Packaged Foods and Meats
+ETR,0.631,Electric Utilities
+VMC,0.759,Construction Materials
+EQR,0.815,Multi-Family Residential REITs
+AEE,0.429,Multi-Utilities
+DTE,0.588,Multi-Utilities
+MKC,0.554,Packaged Foods and Meats
+DAL,1.26,Passenger Airlines
+PODD,0.744,Health Care Equipment
+VRSN,0.994,Internet Services and Infrastructure
+WY,1.49,Timber REITs
+MLM,0.867,Construction Materials
+CBRE,1.38,Real Estate Services
+EXR,0.559,Self-Storage REITs
+HIG,0.87,Multi-line Insurance
+HRL,0.167,Packaged Foods and Meats
+ARE,0.964,Office REITs
+ZM,-0.219,Application Software
+CHD,0.452,Household Products
+DOV,1.34,Industrial Machinery and Supplies and Components
+HUBS,1.61,Application Software
+TSN,0.743,Packaged Foods and Meats
+TDY,1.08,Electronic Equipment and Instruments
+HPE,1.25,"Technology Hardware, Storage and Peripherals"
+HEI,1.18,Aerospace and Defense
+HEI.A,1.18,Aerospace and Defense
+BAX,0.558,Health Care Equipment
+PPL,0.79,Electric Utilities
+NET,1.03,Internet Services and Infrastructure
+LH,1.06,Health Care Services
+TTWO,0.703,Interactive Home Entertainment
+MTB,0.813,Regional Banks
+RJF,1.07,Investment Banking and Brokerage
+HOLX,1.01,Health Care Equipment
+CLX,0.275,Household Products
+CAH,0.773,Health Care Distributors
+LUV,1.15,Passenger Airlines
+GRMN,0.952,Consumer Electronics
+STLD,1.53,Steel
+INVH,0.894,Single-Family Residential REITs
+OMC,0.852,Advertising
+STE,0.847,Health Care Equipment
+DRI,1.23,Restaurants
+XYL,1.07,Industrial Machinery and Supplies and Components
+CTRA,0.24,Oil and Gas Exploration and Production
+SWKS,1.29,Semiconductors
+PINS,0.988,Interactive Media and Services
+CNP,0.872,Multi-Utilities
+ROL,0.646,Environmental and Facilities Services
+COO,0.892,Health Care Supplies
+NTRS,1.1,Asset Management and Custody Banks
+WAT,0.865,Life Sciences Tools and Services
+WAB,1.48,Construction Machinery and Heavy Transportation Equipment
+JBHT,1.14,Cargo Ground Transportation
+FITB,1.24,Regional Banks
+BMRN,0.389,Biotechnology
+NVR,0.978,Homebuilding
+PFG,1.3,Life and Health Insurance
+CAG,0.544,Packaged Foods and Meats
+CMS,0.334,Multi-Utilities
+PLTR,2.87,Application Software
+FICO,1.27,Application Software
+CINF,0.645,Property and Casualty Insurance
+MAA,0.75,Multi-Family Residential REITs
+PAYC,1.39,Application Software
+FOX,0.869,Broadcasting
+FOXA,0.869,Broadcasting
+SUI,0.713,Single-Family Residential REITs
+HWM,1.3,Aerospace and Defense
+IEX,0.987,Industrial Machinery and Supplies and Components
+RF,1.24,Regional Banks
+VTR,1.22,Health Care REITs
+BALL,0.781,"Metal, Glass and Plastic Containers"
+FWON.A,1.09,Movies and Entertainment
+FWON.K,1.09,Movies and Entertainment
+BR,0.985,Data Processing and Outsourced Services
+EPAM,1.57,IT Consulting and Other Services
+MKL,0.777,Property and Casualty Insurance
+BBY,1.53,Computer and Electronics Retail
+EXPD,0.99,Air Freight and Logistics
+ZS,0.878,Systems Software
+PKI,1.1,Life Sciences Tools and Services
+SJM,0.214,Packaged Foods and Meats
+TER,1.55,Semiconductor Materials and Equipment
+RCL,2.47,"Hotels, Resorts and Cruise Lines"
+AMCR,0.853,Paper and Plastic Packaging Products and Materials
+MGM,2.06,Casinos and Gaming
+TRGP,2.28,Oil and Gas Storage and Transportation
+CPB,0.323,Packaged Foods and Meats
+TW,0.953,Financial Exchanges and Data
+UI,1.26,Communications Equipment
+WRB,0.617,Property and Casualty Insurance
+AXON,0.919,Aerospace and Defense
+ZBRA,1.66,Electronic Equipment and Instruments
+MDB,0.993,Internet Services and Infrastructure
+WPC,0.804,Diversified REITs
+BRO,0.751,Insurance Brokers
+HBAN,1.13,Regional Banks
+LYV,1.31,Movies and Entertainment
+INCY,0.737,Biotechnology
+AES,0.927,Independent Power Producers and Energy Traders
+ATO,0.611,Gas Utilities
+RPRX,0.42,Pharmaceuticals
+LPLA,0.949,Investment Banking and Brokerage
+FDS,0.835,Financial Exchanges and Data
+SPLK,1.29,Application Software
+DGX,0.943,Health Care Services
+COIN,2.95,Financial Exchanges and Data
+MOH,0.657,Managed Health Care
+FLT,1.2,Transaction and Payment Processing Services
+SIRI,0.973,Cable and Satellite
+MOS,1.54,Fertilizers and Agricultural Chemicals
+IRM,0.924,Other Specialized REITs
+AGR,0.416,Electric Utilities
+FMC,0.839,Fertilizers and Agricultural Chemicals
+LW,0.51,Packaged Foods and Meats
+LKQ,1.37,Distributors
+PTC,1.18,Application Software
+RS,0.889,Steel
+MRO,2.38,Oil and Gas Exploration and Production
+ARES,1.36,Asset Management and Custody Banks
+J,0.854,Research and Consulting Services
+EXPE,1.61,"Hotels, Resorts and Cruise Lines"
+TYL,0.813,Application Software
+AZPN,0.934,Application Software
+WLK,1.24,Commodity Chemicals
+MKTX,0.765,Financial Exchanges and Data
+LCID,1.19,Automobile Manufacturers
+CFG,1.34,Regional Banks
+PARA,1.66,Broadcasting
+PARA.A,1.66,Broadcasting
+AVY,0.988,Paper and Plastic Packaging Products and Materials
+UAL,1.44,Passenger Airlines
+TXT,1.49,Aerospace and Defense
+RIVN,2.33,Automobile Manufacturers
+IPG,1.11,Advertising
+BG,0.657,Agricultural Products and Services
+AVTR,1.37,Life Sciences Tools and Services
+CF,1.05,Fertilizers and Agricultural Chemicals
+CBOE,0.483,Financial Exchanges and Data
+BIO,0.925,Life Sciences Tools and Services
+SSNC,1.41,Data Processing and Outsourced Services
+FCNC.A,0.942,Regional Banks
+EVRG,0.474,Electric Utilities
+RE,0.603,Reinsurance
+OKTA,1.12,Internet Services and Infrastructure
+ETSY,1.99,Broadline Retail
+GLPI,1,Other Specialized REITs
+NTAP,1.17,"Technology Hardware, Storage and Peripherals"
+UDR,0.736,Multi-Family Residential REITs
+ESS,0.759,Multi-Family Residential REITs
+BEN,1.31,Asset Management and Custody Banks
+BSY,1.2,Application Software
+LNT,0.516,Electric Utilities
+L,0.828,Property and Casualty Insurance
+POOL,0.933,Distributors
+LSCC,1.29,Semiconductors
+SNA,1.1,Industrial Machinery and Supplies and Components
+TPL,1.92,Oil and Gas Exploration and Production
+PHM,1.32,Homebuilding
+HUBB,1.02,Electrical Components and Equipment
+BURL,1.09,Apparel Retail
+CCL,2.23,"Hotels, Resorts and Cruise Lines"
+TRMB,1.58,Electronic Equipment and Instruments
+NDSN,0.917,Industrial Machinery and Supplies and Components
+WYNN,2.01,Casinos and Gaming
+SYF,1.62,Consumer Finance
+BEPC,0.888,Renewable Electricity
+LDOS,0.77,Research and Consulting Services
+IP,1.04,Paper and Plastic Packaging Products and Materials
+ELS,0.677,Single-Family Residential REITs
+TWLO,1.44,Internet Services and Infrastructure
+PKG,0.901,Paper and Plastic Packaging Products and Materials
+SWK,1.31,Industrial Machinery and Supplies and Components
+ENTG,1.28,Semiconductor Materials and Equipment
+GGG,0.774,Industrial Machinery and Supplies and Components
+BAH,0.6,Research and Consulting Services
+BLDR,1.98,Building Products
+AKAM,0.784,Internet Services and Infrastructure
+DT,1.12,Application Software
+U,2.17,Application Software
+DKS,1.44,Other Specialty Retail
+SRPT,0.969,Biotechnology
+ERIE,0.451,Property and Casualty Insurance
+EXAS,1.42,Biotechnology
+KIM,1.46,Retail REITs
+CE,1.3,Specialty Chemicals
+WDC,1.68,"Technology Hardware, Storage and Peripherals"
+PEAK,0.878,Health Care REITs
+TRU,1.37,Research and Consulting Services
+LBRD.A,1.14,Cable and Satellite
+LBRD.K,1.14,Cable and Satellite
+GDDY,0.968,Internet Services and Infrastructure
+TFX,0.973,Health Care Equipment
+H,1.38,"Hotels, Resorts and Cruise Lines"
+DECK,0.924,Footwear
+ACI,0.349,Food Retail
+CTLT,1.19,Pharmaceuticals
+DOCU,0.997,Application Software
+HST,1.32,Hotel and Resort REITs
+JBL,1.43,Electronic Manufacturing Services
+REXR,0.848,Industrial REITs
+ACM,1.3,Construction and Engineering
+DPZ,0.76,Restaurants
+TECH,1.24,Life Sciences Tools and Services
+TTC,0.732,Agricultural and Farm Machinery
+DOX,0.657,IT Consulting and Other Services
+KEY,1.31,Regional Banks
+CHRW,0.802,Air Freight and Logistics
+BRKR,1.14,Life Sciences Tools and Services
+NI,0.455,Multi-Utilities
+WTRG,0.781,Water Utilities
+CSL,0.932,Building Products
+WSO,0.864,Trading Companies and Distributors
+VTRS,1.19,Pharmaceuticals
+EQT,1.17,Oil and Gas Exploration and Production
+BWA,1.41,Automotive Parts and Equipment
+FIVE,1.15,Other Specialty Retail
+CPT,0.806,Multi-Family Residential REITs
+AMH,0.667,Single-Family Residential REITs
+CDAY,1.45,Application Software
+CG,1.7,Asset Management and Custody Banks
+RPM,0.949,Specialty Chemicals
+TAP,0.856,Brewers
+APA,3.52,Oil and Gas Exploration and Production
+MAS,1.2,Building Products
+LSI,0.604,Self-Storage REITs
+PCTY,1.07,Application Software
+JNPR,0.944,Communications Equipment
+JKHY,0.641,Transaction and Payment Processing Services
+GEN,1.06,Systems Software
+MTCH,1.51,Interactive Media and Services
+HSIC,0.777,Health Care Distributors
+PEN,0.519,Health Care Equipment
+GL,0.801,Life and Health Insurance
+CNA,0.694,Property and Casualty Insurance
+SCI,0.786,Specialized Consumer Services
+CZR,2.9,Casinos and Gaming
+QGEN,0.393,Life Sciences Tools and Services
+FND,1.82,Home Improvement Retail
+REG,1.16,Retail REITs
+AOS,1.26,Building Products
+CUBE,0.591,Self-Storage REITs
+CRBG,2.58,Diversified Financial Services
+Z,1.68,Real Estate Services
+ZG,1.68,Real Estate Services
+UTHR,0.622,Biotechnology
+AFG,0.825,Property and Casualty Insurance
+UHAL,0.992,Cargo Ground Transportation
+UHAL.B,0.992,Cargo Ground Transportation
+CRL,1.36,Life Sciences Tools and Services
+COTY,1.85,Personal Care Products
+CHK,0.665,Oil and Gas Exploration and Production
+RBA,0.907,Diversified Support Services
+BJ,0.476,Consumer Staples Merchandise Retail
+TPR,1.46,"Apparel, Accessories and Luxury Goods"
+LAMR,1.42,Other Specialized REITs
+KMX,1.43,Automotive Retail
+QRVO,1.48,Semiconductors
+AGCO,1.36,Agricultural and Farm Machinery
+EMN,1.5,Specialty Chemicals
+ZI,0.953,Interactive Media and Services
+NWS,1.32,Publishing
+NWSA,1.32,Publishing
+CCK,1.05,"Metal, Glass and Plastic Containers"
+AGL,1.2,Health Care Services
+PAG,1.24,Automotive Retail
+PATH,1.59,Systems Software
+NBIX,0.497,Biotechnology
+LECO,1.15,Industrial Machinery and Supplies and Components
+MASI,0.856,Health Care Equipment
+MANH,1.57,Application Software
+WSC,1.52,Construction and Engineering
+AAL,1.55,Passenger Airlines
+CHDN,1.12,Casinos and Gaming
+FHN,0.945,Regional Banks
+FNF,1.4,Property and Casualty Insurance
+DINO,1.38,Oil and Gas Refining and Marketing
+OSH,2.23,Health Care Services
+NLY,1.43,Mortgage REITs
+CLF,2.24,Steel
+MTN,1.2,Leisure Facilities
+PFGC,1.36,Food Distributors
+ALLE,1.11,Building Products
+RGEN,1.09,Life Sciences Tools and Services
+TOST,1.98,Transaction and Payment Processing Services
+DAR,1.27,Agricultural Products and Services
+ARMK,1.67,Restaurants
+RRX,1.07,Electrical Components and Equipment
+JAZZ,0.731,Pharmaceuticals
+ROKU,1.78,Movies and Entertainment
+ALGM,1.7,Semiconductors
+EQH,1.44,Diversified Financial Services
+VST,0.942,Independent Power Producers and Energy Traders
+LSXM.A,1.13,Cable and Satellite
+LSXM.K,1.13,Cable and Satellite
+PNR,1.09,Industrial Machinery and Supplies and Components
+KNX,1.17,Cargo Ground Transportation
+SNX,1.56,Technology Distributors
+UHS,1.25,Health Care Facilities
+PNW,0.426,Electric Utilities
+DKNG,1.8,Casinos and Gaming
+BKI,0.496,Application Software
+LII,0.931,Building Products
+VFC,1.48,"Apparel, Accessories and Luxury Goods"
+RGA,0.915,Reinsurance
+PCOR,1.65,Application Software
+FFIV,1.09,Communications Equipment
+RNR,0.427,Reinsurance
+OVV,3.57,Oil and Gas Exploration and Production
+HOOD,1.54,Investment Banking and Brokerage
+OC,1.42,Building Products
+BILL,1.99,Application Software
+MORN,1.19,Financial Exchanges and Data
+USFD,1.48,Food Distributors
+CGNX,1.6,Electronic Equipment and Instruments
+RHI,1.32,Human Resource and Employment Services
+RGLD,0.624,Gold
+IBKR,0.785,Investment Banking and Brokerage
+G,1.21,Data Processing and Outsourced Services
+BXP,1.11,Office REITs
+XRAY,0.928,Health Care Supplies
+BBWI,1.76,Other Specialty Retail
+HII,0.636,Aerospace and Defense
+LEA,1.54,Automotive Parts and Equipment
+DLB,1.01,Systems Software
+WOLF,1.55,Semiconductors
+CASY,0.816,Food Retail
+WSM,1.6,Homefurnishing Retail
+FRT,1.22,Retail REITs
+NNN,0.874,Retail REITs
+CHE,0.519,Health Care Services
+NRG,0.972,Electric Utilities
+WEX,1.59,Transaction and Payment Processing Services
+DCI,1.22,Industrial Machinery and Supplies and Components
+SWAV,0.968,Health Care Equipment
+WCC,1.97,Trading Companies and Distributors
+MIDD,1.52,Industrial Machinery and Supplies and Components
+IRDM,1.11,Alternative Carriers
+CIEN,0.971,Communications Equipment
+GPK,0.975,Paper and Plastic Packaging Products and Materials
+EWBC,1.44,Regional Banks
+TTEK,0.962,Environmental and Facilities Services
+CROX,1.89,Footwear
+UNM,1.07,Life and Health Insurance
+WRK,1.2,Paper and Plastic Packaging Products and Materials
+EME,1.09,Construction and Engineering
+DBX,0.833,Application Software
+ATR,0.628,"Metal, Glass and Plastic Containers"
+SEIC,1.02,Asset Management and Custody Banks
+PSTG,1.26,"Technology Hardware, Storage and Peripherals"
+CLH,1.38,Environmental and Facilities Services
+RL,1.39,"Apparel, Accessories and Luxury Goods"
+CAR,2.35,Passenger Ground Transportation
+COLD,0.506,Industrial REITs
+ALLY,1.35,Consumer Finance
+ST,1.33,Electrical Components and Equipment
+APLS,1.19,Biotechnology
+AA,2.45,Aluminum
+OGE,0.688,Electric Utilities
+KBR,1.13,Research and Consulting Services
+IVZ,1.35,Asset Management and Custody Banks
+FBIN,1.57,Building Products
+HAS,0.739,Leisure Products
+SKX,1.32,Footwear
+HR,0.648,Health Care REITs
+DVA,0.954,Health Care Services
+OLED,1.44,Semiconductors
+NOV,1.91,Oil and Gas Equipment and Services
+UGI,1.1,Gas Utilities
+CBSH,0.757,Regional Banks
+ARW,1.41,Technology Distributors
+OLN,1.46,Commodity Chemicals
+MTZ,1.39,Construction and Engineering
+ORI,0.842,Property and Casualty Insurance
+TXRH,0.944,Restaurants
+JEF,1.42,Investment Banking and Brokerage
+SAIA,1.52,Cargo Ground Transportation
+WHR,1.5,Household Appliances
+EGP,0.939,Industrial REITs
+AAP,1.14,Automotive Retail
+BERY,1.17,"Metal, Glass and Plastic Containers"
+ITT,1.43,Industrial Machinery and Supplies and Components
+CELH,1.84,Soft Drinks and Non-alcoholic Beverages
+NVT,1.33,Electrical Components and Equipment
+FR,0.99,Industrial REITs
+CFLT,2.44,Application Software
+GME,-0.12,Computer and Electronics Retail
+PLUG,1.81,Electrical Components and Equipment
+VOYA,1.16,Diversified Financial Services
+GLOB,1.43,IT Consulting and Other Services
+KNSL,0.865,Property and Casualty Insurance
+JLL,1.29,Real Estate Services
+NATI,1.19,Electronic Equipment and Instruments
+WBS,1.28,Regional Banks
+WMS,1.41,Building Products
+INSP,1.46,Health Care Equipment
+AR,3.5,Oil and Gas Exploration and Production
+VMI,1.08,Construction and Engineering
+TPX,1.73,Home Furnishings
+WWE,1.18,Movies and Entertainment
+KRTX,1.17,Biotechnology
+CFR,1.06,Regional Banks
+CACI,0.972,Research and Consulting Services
+CW,1.24,Aerospace and Defense
+GWRE,1.24,Application Software
+INGR,0.76,Agricultural Products and Services
+RBC,1.42,Industrial Machinery and Supplies and Components
+AXTA,1.43,Specialty Chemicals
+GNRC,1.18,Electrical Components and Equipment
+NVST,1.42,Health Care Equipment
+TOL,1.38,Homebuilding
+LFUS,1.26,Electronic Components
+PLNT,1.3,Leisure Facilities
+SEE,1.25,Paper and Plastic Packaging Products and Materials
+BLD,1.48,Homebuilding
+ACHC,1.32,Health Care Facilities
+GNTX,0.911,Automotive Parts and Equipment
+ADT,1.75,Specialized Consumer Services
+FCN,0.269,Research and Consulting Services
+MAT,1.2,Leisure Products
+BYD,1.81,Casinos and Gaming
+BRX,1.56,Retail REITs
+LSTR,0.902,Cargo Ground Transportation
+TXG,1.73,Life Sciences Tools and Services
+OHI,0.969,Health Care REITs
+CR,1.5,Industrial Machinery and Supplies and Components
+NYT,0.98,Publishing
+RRC,2.13,Oil and Gas Exploration and Production
+AMKR,1.77,Semiconductor Materials and Equipment
+MHK,1.28,Home Furnishings
+AIZ,0.535,Multi-line Insurance
+NXST,1.5,Broadcasting
+CLVT,1.11,Research and Consulting Services
+NVCR,0.828,Health Care Equipment
+SMAR,1.07,Application Software
+PII,1.62,Leisure Products
+PRI,1.2,Life and Health Insurance
+SF,1.29,Investment Banking and Brokerage
+AN,1.11,Automotive Retail
+LAD,1.41,Automotive Retail
+EXEL,0.689,Biotechnology
+NTRA,1.2,Biotechnology
+DOCS,1.75,Health Care Technology
+RCM,0.818,Health Care Services
+CNXC,0.658,Data Processing and Outsourced Services
+MDU,0.756,Construction and Engineering
+ADC,0.476,Retail REITs
+NYCB,1.05,Regional Banks
+SITE,1.44,Trading Companies and Distributors
+NFE,1.62,Oil and Gas Storage and Transportation
+THC,2.14,Health Care Facilities
+AQUA,1.81,Industrial Machinery and Supplies and Components
+STAG,1.01,Industrial REITs
+RLI,0.397,Property and Casualty Insurance
+CRUS,0.987,Semiconductors
+VVV,1.38,Commodity Chemicals
+HLI,0.799,Investment Banking and Brokerage
+GXO,1.84,Air Freight and Logistics
+OGN,0.752,Pharmaceuticals
+CHH,1.27,"Hotels, Resorts and Cruise Lines"
+NTNX,1.3,Application Software
+SON,0.696,Paper and Plastic Packaging Products and Materials
+X,2.21,Steel
+APP,1.96,Application Software
+QDEL,0.255,Health Care Equipment
+TKR,1.54,Industrial Machinery and Supplies and Components
+CPRI,2.29,"Apparel, Accessories and Luxury Goods"
+MKSI,1.56,Semiconductor Materials and Equipment
+SLGN,0.798,"Metal, Glass and Plastic Containers"
+DXC,1.97,IT Consulting and Other Services
+IPGP,1.22,Electronic Manufacturing Services
+SAIC,0.675,Research and Consulting Services
+WH,1.42,"Hotels, Resorts and Cruise Lines"
+BC,1.53,Leisure Products
+MEDP,1.42,Life Sciences Tools and Services
+WWD,1.46,Aerospace and Defense
+AGNC,1.21,Mortgage REITs
+DUOL,1.01,Education Services
+FLO,0.39,Packaged Foods and Meats
+AYI,1.59,Electrical Components and Equipment
+REYN,0.469,Household Products
+ALTR,1.45,Application Software
+MUR,2.37,Oil and Gas Exploration and Production
+BWXT,0.793,Aerospace and Defense
+HXL,1.25,Aerospace and Defense
+SIGI,0.624,Property and Casualty Insurance
+FAF,1.28,Property and Casualty Insurance
+CMC,1.3,Steel
+SMCI,1.26,"Technology Hardware, Storage and Peripherals"
+CMA,1.23,Regional Banks
+OPCH,1.27,Health Care Services
+NOVT,1.31,Electronic Equipment and Instruments
+GMED,1.05,Health Care Equipment
+NCLH,2.51,"Hotels, Resorts and Cruise Lines"
+MTDR,3.56,Oil and Gas Exploration and Production
+PDCE,2.55,Oil and Gas Exploration and Production
+SOFI,1.72,Consumer Finance
+BOKF,1.24,Regional Banks
+LNTH,0.64,Health Care Supplies
+SRC,1.31,Retail REITs
+MUSA,0.816,Automotive Retail
+PB,1,Regional Banks
+WTS,1.01,Industrial Machinery and Supplies and Components
+COLM,0.938,"Apparel, Accessories and Luxury Goods"
+CCCS,0.758,Application Software
+CHRD,1.22,Oil and Gas Exploration and Production
+SLAB,1.11,Semiconductors
+CACC,1.31,Consumer Finance
+LANC,0.21,Packaged Foods and Meats
+PVH,2.08,"Apparel, Accessories and Luxury Goods"
+PBF,1.94,Oil and Gas Refining and Marketing
+ESTC,1.07,Application Software
+FYBR,1.2,Integrated Telecommunication Services
+RMBS,1.29,Semiconductors
+EEFT,1.35,Transaction and Payment Processing Services
+ASH,1,Specialty Chemicals
+SPSC,0.771,Application Software
+HOG,1.42,Motorcycle Manufacturers
+ATKR,2.22,Electrical Components and Equipment
+UNVR,1.7,Trading Companies and Distributors
+SWN,1.29,Oil and Gas Exploration and Production
+WING,1.56,Restaurants
+STWD,1.62,Mortgage REITs
+PPC,0.986,Packaged Foods and Meats
+AIT,1.19,Trading Companies and Distributors
+CIVI,1.78,Oil and Gas Exploration and Production
+IDA,0.588,Electric Utilities
+LNW,1.81,Casinos and Gaming
+OSK,1.4,Construction Machinery and Heavy Transportation Equipment
+WK,1.15,Application Software
+VRT,1.89,Electrical Components and Equipment
+SSB,0.808,Regional Banks
+TENB,1.24,Systems Software
+EHC,0.944,Health Care Facilities
+EXLS,1.02,Data Processing and Outsourced Services
+CHX,2.59,Oil and Gas Equipment and Services
+RH,2.09,Homefurnishing Retail
+HRB,0.685,Specialized Consumer Services
+IGT,1.87,Casinos and Gaming
+ALK,1.54,Passenger Airlines
+TRNO,0.832,Industrial REITs
+AIRC,0.938,Multi-Family Residential REITs
+ENSG,1.01,Health Care Facilities
+NE,0.994,Oil and Gas Drilling
+NFG,0.683,Gas Utilities
+TREX,1.49,Building Products
+COHR,1.52,Electronic Components
+EXP,1.3,Construction Materials
+POST,0.64,Packaged Foods and Meats
+WIX,1.21,Internet Services and Infrastructure
+APG,1.5,Construction and Engineering
+GTLS,1.47,Industrial Machinery and Supplies and Components
+HTZ,1.35,Passenger Ground Transportation
+DDS,0.966,Broadline Retail
+MSA,0.931,Office Services and Supplies
+FIX,1.22,Construction and Engineering
+BIPC,1.23,Gas Utilities
+NEWR,0.897,Application Software
+HALO,1.26,Biotechnology
+AAON,0.78,Building Products
+ITCI,1.13,Pharmaceuticals
+NJR,0.655,Gas Utilities
+NWL,0.936,Housewares and Specialties
+FIVN,0.719,Application Software
+FOXF,1.85,Automotive Parts and Equipment
+DNB,0.969,Research and Consulting Services
+IONS,0.569,Biotechnology
+AMG,1.36,Asset Management and Custody Banks
+RXDX,-0.489,Biotechnology
+DRVN,0.793,Diversified Support Services
+ATI,1.22,Steel
+ORA,0.477,Renewable Electricity
+SHC,2.09,Life Sciences Tools and Services
+EXPO,0.65,Research and Consulting Services
+HUN,1.17,Diversified Chemicals
+ASO,1.14,Other Specialty Retail
+AM,2.25,Oil and Gas Storage and Transportation
+COKE,0.913,Soft Drinks and Non-alcoholic Beverages
+MTSI,1.91,Semiconductors
+MP,2.79,Diversified Metals and Mining
+VAC,2.08,"Hotels, Resorts and Cruise Lines"
+HGV,2.04,"Hotels, Resorts and Cruise Lines"
+DV,1.56,Application Software
+HQY,0.797,Managed Health Care
+UFPI,1.5,Building Products
+DISH,1.84,Cable and Satellite
+OWL,1.32,Asset Management and Custody Banks
+FIZZ,0.988,Soft Drinks and Non-alcoholic Beverages
+MPW,1,Health Care REITs
+RYN,0.968,Timber REITs
+RHP,1.58,Hotel and Resort REITs
+VAL,1.01,Oil and Gas Drilling
+PRGO,0.799,Pharmaceuticals
+TNET,1.16,Human Resource and Employment Services
+NSIT,1.56,Technology Distributors
+POWI,1.19,Semiconductors
+QLYS,0.624,Systems Software
+DTM,0.553,Oil and Gas Storage and Transportation
+MMS,0.694,Data Processing and Outsourced Services
+SNDR,1,Cargo Ground Transportation
+M,1.86,Broadline Retail
+UBSI,1.07,Regional Banks
+S,1.94,Systems Software
+MSM,0.96,Trading Companies and Distributors
+VLY,1.13,Regional Banks
+IART,1.13,Health Care Equipment
+PSN,0.837,Aerospace and Defense
+PYCR,1.53,Application Software
+SSD,1.21,Building Products
+ESI,1.35,Specialty Chemicals
+GBCI,0.804,Regional Banks
+INFA,1.53,Application Software
+MSGS,0.647,Movies and Entertainment
+ALKS,0.603,Biotechnology
+ELAN,0.952,Pharmaceuticals
+WEN,0.897,Restaurants
+AXS,0.825,Property and Casualty Insurance
+NSP,1.23,Human Resource and Employment Services
+THG,0.676,Property and Casualty Insurance
+KRG,1.37,Retail REITs
+IAC,1.15,Interactive Media and Services
+ALIT,1.33,Human Resource and Employment Services
+IPAR,1.03,Personal Care Products
+ABG,1.14,Automotive Retail
+RYAN,0.254,Insurance Brokers
+PENN,2.22,Casinos and Gaming
+OGS,0.673,Gas Utilities
+BRBR,0.926,Personal Care Products
+ASAN,1.23,Application Software
+FFIN,0.754,Regional Banks
+AJRD,0.549,Aerospace and Defense
+SNV,1.39,Regional Banks
+OMF,1.72,Consumer Finance
+COLB,0.957,Regional Banks
+FLS,1.62,Industrial Machinery and Supplies and Components
+CC,1.88,Diversified Chemicals
+SWX,0.268,Gas Utilities
+EVR,1.53,Investment Banking and Brokerage
+WTFC,1.2,Regional Banks
+BFAM,1.21,Education Services
+ZION,1.17,Regional Banks
+SYNA,1.58,Semiconductors
+VC,1.82,Automotive Parts and Equipment
+HOMB,1.18,Regional Banks
+FCFS,0.79,Consumer Finance
+APPF,0.974,Application Software
+JHG,1.45,Asset Management and Custody Banks
+FLR,2.3,Construction and Engineering
+MDGL,-0.562,Biotechnology
+ELF,1.49,Personal Care Products
+SEB,0.464,Packaged Foods and Meats
+POR,0.583,Electric Utilities
+AL,1.8,Trading Companies and Distributors
+DEN,1.49,Oil and Gas Exploration and Production
+ACLS,1.72,Semiconductor Materials and Equipment
+FN,1.17,Electronic Manufacturing Services
+FELE,0.98,Industrial Machinery and Supplies and Components
+ESNT,1.18,Commercial and Residential Mortgage Finance
+FOUR,1.21,Transaction and Payment Processing Services
+RUN,2.3,Electrical Components and Equipment
+CBT,1.35,Commodity Chemicals
+SGRY,2.73,Health Care Facilities
+SQSP,0.689,Internet Services and Infrastructure
+ONTO,1.32,Semiconductor Materials and Equipment
+SKY,1.65,Homebuilding
+CWST,0.934,Environmental and Facilities Services
+MTH,1.56,Homebuilding
+THO,1.78,Automobile Manufacturers
+VNT,1.28,Electronic Equipment and Instruments
+LEG,1.33,Home Furnishings
+MMSI,0.985,Health Care Supplies
+DIOD,1.49,Semiconductors
+ONB,0.835,Regional Banks
+TDOC,1.08,Health Care Technology
+WFRD,2.09,Oil and Gas Equipment and Services
+HE,0.408,Electric Utilities
+MGY,2.15,Oil and Gas Exploration and Production
+MAN,1.66,Human Resource and Employment Services
+PNFP,1.13,Regional Banks
+MLI,1.11,Industrial Machinery and Supplies and Components
+FNB,1.12,Regional Banks
+KEX,1.26,Marine Transportation
+BKH,0.562,Multi-Utilities
+PNM,0.4,Electric Utilities
+WU,0.899,Transaction and Payment Processing Services
+HAE,0.423,Health Care Supplies
+ALSN,0.989,Construction Machinery and Heavy Transportation Equipment
+R,1.58,Cargo Ground Transportation
+TMHC,1.7,Homebuilding
+BPOP,0.869,Regional Banks
+AVT,1.37,Technology Distributors
+BE,2.89,Heavy Electrical Equipment
+PLTK,0.652,Interactive Home Entertainment
+AYX,0.535,Application Software
+CVT,1.07,Application Software
+ASGN,1.65,Human Resource and Employment Services
+TDC,0.911,Systems Software
+BCPC,0.692,Specialty Chemicals
+BL,0.906,Application Software
+SRCL,1.26,Environmental and Facilities Services
+CABO,0.827,Cable and Satellite
+SAM,1.05,Brewers
+MODG,1.75,Leisure Products
+NEOG,0.956,Health Care Supplies
+OZK,1.4,Regional Banks
+PEGA,1.03,Application Software
+UA,1.63,"Apparel, Accessories and Luxury Goods"
+UAA,1.63,"Apparel, Accessories and Luxury Goods"
+CNM,1.19,Trading Companies and Distributors
+ICUI,0.615,Health Care Supplies
+SMPL,0.776,Packaged Foods and Meats
+HHC,1.45,Real Estate Development
+PCH,1.18,Timber REITs
+GTES,1.53,Industrial Machinery and Supplies and Components
+PTON,1.95,Leisure Products
+SEAS,2,Leisure Facilities
+ADNT,2.78,Automotive Parts and Equipment
+LPX,1.65,Forest Products
+SMG,1.65,Fertilizers and Agricultural Chemicals
+LTHM,1.83,Specialty Chemicals
+MTG,1.36,Commercial and Residential Mortgage Finance
+GATX,1.07,Trading Companies and Distributors
+SHLS,2.16,Electrical Components and Equipment
+BOX,1.07,Application Software
+WAL,1.44,Regional Banks
+MAXR,0.88,Aerospace and Defense
+PINC,0.289,Health Care Services
+HL,2.03,Silver
+CERT,1.45,Health Care Technology
+PECO,0.22,Retail REITs
+CERE,1.53,Biotechnology
+LNC,1.79,Life and Health Insurance
+DOCN,1.15,Internet Services and Infrastructure
+W,3.1,Homefurnishing Retail
+KRC,0.886,Office REITs
+RITM,1.78,Mortgage REITs
+CADE,1.01,Regional Banks
+BECN,1.59,Trading Companies and Distributors
+TGNA,0.639,Broadcasting
+AI,1.4,Application Software
+NSA,0.744,Self-Storage REITs
+ZWS,1.07,Building Products
+AVNT,1.55,Specialty Chemicals
+IRTC,1.41,Health Care Equipment
+HP,1.66,Oil and Gas Drilling
+BDC,1.33,Electronic Components
+FL,1.23,Apparel Retail
+ACT,0.628,Commercial and Residential Mortgage Finance
+BTU,1.06,Coal and Consumable Fuels
+INST,0.951,Application Software
+LITE,1.1,Communications Equipment
+GPS,1.93,Apparel Retail
+ZD,1.1,Interactive Media and Services
+ALE,0.714,Electric Utilities
+FRO,0.261,Oil and Gas Storage and Transportation
+SR,0.494,Gas Utilities
+FUL,1.53,Specialty Chemicals
+XPO,1.99,Cargo Ground Transportation
+SYNH,1.66,Life Sciences Tools and Services
+AEIS,1.56,Electronic Equipment and Instruments
+CPA,1.32,Passenger Airlines
+CHPT,1.72,Electrical Components and Equipment
+SPR,1.65,Aerospace and Defense
+CWEN,0.823,Renewable Electricity
+CWEN.A,0.823,Renewable Electricity
+SFM,0.387,Food Retail
+QS,5.27,Automotive Parts and Equipment
+BLKB,1.15,Application Software
+IRT,1,Multi-Family Residential REITs
+OLLI,0.961,Broadline Retail
+EPRT,1.3,Diversified REITs
+ESGR,0.596,Reinsurance
+PTCT,0.4,Biotechnology
+BMI,0.891,Electronic Equipment and Instruments
+SANM,1.17,Electronic Manufacturing Services
+ESAB,1.06,Industrial Machinery and Supplies and Components
+KWR,1.42,Specialty Chemicals
+EVH,1.56,Health Care Technology
+DOC,0.776,Health Care REITs
+ENS,1.38,Electrical Components and Equipment
+APLE,1.19,Hotel and Resort REITs
+AZEK,1.62,Building Products
+PI,2.25,Semiconductors
+CALX,1.56,Communications Equipment
+TRTN,1.36,Trading Companies and Distributors
+NEU,0.375,Specialty Chemicals
+OI,1.36,"Metal, Glass and Plastic Containers"
+SIG,2.19,Other Specialty Retail
+LYFT,1.75,Passenger Ground Transportation
+TFSL,0.5,Commercial and Residential Mortgage Finance
+WTM,0.408,Property and Casualty Insurance
+KMPR,0.904,Property and Casualty Insurance
+LOPE,0.602,Education Services
+JBT,1.4,Industrial Machinery and Supplies and Components
+RDN,1.16,Commercial and Residential Mortgage Finance
+YETI,2.5,Leisure Products
+NWE,0.444,Multi-Utilities
+SM,4.42,Oil and Gas Exploration and Production
+FOCS,1.32,Asset Management and Custody Banks
+KOS,2.78,Oil and Gas Exploration and Production
+NNI,0.841,Consumer Finance
+GOLF,0.786,Leisure Products
+AMN,0.338,Health Care Services
+FHI,1.02,Asset Management and Custody Banks
+ZGN,0.258,"Apparel, Accessories and Luxury Goods"
+WIRE,1.33,Electrical Components and Equipment
+MSTR,2.4,Application Software
+SUM,1.43,Construction Materials
+KD,1.34,IT Consulting and Other Services
+NARI,1.1,Health Care Equipment
+SPT,0.91,Application Software
+CYTK,0.85,Biotechnology
+RETA,1.27,Pharmaceuticals
+ISEE,1.1,Biotechnology
+TWNK,0.591,Packaged Foods and Meats
+HRI,2.52,Trading Companies and Distributors
+AFRM,3.29,Transaction and Payment Processing Services
+NCR,1.67,Application Software
+ARRY,2,Electrical Components and Equipment
+KBH,1.58,Homebuilding
+HI,1.48,Industrial Machinery and Supplies and Components
+CVI,1.52,Oil and Gas Refining and Marketing
+TEX,1.68,Construction Machinery and Heavy Transportation Equipment
+FSS,1.07,Construction Machinery and Heavy Transportation Equipment
+UNF,0.912,Diversified Support Services
+SEM,1.4,Health Care Facilities
+GEF,1.01,"Metal, Glass and Plastic Containers"
+GEF.B,1.01,"Metal, Glass and Plastic Containers"
+AWR,0.413,Water Utilities
+NTLA,1.92,Biotechnology
+CRVL,1.06,Health Care Services
+CUZ,1.1,Office REITs
+AWI,1.14,Building Products
+CWT,0.479,Water Utilities
+UCBI,0.994,Regional Banks
+APPN,1.63,Systems Software
+FLYW,2,Transaction and Payment Processing Services
+SXT,0.892,Specialty Chemicals
+SPXC,1.24,Industrial Machinery and Supplies and Components
+IBP,1.69,Homebuilding
+MOG.A,1.24,Aerospace and Defense
+ESMT,1.26,Application Software
+PD,0.908,Application Software
+AVA,0.489,Multi-Utilities
+BNL,1.16,Diversified REITs
+FRPT,0.995,Packaged Foods and Meats
+VSH,1.3,Electronic Components
+PRVA,0.757,Health Care Services
+STNG,0.412,Oil and Gas Storage and Transportation
+ENV,1.22,Application Software
+CNMD,1.36,Health Care Equipment
+PWSC,1.17,Application Software
+DNLI,1.38,Biotechnology
+WOR,1.26,Steel
+CNS,1.34,Asset Management and Custody Banks
+PR,4.56,Oil and Gas Exploration and Production
+FOLD,0.817,Biotechnology
+HWC,1.37,Regional Banks
+SSRM,0.921,Gold
+GT,1.82,Tires and Rubber
+FIBK,0.868,Regional Banks
+BCO,1.35,Security and Alarm Services
+LTH,2.13,Leisure Facilities
+VIR,0.262,Biotechnology
+PBH,0.564,Pharmaceuticals
+GPI,1.49,Automotive Retail
+AEL,0.904,Life and Health Insurance
+SITM,1.86,Semiconductors
+STAA,1.23,Health Care Supplies
+AZTA,1.58,Life Sciences Tools and Services
+JXN,1.49,Diversified Financial Services
+ACA,0.547,Construction and Engineering
+ACAD,0.581,Biotechnology
+TR,0.148,Packaged Foods and Meats
+BXMT,1.39,Mortgage REITs
+ROG,0.983,Electronic Components
+TNL,1.7,"Hotels, Resorts and Cruise Lines"
+RUSH.A,0.92,Trading Companies and Distributors
+RUSH.B,0.92,Trading Companies and Distributors
+LXP,0.852,Industrial REITs
+OTTR,0.495,Electric Utilities
+CCOI,0.43,Alternative Carriers
+AMBA,1.53,Semiconductors
+PCVX,0.998,Biotechnology
+PGNY,1.56,Managed Health Care
+CRK,1.2,Oil and Gas Exploration and Production
+SLM,1.23,Consumer Finance
+KLIC,1.4,Semiconductor Materials and Equipment
+BHF,1.32,Life and Health Insurance
+CALM,-0.077,Packaged Foods and Meats
+STNE,2.23,Transaction and Payment Processing Services
+PFSI,1.48,Commercial and Residential Mortgage Finance
+AGO,1.12,Property and Casualty Insurance
+SFBS,0.891,Regional Banks
+ABM,1.11,Environmental and Facilities Services
+MRCY,1.01,Aerospace and Defense
+RNG,0.944,Application Software
+INDB,0.843,Regional Banks
+RELY,1.36,Transaction and Payment Processing Services
+VNO,1.36,Office REITs
+ACIW,1.1,Application Software
+ENOV,2.09,Health Care Equipment
+BOWL,0.323,Leisure Facilities
+LAZ,1.4,Investment Banking and Brokerage
+WERN,0.884,Cargo Ground Transportation
+COOP,1.57,Commercial and Residential Mortgage Finance
+PACB,1.66,Life Sciences Tools and Services
+EPR,1.68,Other Specialized REITs
+INTA,1.17,Application Software
+HLNE,1.08,Asset Management and Custody Banks
+JJSF,0.538,Packaged Foods and Meats
+GHC,1.03,Education Services
+FWRD,1.13,Air Freight and Logistics
+CBU,0.646,Regional Banks
+THS,0.429,Packaged Foods and Meats
+MDC,1.36,Homebuilding
+MXL,1.93,Semiconductors
+RARE,0.939,Biotechnology
+MGEE,0.685,Electric Utilities
+HUBG,0.928,Air Freight and Logistics
+UMBF,0.833,Regional Banks
+TRIP,1.4,Interactive Media and Services
+VRNS,0.88,Systems Software
+LFST,1.55,Health Care Services
+AIN,1.34,Industrial Machinery and Supplies and Components
+OLPX,1.48,Personal Care Products
+NCNO,0.36,Application Software
+SHOO,1.15,Footwear
+LCII,1.48,Automotive Parts and Equipment
+CVCO,1.19,Homebuilding
+GO,-0.017,Food Retail
+RPD,1.13,Systems Software
+DNA,2.44,Specialty Chemicals
+ARWR,1.04,Biotechnology
+DY,1.29,Construction and Engineering
+PK,2,Hotel and Resort REITs
+CRC,1.68,Oil and Gas Exploration and Production
+BANF,1.09,Regional Banks
+JOBY,1.63,Passenger Airlines
+AXNX,0.409,Health Care Equipment
+SPB,1.4,Household Products
+DORM,0.581,Automotive Parts and Equipment
+KFY,1.46,Human Resource and Employment Services
+CRI,1.26,"Apparel, Accessories and Luxury Goods"
+PLXS,1.11,Electronic Manufacturing Services
+RVNC,0.861,Pharmaceuticals
+BPMC,0.692,Biotechnology
+CNX,1.33,Oil and Gas Exploration and Production
+KTB,1.19,"Apparel, Accessories and Luxury Goods"
+AXSM,1.95,Pharmaceuticals
+LGIH,1.63,Homebuilding
+REZI,1.96,Building Products
+OUT,1.76,Other Specialized REITs
+BRC,0.784,Commercial Printing
+ASB,1.01,Regional Banks
+OFC,1.04,Office REITs
+IBOC,1.03,Regional Banks
+SBRA,1.3,Health Care REITs
+NGVT,1.83,Specialty Chemicals
+WHD,1.94,Oil and Gas Equipment and Services
+BBIO,0.627,Biotechnology
+VSCO,1.62,Apparel Retail
+LUMN,1.04,Alternative Carriers
+MCW,1.32,Specialized Consumer Services
+OMCL,0.894,Health Care Equipment
+FHB,1.05,Regional Banks
+AEO,1.51,Apparel Retail
+AUB,1.06,Regional Banks
+DSEY,2.01,Specialty Chemicals
+TNDM,0.838,Health Care Equipment
+PDCO,1.27,Health Care Distributors
+DNUT,1.11,Restaurants
+ARNC,1.94,Aluminum
+KSS,1.72,Broadline Retail
+JWN,2.26,Broadline Retail
+FRC,1.15,Regional Banks
+HPK,0.762,Oil and Gas Exploration and Production
+SSTK,1.22,Interactive Media and Services
+AMC,2.04,Movies and Entertainment
+HASI,1.66,Mortgage REITs
+PZZA,1.1,Restaurants
+VSAT,1.27,Communications Equipment
+SITC,1.55,Retail REITs
+NOG,2.05,Oil and Gas Exploration and Production
+TPH,1.43,Homebuilding
+ITGR,1.11,Health Care Equipment
+RRR,2.2,Casinos and Gaming
+AMRC,1.15,Construction and Engineering
+URBN,1.48,Apparel Retail
+PRTA,0.412,Biotechnology
+CNO,1.17,Life and Health Insurance
+BMBL,1.92,Interactive Media and Services
+IOSP,1.16,Specialty Chemicals
+WD,1.37,Commercial and Residential Mortgage Finance
+VRRM,1.19,Data Processing and Outsourced Services
+ABCB,1.14,Regional Banks
+CVLT,0.572,Systems Software
+ITRI,1.34,Electronic Equipment and Instruments
+CBRL,1.34,Restaurants
+ETRN,1.99,Oil and Gas Storage and Transportation
+SAGE,1.15,Biotechnology
+BCC,1.54,Trading Companies and Distributors
+CATY,1.17,Regional Banks
+PRFT,1.53,IT Consulting and Other Services
+PTEN,2.31,Oil and Gas Drilling
+SONO,1.86,Consumer Electronics
+ALRM,1.02,Application Software
+HAYW,0.979,Building Products
+PRGS,0.984,Systems Software
+CBZ,0.76,Research and Consulting Services
+ENR,0.994,Household Products
+GNW,1.06,Life and Health Insurance
+GLNG,0.669,Oil and Gas Storage and Transportation
+EXTR,1.97,Communications Equipment
+ARCH,0.746,Coal and Consumable Fuels
+ESE,1.12,Industrial Machinery and Supplies and Components
+MQ,1.39,Transaction and Payment Processing Services
+MC,1.47,Investment Banking and Brokerage
+FORM,1.23,Semiconductor Materials and Equipment
+PRMW,1.11,Soft Drinks and Non-alcoholic Beverages
+HIW,1.13,Office REITs
+TMDX,1.46,Health Care Equipment
+AMBP,0.686,"Metal, Glass and Plastic Containers"
+VIAV,0.826,Communications Equipment
+KAI,1.21,Industrial Machinery and Supplies and Components
+LGF.A,1.48,Movies and Entertainment
+LGF.B,1.48,Movies and Entertainment
+JOE,1.27,Diversified Real Estate Activities
+VRNT,0.922,Application Software
+SPWR,1.69,Electrical Components and Equipment
+WDFC,-0.18,Household Products
+XRX,1.71,"Technology Hardware, Storage and Peripherals"
+GH,0.857,Health Care Services
+NABL,0.672,Systems Software
+WOOF,1.07,Other Specialty Retail
+GKOS,1.24,Health Care Equipment
+JAMF,0.442,Application Software
+LAZR,1.63,Automotive Parts and Equipment
+AMED,1.04,Health Care Services
+CWK,1.37,Real Estate Services
+GMS,1.85,Trading Companies and Distributors
+YOU,1.47,Application Software
+MTRN,1.08,Diversified Metals and Mining
+JBLU,1.61,Passenger Airlines
+TCBI,1.31,Regional Banks
+FLNC,1.99,Electrical Components and Equipment
+ENVX,0.984,Electrical Components and Equipment
+SJW,0.572,Water Utilities
+AMR,1.31,Steel
+CORT,0.481,Pharmaceuticals
+LIVN,0.872,Health Care Equipment
+TWKS,1.5,IT Consulting and Other Services
+CVBF,0.405,Regional Banks
+INSM,1.57,Biotechnology
+AMK,1.04,Asset Management and Custody Banks
+FCPT,0.928,Other Specialized REITs
+WSFS,0.998,Regional Banks
+FULT,0.816,Regional Banks
+AVAV,0.596,Aerospace and Defense
+RVMD,1.49,Biotechnology
+SCL,0.834,Specialty Chemicals
+FG,2.078,Life and Health Insurance
+RXO,2.820666667,Cargo Ground Transportation
+KW,1.18,Real Estate Operating Companies
+BOOT,2.35,Apparel Retail
+PRVB,2.18,Pharmaceuticals
+HELE,0.651,Household Appliances
+PPBI,1.23,Regional Banks
+MAC,2.12,Retail REITs
+WMK,0.336,Food Retail
+MGRC,0.771,Trading Companies and Distributors
+FTDR,0.767,Specialized Consumer Services
+CPK,0.602,Gas Utilities
+EQC,0.41,Office REITs
+LBRT,2.15,Oil and Gas Equipment and Services
+BLMN,1.88,Restaurants
+ZETA,1.81,Application Software
+ARCB,1.57,Cargo Ground Transportation
+NHI,0.932,Health Care REITs
+TDW,1.34,Oil and Gas Equipment and Services
+FSLY,1.27,Internet Services and Infrastructure
+SFNC,0.857,Regional Banks
+PAYO,0.921,Transaction and Payment Processing Services
+SIX,2.19,Leisure Facilities
+TROX,1.89,Commodity Chemicals
+KMT,1.89,Industrial Machinery and Supplies and Components
+NEO,1.13,Health Care Services
+AX,1.46,Regional Banks
+CSTM,2.14,Aluminum
+ALG,0.978,Construction Machinery and Heavy Transportation Equipment
+IAS,1.72,Advertising
+EVTC,0.978,Transaction and Payment Processing Services
+PSMT,0.869,Consumer Staples Merchandise Retail
+NPO,1.44,Industrial Machinery and Supplies and Components
+SHAK,1.68,Restaurants
+EPC,0.961,Personal Care Products
+MWA,1.31,Industrial Machinery and Supplies and Components
+APAM,1.83,Asset Management and Custody Banks
+DAN,2.39,Automotive Parts and Equipment
+CRS,1.79,Steel
+STRA,0.595,Education Services
+ABCL,-0.092,Life Sciences Tools and Services
+DEI,0.967,Office REITs
+BEAM,1.69,Biotechnology
+IDCC,1.2,Application Software
+NUVA,1.05,Health Care Equipment
+MRTX,1.04,Biotechnology
+MATX,1.18,Marine Transportation
+CSWI,0.799,Building Products
+CARG,1.58,Interactive Media and Services
+ULCC,1.61,Passenger Airlines
+EVA,1.04,Coal and Consumable Fuels
+AGTI,1.09,Health Care Services
+SNEX,0.907,Investment Banking and Brokerage
+WLY,1.05,Publishing
+CENT,0.682,Household Products
+CENT.A,0.682,Household Products
+YELP,1.45,Interactive Media and Services
+HLIO,1.13,Industrial Machinery and Supplies and Components
+MGPI,0.884,Distillers and Vintners
+IIPR,1.62,Industrial REITs
+GSAT,0.691,Alternative Carriers
+MYRG,1.03,Construction and Engineering
+BOH,1.01,Regional Banks
+VICR,1.34,Electrical Components and Equipment
+TGTX,2.08,Biotechnology
+HIMS,0.489,Health Care Services
+ABR,1.95,Mortgage REITs
+NG,0.569,Gold
+FFBC,1.05,Regional Banks
+FA,1.44,Human Resource and Employment Services
+CHGG,1.12,Education Services
+KRYS,0.869,Biotechnology
+NAVI,1.56,Consumer Finance
+CPE,2.71,Oil and Gas Exploration and Production
+SHO,1.3,Hotel and Resort REITs
+ICFI,0.577,Research and Consulting Services
+FBP,1.15,Regional Banks
+SKT,1.75,Retail REITs
+ACVA,1.39,Diversified Support Services
+EBC,0.742,Regional Banks
+INSW,0.051,Oil and Gas Storage and Transportation
+CCS,1.73,Homebuilding
+AGYS,0.933,Application Software
+MSGE,1.28,Movies and Entertainment
+B,1.23,Industrial Machinery and Supplies and Components
+NTCT,0.702,Communications Equipment
+LESL,0.855,Other Specialty Retail
+DOOR,1.6,Building Products
+CEIX,1.87,Coal and Consumable Fuels
+THRM,1.37,Automotive Parts and Equipment
+EVCM,1.17,Application Software
+IMVT,1.05,Biotechnology
+XPRO,1.26,Oil and Gas Equipment and Services
+RLAY,1.32,Biotechnology
+SBCF,1.12,Regional Banks
+TRN,1.36,Construction Machinery and Heavy Transportation Equipment
+CLBK,0.218,Regional Banks
+WAFD,0.851,Regional Banks
+SUPN,1.01,Pharmaceuticals
+TOWN,0.989,Regional Banks
+MTX,1.3,Specialty Chemicals
+FRME,1.11,Regional Banks
+FSR,1.07,Automobile Manufacturers
+VCTR,1.16,Asset Management and Custody Banks
+SLVM,0.401,Paper Products
+SAH,1.85,Automotive Retail
+AMLX,0.923,Pharmaceuticals
+BGCP,1.84,Investment Banking and Brokerage
+VTYX,0.151,Pharmaceuticals
+CTRE,1.16,Health Care REITs
+HRMY,0.547,Pharmaceuticals
+NUS,1.19,Personal Care Products
+BORR,2.66,Oil and Gas Drilling
+DBRG,2.09,Real Estate Operating Companies
+EXPI,2.75,Real Estate Services
+ATRC,1.31,Health Care Equipment
+RKLB,0.825,Aerospace and Defense
+RVLV,2.16,Apparel Retail
+PRK,0.739,Regional Banks
+HTH,1.07,Regional Banks
+HCC,1.16,Steel
+IBTX,1.4,Regional Banks
+GOGL,1.32,Marine Transportation
+PIPR,1.39,Investment Banking and Brokerage
+MYGN,1.83,Biotechnology
+SDGR,1.02,Health Care Technology
+XPEL,1.65,Automotive Parts and Equipment
+VGR,1.02,Tobacco
+PCRX,0.764,Pharmaceuticals
+TALO,2.27,Oil and Gas Exploration and Production
+SAVE,1.14,Passenger Airlines
+NMIH,1.31,Commercial and Residential Mortgage Finance
+AIR,1.59,Aerospace and Defense
+CRSR,1.85,"Technology Hardware, Storage and Peripherals"
+BANR,1.02,Regional Banks
+SAFE,2.366166667,Other Specialized REITs
+NEX,2.11,Oil and Gas Equipment and Services
+GOGO,1.32,Wireless Telecommunication Services
+VIRT,0.17,Investment Banking and Brokerage
+LAUR,0.821,Education Services
+MRVI,-0.221,Life Sciences Tools and Services
+GPRE,1.76,Oil and Gas Refining and Marketing
+HBI,1.59,"Apparel, Accessories and Luxury Goods"
+NAPA,0.166,Distillers and Vintners
+GFF,1.54,Building Products
+VRTV,2.07,Trading Companies and Distributors
+WSBC,0.94,Regional Banks
+COHU,1.55,Semiconductor Materials and Equipment
+STR,3.742241379,Oil and Gas Exploration and Production
+BATR.A,0.899,Movies and Entertainment
+BATR.K,0.899,Movies and Entertainment
+CAKE,1.44,Restaurants
+ODP,1.83,Other Specialty Retail
+JACK,1.64,Restaurants
+AKRO,-0.907,Biotechnology
+GVA,1.42,Construction and Engineering
+AMPH,0.732,Pharmaceuticals
+NOVA,2.12,Renewable Electricity
+FORG,0.644,Application Software
+VZIO,1.73,Consumer Electronics
+LZ,1.41,Research and Consulting Services
+LILA,1.34,Alternative Carriers
+LILA.K,1.34,Alternative Carriers
+PLAY,1.95,Restaurants
+BKE,0.969,Apparel Retail
+PARR,2.05,Oil and Gas Refining and Marketing
+FLNG,0.245,Oil and Gas Storage and Transportation
+UE,1.56,Retail REITs
+PEB,1.83,Hotel and Resort REITs
+OII,2.85,Oil and Gas Equipment and Services
+WGO,1.68,Automobile Manufacturers
+TRUP,1.75,Life and Health Insurance
+ETWO,0.616,Application Software
+DHT,-0.174,Oil and Gas Storage and Transportation
+TTEC,1.05,Data Processing and Outsourced Services
+FGEN,0.855,Biotechnology
+MCY,0.621,Property and Casualty Insurance
+USM,0.675,Wireless Telecommunication Services
+ATGE,1.01,Education Services
+CNK,2.29,Movies and Entertainment
+CPRX,1.16,Biotechnology
+MHO,1.89,Homebuilding
+ROIC,1.39,Retail REITs
+PJT,0.773,Investment Banking and Brokerage
+ATEC,1.25,Health Care Equipment
+JBGS,0.973,Office REITs
+INFN,1.38,Communications Equipment
+OSIS,0.914,Electronic Equipment and Instruments
+COUR,1.25,Education Services
+AMEH,0.778,Health Care Services
+DRH,1.65,Hotel and Resort REITs
+RNST,1.13,Regional Banks
+KTOS,0.823,Aerospace and Defense
+MRTN,0.893,Cargo Ground Transportation
+ADUS,0.819,Health Care Services
+CLDX,2.17,Biotechnology
+MIR,0.553,Electronic Equipment and Instruments
+PHR,0.648,Health Care Technology
+NWN,0.548,Gas Utilities
+RLJ,1.78,Hotel and Resort REITs
+BKU,1.21,Regional Banks
+GTY,0.898,Retail REITs
+IMKT.A,0.643,Food Retail
+AHCO,0.868,Health Care Distributors
+EAT,2.36,Restaurants
+XNCR,0.82,Biotechnology
+ZIP,1.52,Interactive Media and Services
+SKIN,1.15,Personal Care Products
+SOVO,0.6,Packaged Foods and Meats
+SBH,1.3,Other Specialty Retail
+CTOS,0.682,Trading Companies and Distributors
+RIOT,4.25,Application Software
+OXM,1.57,"Apparel, Accessories and Luxury Goods"
+EFSC,1.15,Regional Banks
+LNN,0.615,Agricultural and Farm Machinery
+NXT,3.100653061,Electrical Components and Equipment
+LRN,0.351,Education Services
+SVC,2.23,Hotel and Resort REITs
+RES,1.82,Oil and Gas Equipment and Services
+TVTX,0.478,Biotechnology
+CSGS,0.886,Data Processing and Outsourced Services
+HLMN,1.56,Industrial Machinery and Supplies and Components
+HTLF,1.08,Regional Banks
+ALGT,1.61,Passenger Airlines
+KYMR,1.76,Biotechnology
+CMTG,0.698,Mortgage REITs
+LKFN,0.728,Regional Banks
+IRWD,0.908,Biotechnology
+HLIT,0.881,Communications Equipment
+SYBT,0.7,Regional Banks
+NVEE,1.15,Research and Consulting Services
+GRBK,1.58,Homebuilding
+EMBC,0.491,Health Care Supplies
+HEES,2.04,Trading Companies and Distributors
+VCYT,1.44,Biotechnology
+SWTX,0.625,Biotechnology
+PDFS,1.41,Semiconductor Materials and Equipment
+VKTX,0.762,Biotechnology
+HLF,1.14,Personal Care Products
+INT,1.27,Oil and Gas Refining and Marketing
+BRP,1.56,Insurance Brokers
+MEI,1.13,Electronic Manufacturing Services
+IVT,-5.16,Retail REITs
+BCRX,2.03,Biotechnology
+VSTO,0.963,Leisure Products
+PLRX,1.45,Pharmaceuticals
+CTS,0.723,Electronic Manufacturing Services
+ELME,0.948,Multi-Family Residential REITs
+UNFI,1.1,Food Distributors
+OEC,1.66,Commodity Chemicals
+AUPH,1.16,Biotechnology
+ATUS,1.38,Cable and Satellite
+AVDX,1.7,Transaction and Payment Processing Services
+KN,1.49,Electronic Components
+MNRO,1.02,Automotive Retail
+TBBK,1.5,Regional Banks
+MLKN,1.46,Office Services and Supplies
+PATK,1.89,Automotive Parts and Equipment
+SMTC,1.69,Semiconductors
+TMCI,1.03,Health Care Equipment
+CNNE,0.881,Multi-Sector Holdings
+DK,1.43,Oil and Gas Refining and Marketing
+HAIN,0.914,Packaged Foods and Meats
+KNTK,0.592,Oil and Gas Storage and Transportation
+AROC,1.76,Oil and Gas Equipment and Services
+NWBI,0.585,Regional Banks
+STEP,1.45,Asset Management and Custody Banks
+KDNY,0.37,Biotechnology
+SATS,0.739,Alternative Carriers
+BFH,2,Consumer Finance
+PRAA,1.17,Consumer Finance
+EVRI,2.39,Casinos and Gaming
+SLG,1.5,Office REITs
+PGTI,1.42,Building Products
+GPOR,0.373,Oil and Gas Exploration and Production
+TRMK,0.801,Regional Banks
+SILK,1.22,Health Care Supplies
+UPWK,1.52,Human Resource and Employment Services
+ROCK,1.16,Building Products
+ATSG,0.793,Air Freight and Logistics
+KAR,1.24,Diversified Support Services
+EYE,1.5,Other Specialty Retail
+MORF,1.18,Biotechnology
+UCTT,1.99,Semiconductor Materials and Equipment
+INDI,0.86,Semiconductors
+NUVL,1.6,Biotechnology
+ACLX,0.493,Biotechnology
+COMP,2.77,Real Estate Services
+SUMO,1.31,Application Software
+SXI,1.18,Industrial Machinery and Supplies and Components
+XHR,1.52,Hotel and Resort REITs
+MARA,5.06,Application Software
+EPAC,1.36,Industrial Machinery and Supplies and Components
+TNK,-0.127,Oil and Gas Storage and Transportation
+ARVN,1.79,Pharmaceuticals
+LTC,0.946,Health Care REITs
+FBNC,1.11,Regional Banks
+FBK,1.04,Regional Banks
+RDNT,1.55,Health Care Services
+SNDX,1.04,Biotechnology
+JBI,0.794,Building Products
+NBTB,0.556,Regional Banks
+BBUC,1.17,Industrial Conglomerates
+FDP,0.666,Agricultural Products and Services
+HURN,0.528,Research and Consulting Services
+PFS,0.965,Regional Banks
+MDRX,1.01,Health Care Technology
+PTVE,1.43,Paper and Plastic Packaging Products and Materials
+AMPL,1.8,Application Software
+QTWO,1.48,Application Software
+TWO,1.75,Mortgage REITs
+ROAD,0.922,Construction and Engineering
+RAMP,1.14,Application Software
+RADI,0.575,Integrated Telecommunication Services
+MCRI,1.69,Casinos and Gaming
+OSCR,0.927,Life and Health Insurance
+AGM,1.04,Commercial and Residential Mortgage Finance
+SABR,1.85,"Hotels, Resorts and Cruise Lines"
+CMP,1.35,Diversified Metals and Mining
+DDD,1.72,Industrial Machinery and Supplies and Components
+MNTV,1.52,Application Software
+FNA,1.05,Health Care Equipment
+CHCO,0.54,Regional Banks
+ENVA,1.55,Consumer Finance
+TGH,1.21,Trading Companies and Distributors
+AVID,1.23,"Technology Hardware, Storage and Peripherals"
+EVBG,0.78,Application Software
+MLNK,0.898,Application Software
+CRDO,1.2,Semiconductors
+SWI,0.919,Systems Software
+VCEL,1.72,Biotechnology
+VRTS,1.61,Asset Management and Custody Banks
+AVNS,0.929,Health Care Supplies
+ANDE,0.767,Food Distributors
+TCBK,0.608,Regional Banks
+TTMI,1.48,Electronic Manufacturing Services
+ESTE,2.07,Oil and Gas Exploration and Production
+NSSC,1.11,Electronic Equipment and Instruments
+PLMR,0.057,Property and Casualty Insurance
+MSEX,0.745,Water Utilities
+CODI,1.72,Multi-Sector Holdings
+ALEX,1.33,Diversified REITs
+IOVA,0.241,Biotechnology
+HMN,0.42,Multi-line Insurance
+DICE,0.851,Pharmaceuticals
+UPBD,1.76,Computer and Electronics Retail
+ANF,1.45,Apparel Retail
+ECVT,0.835,Specialty Chemicals
+RCKT,1.22,Biotechnology
+WWW,1.67,Footwear
+CHEF,1.84,Food Distributors
+TFIN,1.18,Regional Banks
+COMM,1.86,Communications Equipment
+UTZ,0.826,Packaged Foods and Meats
+VRE,1.17,Multi-Family Residential REITs
+CDE,1.52,Gold
+RCUS,0.882,Biotechnology
+GNL,1.23,Diversified REITs
+AKR,1.5,Retail REITs
+TH,2.6,"Hotels, Resorts and Cruise Lines"
+NTB,1.41,Diversified Banks
+PLUS,1.27,Technology Distributors
+ZUO,1.82,Systems Software
+OLO,1.21,Application Software
+SFL,0.837,Oil and Gas Storage and Transportation
+ARI,1.67,Mortgage REITs
+PRIM,1.26,Construction and Engineering
+CIM,1.58,Mortgage REITs
+SPNT,0.995,Reinsurance
+TA,1.47,Automotive Retail
+STEL,0.939,Regional Banks
+UVV,0.716,Tobacco
+ERII,1.16,Industrial Machinery and Supplies and Components
+UPST,1.57,Consumer Finance
+RYI,1.77,Steel
+NVRO,0.823,Health Care Equipment
+UDMY,1.85,Education Services
+PRM,1.06,Specialty Chemicals
+FCF,0.973,Regional Banks
+CARS,1.94,Interactive Media and Services
+USPH,1.34,Health Care Facilities
+RXRX,1.99,Biotechnology
+PRCT,1.57,Health Care Equipment
+AGIO,0.956,Biotechnology
+TNC,1.08,Industrial Machinery and Supplies and Components
+ADPT,1.17,Life Sciences Tools and Services
+MODN,0.678,Application Software
+AVTA,1.26,Asset Management and Custody Banks
+NBHC,0.947,Regional Banks
+HTLD,0.604,Cargo Ground Transportation
+PRO,1.1,Application Software
+MMI,1.02,Real Estate Services
+LGND,0.961,Pharmaceuticals
+LZB,1.15,Home Furnishings
+DVAX,1.45,Biotechnology
+MGNI,2.15,Advertising
+DEA,0.639,Office REITs
+ADTN,1.4,Communications Equipment
+EAF,1.42,Electrical Components and Equipment
+CTKB,0.797,Life Sciences Tools and Services
+IONQ,1.82,"Technology Hardware, Storage and Peripherals"
+DFH,1.43,Homebuilding
+DNOW,1.61,Trading Companies and Distributors
+NMRK,1.72,Real Estate Services
+MD,1.75,Health Care Services
+VVX,2.238363636,Aerospace and Defense
+WRBY,2.33,Other Specialty Retail
+KFRC,0.936,Human Resource and Employment Services
+NRDS,1.31,Consumer Finance
+STBA,0.762,Regional Banks
+APPS,2.48,Application Software
+GDEN,2.38,Casinos and Gaming
+DO,4.706857143,Oil and Gas Drilling
+SMMT,-1.01,Biotechnology
+GSHD,1.18,Insurance Brokers
+KROS,1.3,Biotechnology
+USNA,0.737,Personal Care Products
+PTLO,1.57,Restaurants
+DGII,1.25,Communications Equipment
+MOD,2.29,Automotive Parts and Equipment
+SPNS,1.28,Application Software
+IRBT,1.09,Household Appliances
+LADR,1.95,Mortgage REITs
+WABC,0.638,Regional Banks
+ALHC,1.86,Managed Health Care
+OFG,1.08,Regional Banks
+MODV,0.664,Health Care Services
+SBGI,1.41,Broadcasting
+KALU,1.27,Aluminum
+CNXN,0.779,Technology Distributors
+TDS,1.07,Wireless Telecommunication Services
+MATV,0.83,Commodity Chemicals
+DFIN,1.67,Financial Exchanges and Data
+PTGX,2,Biotechnology
+HLX,2.79,Oil and Gas Equipment and Services
+ECPG,1.47,Consumer Finance
+ALKT,1.5,Application Software
+SNCY,1.47,Passenger Airlines
+HOPE,1.19,Regional Banks
+CDMO,1.77,Biotechnology
+DCPH,0.711,Biotechnology
+YEXT,1.12,Application Software
+WNC,1.63,Construction Machinery and Heavy Transportation Equipment
+STRL,1.37,Construction and Engineering
+SASR,0.935,Regional Banks
+HNI,0.945,Office Services and Supplies
+CYRX,1.33,Life Sciences Tools and Services
+TRS,0.723,"Metal, Glass and Plastic Containers"
+FCEL,3.72,Electrical Components and Equipment
+MBUU,1.61,Leisure Products
+AIV,1.55,Multi-Family Residential REITs
+NBR,2.8,Oil and Gas Drilling
+CMPR,1.63,Commercial Printing
+NXGN,1.03,Health Care Technology
+ATEN,1.07,Systems Software
+PCT,0.969,Commodity Chemicals
+CMRE,1.36,Marine Transportation
+PLL,0.677,Diversified Metals and Mining
+CASH,0.81,Regional Banks
+PRG,2.09,Consumer Finance
+LMAT,0.979,Health Care Equipment
+SPCE,1.43,Aerospace and Defense
+EIG,0.255,Property and Casualty Insurance
+RKT,2,Commercial and Residential Mortgage Finance
+OPEN,1.86,Real Estate Services
+SCHL,1.12,Publishing
+CRNC,2.63,Application Software
+IE,2.28275,Diversified Metals and Mining
+AAT,1.15,Diversified REITs
+OPK,1.65,Health Care Services
+RC,1.44,Mortgage REITs
+MBIN,1.14,Commercial and Residential Mortgage Finance
+PACW,1.46,Regional Banks
+OFLX,0.524,Industrial Machinery and Supplies and Components
+BUSE,0.865,Regional Banks
+JBSS,0.302,Packaged Foods and Meats
+MED,1.18,Personal Care Products
+BGS,0.484,Packaged Foods and Meats
+NXRT,1.1,Multi-Family Residential REITs
+MNTK,-0.265,Renewable Electricity
+OSW,2.18,Specialized Consumer Services
+DH,1.99,Health Care Technology
+WINA,0.772,Other Specialty Retail
+OMI,0.603,Health Care Distributors
+ATRI,0.44,Health Care Supplies
+GERN,0.779,Biotechnology
+SAFT,0.294,Property and Casualty Insurance
+COCO,1.34,Soft Drinks and Non-alcoholic Beverages
+SRCE,0.921,Regional Banks
+STC,1.11,Property and Casualty Insurance
+MATW,1.13,Diversified Support Services
+BHLB,1.01,Regional Banks
+PMT,1.39,Mortgage REITs
+VECO,1.29,Semiconductor Materials and Equipment
+VRDN,0.966,Biotechnology
+OCFC,0.91,Regional Banks
+PRME,2.847781333,Biotechnology
+RNA,-0.002,Biotechnology
+MNKD,1.68,Biotechnology
+SKYW,1.84,Passenger Airlines
+INNV,-0.016,Health Care Services
+UEC,2.03,Coal and Consumable Fuels
+PL,1.33,Research and Consulting Services
+LOB,1.5,Regional Banks
+JELD,2.27,Building Products
+STER,1.42,Human Resource and Employment Services
+BMEA,-0.503,Biotechnology
+NRC,0.521,Health Care Services
+GES,1.89,Apparel Retail
+MEG,1.73,Environmental and Facilities Services
+KRO,1.06,Commodity Chemicals
+CMCO,1.23,Industrial Machinery and Supplies and Components
+HSKA,1.53,Health Care Equipment
+NTST,0.959,Retail REITs
+DIN,1.89,Restaurants
+CXW,0.975,Security and Alarm Services
+GBX,1.5,Construction Machinery and Heavy Transportation Equipment
+ETNB,0.752,Biotechnology
+ASIX,1.89,Commodity Chemicals
+PSFE,1.9,Transaction and Payment Processing Services
+ESRT,1.21,Diversified REITs
+ACCD,1.62,Health Care Services
+ME,1.42,Health Care Services
+BYND,2.03,Packaged Foods and Meats
+CVNA,2.8,Automotive Retail
+SBSI,0.541,Regional Banks
+EGBN,0.897,Regional Banks
+PLAB,1.19,Semiconductor Materials and Equipment
+TTGT,0.959,Advertising
+IMAX,1.38,Movies and Entertainment
+MBC,2.247621622,Building Products
+HCSG,0.365,Diversified Support Services
+FIGS,1.72,Health Care Supplies
+ARGO,0.985,Property and Casualty Insurance
+AZZ,1.27,Building Products
+ZNTL,1.87,Biotechnology
+ARKO,0.273,Automotive Retail
+GIC,0.881,Trading Companies and Distributors
+KIDS,0.914,Health Care Supplies
+LBAI,0.833,Regional Banks
+RYTM,1.82,Biotechnology
+MFA,2,Mortgage REITs
+RGR,0.474,Leisure Products
+ARR,1.22,Mortgage REITs
+SAVA,-0.092,Pharmaceuticals
+MGI,1.05,Transaction and Payment Processing Services
+REPL,1.69,Biotechnology
+PRA,0.388,Property and Casualty Insurance
+RDFN,2.22,Real Estate Services
+LICY,1.19,Environmental and Facilities Services
+CCF,0.695,Specialty Chemicals
+OBNK,0.92,Regional Banks
+ALX,0.745,Retail REITs
+PGRE,1.23,Office REITs
+VBTX,1.47,Regional Banks
+FBRT,0.833,Mortgage REITs
+LMND,1.55,Property and Casualty Insurance
+UFPT,0.758,Health Care Supplies
+GABC,0.701,Regional Banks
+DAWN,-0.644,Biotechnology
+GEO,0.722,Security and Alarm Services
+DRQ,1.09,Oil and Gas Equipment and Services
+XPOF,1.65,Leisure Facilities
+BSIG,1.63,Asset Management and Custody Banks
+STGW,1.26,Advertising
+CLNE,2.19,Oil and Gas Refining and Marketing
+TMP,0.63,Regional Banks
+APOG,1.1,Building Products
+DSGR,2.792564103,Trading Companies and Distributors
+SHEN,0.646,Wireless Telecommunication Services
+FRG,1.73,Other Specialty Retail
+FWRG,1.24,Restaurants
+SCS,1.34,Office Services and Supplies
+ICHR,1.98,Semiconductor Materials and Equipment
+EWCZ,1.53,Specialized Consumer Services
+IMXI,0.469,Transaction and Payment Processing Services
+AMSF,0.376,Property and Casualty Insurance
+HPP,1.14,Office REITs
+ASTE,1.52,Construction Machinery and Heavy Transportation Equipment
+MLAB,0.696,Health Care Equipment
+BFS,1.13,Retail REITs
+ADEA,0.901,Systems Software
+BHVN,2.847781333,Biotechnology
+BRKL,0.689,Regional Banks
+BLFS,1.85,Life Sciences Tools and Services
+EQRX,0.682,Biotechnology
+CWH,2.64,Automotive Retail
+PAR,1.88,Electronic Equipment and Instruments
+NIC,0.724,Regional Banks
+CENX,2.72,Aluminum
+HWKN,0.816,Commodity Chemicals
+FLGT,1.61,Health Care Services
+UTL,0.491,Multi-Utilities
+OSTK,3.43,Homefurnishing Retail
+AXL,2.27,Automotive Parts and Equipment
+MIRM,1.33,Biotechnology
+BALY,1.92,Casinos and Gaming
+NYMT,1.84,Mortgage REITs
+SLCA,2.6,Oil and Gas Equipment and Services
+PLYM,1.4,Industrial REITs
+PDM,1.01,Office REITs
+PRDO,1.21,Education Services
+ELVN,1.901531532,Pharmaceuticals
+CFFN,0.377,Regional Banks
+OM,1.55,Health Care Equipment
+SLP,0.527,Health Care Technology
+CHCT,0.726,Health Care REITs
+NHC,0.296,Health Care Facilities
+VERV,1.77,Biotechnology
+GDOT,1.08,Consumer Finance
+DCGO,0.974,Health Care Services
+PRLB,1.16,Industrial Machinery and Supplies and Components
+NWLI,0.801,Life and Health Insurance
+UMH,1.27,Single-Family Residential REITs
+ASLE,0.427,Aerospace and Defense
+WOW,1.82,Cable and Satellite
+UUUU,1.67,Coal and Consumable Fuels
+STKL,1.48,Packaged Foods and Meats
+STEM,2.2,Electrical Components and Equipment
+DCOM,1.09,Regional Banks
+SG,1.55,Restaurants
+AMPS,0.689,Renewable Electricity
+LPRO,0.776,Financial Exchanges and Data
+IDT,1.14,Integrated Telecommunication Services
+SPTN,0.733,Food Distributors
+USLM,0.706,Construction Materials
+IESC,1.26,Construction and Engineering
+IMGN,0.944,Biotechnology
+HCCI,1.19,Environmental and Facilities Services
+AMWD,1.86,Building Products
+CRNX,0.967,Biotechnology
+AEHR,2.02,Semiconductor Materials and Equipment
+GDYN,0.87,IT Consulting and Other Services
+TWST,1.21,Biotechnology
+HY,1.26,Industrial Machinery and Supplies and Components
+WT,1.41,Asset Management and Custody Banks
+EB,2.58,Interactive Media and Services
+QNST,1.07,Interactive Media and Services
+SCHN,1.55,Steel
+CBAY,0.286,Pharmaceuticals
+SGH,1.34,Semiconductors
+ENTA,0.395,Biotechnology
+UNIT,1.36,Other Specialized REITs
+RTL,1.39,Retail REITs
+ROVR,1.52,Specialized Consumer Services
+RBCA.A,0.624,Regional Banks
+CSII,0.751,Health Care Equipment
+KURA,0.926,Biotechnology
+THR,1.27,Electrical Components and Equipment
+BHE,1.07,Electronic Manufacturing Services
+HSTM,0.498,Health Care Technology
+EFC,1.86,Mortgage REITs
+PUMP,2.38,Oil and Gas Equipment and Services
+NAT,0.138,Oil and Gas Storage and Transportation
+RPT,1.66,Retail REITs
+SKWD,1.304,Property and Casualty Insurance
+INBX,2.97,Biotechnology
+CBL,0.936,Retail REITs
+RGNX,1.08,Biotechnology
+CCRN,1.04,Health Care Services
+CSR,0.948,Multi-Family Residential REITs
+MRC,2.2,Trading Companies and Distributors
+RILY,1.81,Investment Banking and Brokerage
+HRT,1.48,Human Resource and Employment Services
+COLL,0.809,Pharmaceuticals
+BY,1.21,Regional Banks
+AMRK,-0.073,Specialized Finance
+BDN,1.13,Office REITs
+AC,1.07,Asset Management and Custody Banks
+GTN,1.61,Broadcasting
+TMST,1.73,Steel
+LPG,1.19,Oil and Gas Storage and Transportation
+CDRE,1.23,Aerospace and Defense
+FBMS,0.919,Regional Banks
+THRY,0.883,Advertising
+SHYF,1.97,Construction Machinery and Heavy Transportation Equipment
+AHH,0.951,Diversified REITs
+SMP,0.565,Automotive Parts and Equipment
+MTTR,1.6,Application Software
+IBRX,-0.364,Biotechnology
+SSP,1.88,Broadcasting
+PFBC,1.06,Regional Banks
+ACEL,1.56,Casinos and Gaming
+KREF,0.912,Mortgage REITs
+LXU,1.61,Diversified Chemicals
+AVO,0.544,Packaged Foods and Meats
+MYE,1.43,"Metal, Glass and Plastic Containers"
+GPRO,1.41,Consumer Electronics
+JRVR,0.399,Property and Casualty Insurance
+CRAI,1.29,Research and Consulting Services
+FOR,1.63,Real Estate Development
+ROCC,2.69,Oil and Gas Exploration and Production
+SCSC,1.46,Technology Distributors
+BFC,0.295,Regional Banks
+CAL,1.76,Apparel Retail
+WTTR,1.99,Oil and Gas Equipment and Services
+AVPT,1.06,Application Software
+LC,1.96,Consumer Finance
+PNT,0.141,Biotechnology
+ENFN,1.55,Application Software
+REPX,1.26,Oil and Gas Exploration and Production
+RWT,1.42,Mortgage REITs
+INVA,0.555,Pharmaceuticals
+ULH,1.24,Cargo Ground Transportation
+VTLE,3.36,Oil and Gas Exploration and Production
+BRSP,1.75,Mortgage REITs
+AMCX,1.21,Broadcasting
+COGT,-0.336,Biotechnology
+TGI,2.64,Aerospace and Defense
+SXC,1.23,Steel
+HFWA,0.597,Regional Banks
+KNSA,-0.08,Biotechnology
+HIBB,1.64,Other Specialty Retail
+CNDT,1.79,Data Processing and Outsourced Services
+NEXT,1.05,Oil and Gas Storage and Transportation
+INN,2.02,Hotel and Resort REITs
+VTNR,2.07,Oil and Gas Refining and Marketing
+FLWS,1.65,Other Specialty Retail
+AOSL,2.49,Semiconductors
+WTI,1.97,Oil and Gas Exploration and Production
+BANC,1.29,Regional Banks
+QCRH,0.969,Regional Banks
+PFC,1.18,Regional Banks
+ADMA,0.872,Biotechnology
+SCWX,0.987,Systems Software
+DM,0.536,Industrial Machinery and Supplies and Components
+PUBM,0.923,Advertising
+PLOW,1.05,Construction Machinery and Heavy Transportation Equipment
+AMTB,1.22,Regional Banks
+BOC,0.803,Advertising
+TSE,1.5,Commodity Chemicals
+VREX,0.776,Health Care Equipment
+KOP,1.82,Commodity Chemicals
+GIII,2.66,"Apparel, Accessories and Luxury Goods"
+PEBO,0.807,Regional Banks
+RICK,1.69,Leisure Facilities
+NKLA,1.51,Construction Machinery and Heavy Transportation Equipment
+MCRB,2.69,Biotechnology
+XMTR,0.815,Trading Companies and Distributors
+ALLO,0.801,Biotechnology
+REVG,1.96,Construction Machinery and Heavy Transportation Equipment
+CEVA,1.12,Semiconductors
+SNPO,1.34,Consumer Electronics
+NX,1.38,Building Products
+CLFD,1.37,Communications Equipment
+ACHR,2.16,Aerospace and Defense
+AMBC,1.15,Property and Casualty Insurance
+OSPN,0.855,Systems Software
+ACMR,0.983,Semiconductor Materials and Equipment
+SCVL,1.42,Apparel Retail
+ETD,1.2,Home Furnishings
+UVSP,0.929,Regional Banks
+ACDC,3.591627907,Oil and Gas Equipment and Services
+TELL,2.32,Oil and Gas Exploration and Production
+DLX,1.56,Commercial Printing
+CNOB,1.15,Regional Banks
+EHAB,2.203,Health Care Services
+SIBN,0.953,Health Care Equipment
+CHS,1.24,Apparel Retail
+TBPH,0.514,Pharmaceuticals
+BJRI,1.93,Restaurants
+TITN,1.66,Trading Companies and Distributors
+CTBI,0.721,Regional Banks
+TYRA,2.43,Biotechnology
+CCSI,0.803,Application Software
+PBI,2.22,Office Services and Supplies
+MPLN,0.705,Health Care Technology
+TRNS,0.783,Trading Companies and Distributors
+INDT,0.838,Industrial REITs
+SP,1.36,Environmental and Facilities Services
+ARQT,0.519,Biotechnology
+TERN,-1.05,Pharmaceuticals
+SNBR,1.87,Homefurnishing Retail
+UFCS,0.181,Property and Casualty Insurance
+GNLX,2.847781333,Biotechnology
+AVXL,0.754,Biotechnology
+DCO,1.33,Aerospace and Defense
+IDYA,0.887,Biotechnology
+UHT,0.893,Health Care REITs
+MAX,1.3,Interactive Media and Services
+GNK,1.08,Marine Transportation
+BIGC,0.669,Internet Services and Infrastructure
+TWI,2.23,Agricultural and Farm Machinery
+NUTX,2.155142857,Health Care Technology
+AMWL,0.803,Health Care Technology
+GRC,0.791,Industrial Machinery and Supplies and Components
+BLBD,1.36,Construction Machinery and Heavy Transportation Equipment
+DX,1.17,Mortgage REITs
+HCAT,1.26,Health Care Technology
+ANIP,1.06,Pharmaceuticals
+DYN,0.278,Biotechnology
+UBA,1.08,Retail REITs
+CHUY,1.73,Restaurants
+AVD,0.921,Fertilizers and Agricultural Chemicals
+KRUS,1.95,Restaurants
+CYH,1.73,Health Care Facilities
+BASE,1.89,Application Software
+KAMN,1,Aerospace and Defense
+MLYS,2.847781333,Biotechnology
+JOUT,0.866,Leisure Products
+IHRT,1.66,Broadcasting
+YORW,0.543,Water Utilities
+VMEO,1.53,Interactive Media and Services
+MOV,1.22,"Apparel, Accessories and Luxury Goods"
+ARCT,2.56,Biotechnology
+SMR,0.953,Heavy Electrical Equipment
+HROW,0.164,Pharmaceuticals
+HBT,0.908,Regional Banks
+CIR,2.16,Industrial Machinery and Supplies and Components
+PTSI,1.32,Cargo Ground Transportation
+ATNI,0.405,Integrated Telecommunication Services
+BLX,1.12,Specialized Finance
+PLPC,0.76,Electrical Components and Equipment
+DENN,1.68,Restaurants
+RAPT,0.455,Biotechnology
+VRAY,1.01,Health Care Equipment
+HZO,1.48,Other Specialty Retail
+OSBC,1.11,Regional Banks
+VTOL,1.37,Oil and Gas Equipment and Services
+HAYN,1.56,Steel
+SANA,0.648,Biotechnology
+EGLE,1.33,Marine Transportation
+VITL,0.753,Packaged Foods and Meats
+ATEX,0.639,Alternative Carriers
+HLVX,2.847781333,Biotechnology
+AMOT,1.48,Electrical Components and Equipment
+FORR,0.938,Research and Consulting Services
+PAHC,0.605,Pharmaceuticals
+BRMK,1.18,Mortgage REITs
+GSBC,0.752,Regional Banks
+KELY.A,1.12,Human Resource and Employment Services
+BXC,1.66,Trading Companies and Distributors
+SPRY,2.847781333,Biotechnology
+OFIX,0.873,Health Care Equipment
+ASC,0.566,Oil and Gas Storage and Transportation
+BBSI,1.33,Human Resource and Employment Services
+ANAB,-0.101,Biotechnology
+TRST,0.944,Regional Banks
+TK,0.774,Oil and Gas Storage and Transportation
+CSTL,1.04,Health Care Services
+HSII,0.803,Human Resource and Employment Services
+MTW,2.07,Construction Machinery and Heavy Transportation Equipment
+OPI,1.24,Office REITs
+NVAX,1.78,Biotechnology
+GMRE,1.1,Health Care REITs
+KE,1.41,Electronic Manufacturing Services
+BRY,2.26,Oil and Gas Exploration and Production
+WASH,0.752,Regional Banks
+LAND,1.03,Other Specialized REITs
+CASS,0.647,Transaction and Payment Processing Services
+IGMS,-0.156,Biotechnology
+LWLG,2.23,Electronic Components
+ORGN,1.29,Commodity Chemicals
+LYEL,0.756,Biotechnology
+SEAT,1.01,Movies and Entertainment
+CUBI,1.57,Regional Banks
+HOUS,2.32,Real Estate Services
+ALDX,1.07,Biotechnology
+EE,1.69736,Oil and Gas Storage and Transportation
+ZEUS,1.8,Steel
+FPI,0.814,Other Specialized REITs
+RPAY,1.23,Transaction and Payment Processing Services
+CIFR,2.09,Application Software
+VSEC,1.49,Diversified Support Services
+RBBN,1.09,Communications Equipment
+APEN,2.32,Health Care Equipment
+SFIX,2.22,Apparel Retail
+RGP,0.712,Research and Consulting Services
+CCO,2.54,Advertising
+FDMT,2.57,Biotechnology
+TBI,1.46,Human Resource and Employment Services
+IIIV,1.4,Transaction and Payment Processing Services
+VPG,1.33,Electronic Equipment and Instruments
+SWBI,1.07,Leisure Products
+HAFC,0.973,Regional Banks
+RXST,0.922,Health Care Supplies
+TRTX,1.89,Mortgage REITs
+CLW,0.83,Paper Products
+ICPT,1.28,Biotechnology
+FATE,1.52,Biotechnology
+EVGO,1.95,Automotive Retail
+FMBH,0.832,Regional Banks
+DBI,2,Apparel Retail
+LEGH,0.775,Homebuilding
+UVE,0.907,Property and Casualty Insurance
+CTIC,0.917,Biotechnology
+WE,1.66,Real Estate Operating Companies
+NFBK,0.636,Regional Banks
+BKD,1.27,Health Care Facilities
+TPIC,1.82,Heavy Electrical Equipment
+HONE,0.716,Regional Banks
+AGX,0.577,Construction and Engineering
+FRPH,0.585,Real Estate Operating Companies
+CRGY,0.929,Oil and Gas Exploration and Production
+EBF,0.458,Commercial Printing
+CHRS,0.916,Biotechnology
+AMAL,0.824,Regional Banks
+TWOU,1.22,Education Services
+ARLO,1.56,Electronic Equipment and Instruments
+HSC,2.08,Environmental and Facilities Services
+VTS,3.742241379,Oil and Gas Exploration and Production
+BTAI,1.19,Biotechnology
+IIIN,1.1,Building Products
+MCFT,1.78,Leisure Products
+ACRS,0.612,Pharmaceuticals
+BW,1.95,Heavy Electrical Equipment
+OIS,2.93,Oil and Gas Equipment and Services
+TIPT,1.1,Property and Casualty Insurance
+NTGR,0.721,Communications Equipment
+FC,1.25,Research and Consulting Services
+SLDP,1.38,Automotive Parts and Equipment
+AORT,1.39,Health Care Equipment
+SD,2.35,Oil and Gas Exploration and Production
+EVC,1.2,Broadcasting
+CERS,0.967,Health Care Supplies
+CAC,0.734,Regional Banks
+KRNY,0.632,Regional Banks
+BV,1.33,Environmental and Facilities Services
+RUTH,1.86,Restaurants
+BLNK,3.08,Electrical Components and Equipment
+ASPN,2.18,Specialty Chemicals
+PGC,1.06,Regional Banks
+EBS,0.939,Biotechnology
+HVT,1.35,Homefurnishing Retail
+ARTN.A,0.146,Water Utilities
+ALEC,0.834,Biotechnology
+BH,1.64,Restaurants
+SBOW,2.35,Oil and Gas Exploration and Production
+ALTG,1.56,Trading Companies and Distributors
+PMTS,1.24,"Technology Hardware, Storage and Peripherals"
+CLDT,1.81,Hotel and Resort REITs
+TSVT,1.51,Biotechnology
+SRI,1.33,Automotive Parts and Equipment
+CVGW,0.686,Packaged Foods and Meats
+GOOD,1.12,Diversified REITs
+CFB,1.04,Regional Banks
+NPK,0.663,Aerospace and Defense
+ADV,1.63,Advertising
+MBI,1.24,Property and Casualty Insurance
+LIND,2.35,"Hotels, Resorts and Cruise Lines"
+SMRT,1.87,Electronic Equipment and Instruments
+CATC,0.51,Regional Banks
+HTBK,0.962,Regional Banks
+MCS,1.58,Movies and Entertainment
+AGEN,1.49,Biotechnology
+JANX,1.73,Biotechnology
+DXPE,1.86,Trading Companies and Distributors
+ACCO,1.85,Office Services and Supplies
+CRMT,1.42,Automotive Retail
+COOK,1.98,Household Appliances
+POWL,0.958,Electrical Components and Equipment
+HCKT,0.882,IT Consulting and Other Services
+DHIL,0.893,Asset Management and Custody Banks
+SHCR,0.417,Health Care Technology
+HIFS,0.914,Regional Banks
+AVTE,0.816,Biotechnology
+SKYT,2.59,Semiconductors
+DGIC.A,-0.015,Property and Casualty Insurance
+PLCE,2,Apparel Retail
+CCBG,0.628,Regional Banks
+AMRS,1.1,Specialty Chemicals
+REX,0.968,Oil and Gas Refining and Marketing
+MXCT,0.705,Life Sciences Tools and Services
+ACRE,1.46,Mortgage REITs
+IRMD,1.05,Health Care Equipment
+DOMO,2.18,Application Software
+ABUS,2.26,Biotechnology
+VHI,1.48,Specialty Chemicals
+CDNA,1.03,Biotechnology
+EDIT,1.9,Biotechnology
+MBWM,1.02,Regional Banks
+MYPS,0.342,Interactive Home Entertainment
+EGY,1.6,Oil and Gas Exploration and Production
+OLP,1.35,Diversified REITs
+TRC,0.694,Diversified Real Estate Activities
+ITOS,1.42,Biotechnology
+CMBM,0.851,Communications Equipment
+LBC,0.707,Regional Banks
+CPF,1.12,Regional Banks
+BZH,2.15,Homebuilding
+SSTI,1.37,Application Software
+HBNC,0.902,Regional Banks
+MSBI,0.865,Regional Banks
+CECO,1.32,Environmental and Facilities Services
+NESR,0.891,Oil and Gas Equipment and Services
+WRLD,1.28,Consumer Finance
+BVH,1.71,"Hotels, Resorts and Cruise Lines"
+TRDA,0.781,Biotechnology
+FMNB,0.843,Regional Banks
+SLGC,1.93,Life Sciences Tools and Services
+EZPW,1.23,Consumer Finance
+BELF.B,1.68,Electronic Components
+EOLS,1.91,Pharmaceuticals
+CCB,1.1,Regional Banks
+TILE,1.91,Office Services and Supplies
+EGHT,1.31,Application Software
+LEU,2.11,Coal and Consumable Fuels
+HA,1.93,Passenger Airlines
+MVIS,3.21,Electronic Equipment and Instruments
+CVLG,1.39,Cargo Ground Transportation
+ATCX,1.09,Research and Consulting Services
+LASR,2.26,Electronic Equipment and Instruments
+GCO,1.95,Apparel Retail
+CUTR,1.58,Health Care Equipment
+NSTG,1.59,Life Sciences Tools and Services
+FARO,1.33,Electronic Equipment and Instruments
+EVLV,1.32,Electronic Equipment and Instruments
+IVR,1.55,Mortgage REITs
+HCI,0.804,Property and Casualty Insurance
+XPER,2.108969697,Systems Software
+LXRX,1.32,Biotechnology
+DTC,2.32,Leisure Products
+UWMC,1.49,Commercial and Residential Mortgage Finance
+VALU,0.585,Financial Exchanges and Data
+LXFR,0.975,Industrial Machinery and Supplies and Components
+WSR,1.24,Retail REITs
+CSV,0.832,Specialized Consumer Services
+MPX,1.2,Leisure Products
+ERAS,1.59,Biotechnology
+EVER,1.23,Interactive Media and Services
+CURV,1.72,Apparel Retail
+THFF,0.567,Regional Banks
+GATO,2.25,Silver
+KBAL,0.979,Office Services and Supplies
+LQDA,0.105,Pharmaceuticals
+IBEX,0.664,Data Processing and Outsourced Services
+FNKO,1.59,Distributors
+MRSN,1.8,Biotechnology
+MGNX,1.95,Biotechnology
+OSUR,0.089,Health Care Supplies
+KPTI,0.037,Biotechnology
+ZYXI,0.662,Health Care Equipment
+LOVE,2.41,Home Furnishings
+FFIC,0.698,Regional Banks
+SB,0.922,Marine Transportation
+OPY,1.16,Investment Banking and Brokerage
+VLD,2.99,Industrial Machinery and Supplies and Components
+RMR,1.49,Diversified Real Estate Activities
+BOOM,1.61,Oil and Gas Equipment and Services
+VVI,1.77,Diversified Support Services
+CPSI,0.732,Health Care Technology
+BFST,0.811,Regional Banks
+MCBS,0.395,Regional Banks
+MITK,0.796,Application Software
+PACK,1.61,Paper and Plastic Packaging Products and Materials
+AMSW.A,0.823,Application Software
+OABI,2.594117647,Life Sciences Tools and Services
+ARL,0.559,Real Estate Operating Companies
+WVE,-0.867,Pharmaceuticals
+PNTG,2.11,Health Care Facilities
+HTBI,0.65,Regional Banks
+SGHT,1.78,Health Care Equipment
+SMBC,0.894,Regional Banks
+EWTX,-0.07,Pharmaceuticals
+NRIX,1.72,Biotechnology
+LUNG,0.32,Health Care Supplies
+ANIK,0.86,Biotechnology
+FFWM,0.957,Regional Banks
+QTRX,1.37,Life Sciences Tools and Services
+RSVR,1.29,Movies and Entertainment
+ORC,1.64,Mortgage REITs
+ATRO,1.6,Aerospace and Defense
+SRRK,0.784,Biotechnology
+LQDT,1.54,Diversified Support Services
+ONTF,0.078,Application Software
+SIGA,0.869,Pharmaceuticals
+CMPX,0.472,Biotechnology
+CTLP,1.79,Transaction and Payment Processing Services
+AROW,0.682,Regional Banks
+OCUL,1.27,Pharmaceuticals
+RYAM,3.15,Specialty Chemicals
+EBIX,2.42,Application Software
+MPB,0.566,Regional Banks
+FCBC,0.535,Regional Banks
+QRTE.A,1.94,Broadline Retail
+CLOV,2.1,Managed Health Care
+ANGO,0.622,Health Care Equipment
+CCNE,0.847,Regional Banks
+MLR,1.01,Construction Machinery and Heavy Transportation Equipment
+AXGN,0.541,Health Care Equipment
+CGEM,0.119,Biotechnology
+ONEW,2.46,Automotive Retail
+NVEC,1.19,Semiconductors
+IRON,2.847781333,Biotechnology
+RXT,1.41,Internet Services and Infrastructure
+SENE.A,0.711,Packaged Foods and Meats
+BHB,0.805,Regional Banks
+NRDY,1.39,Education Services
+CTO,0.659,Diversified REITs
+BRT,1.09,Multi-Family Residential REITs
+HDSN,1.48,Trading Companies and Distributors
+LAW,1.86,Application Software
+DMRC,1.49,Application Software
+CRD.A,0.659,Insurance Brokers
+SMBK,0.743,Regional Banks
+HOV,2.56,Homebuilding
+AVNW,1.66,Communications Equipment
+DJCO,0.841,Publishing
+ATLC,1.75,Consumer Finance
+METC,1.13,Steel
+BWMN,0.873,Construction and Engineering
+NGMS,1.48,Casinos and Gaming
+MDXG,1.6,Biotechnology
+BAND,1.26,Alternative Carriers
+GCBC,0.283,Regional Banks
+VNDA,0.716,Biotechnology
+EQBK,0.785,Regional Banks
+THRX,2.29,Pharmaceuticals
+GLUE,1.98,Biotechnology
+MOFG,0.969,Regional Banks
+BFLY,1.81,Health Care Equipment
+MVST,1.27,Construction Machinery and Heavy Transportation Equipment
+TCMD,1.2,Health Care Equipment
+ALLK,0.479,Biotechnology
+ONL,0.641,Office REITs
+PWP,1.62,Investment Banking and Brokerage
+LYTS,1.09,Electrical Components and Equipment
+EBTC,0.515,Regional Banks
+HIPO,0.758,Insurance Brokers
+BBCP,1.08,Construction and Engineering
+IBCP,0.956,Regional Banks
+ATXS,0.894,Biotechnology
+MCB,1.09,Regional Banks
+EGRX,0.916,Biotechnology
+TPB,0.493,Tobacco
+VMD,0.95,Health Care Services
+ALPN,1.29,Biotechnology
+FSBC,0.656,Regional Banks
+STOK,0.421,Biotechnology
+TCI,0.521,Real Estate Operating Companies
+RMNI,0.873,Application Software
+SPFI,0.642,Regional Banks
+NUVB,0.663,Pharmaceuticals
+GAMB,0.59,Advertising
+SLQT,0.378,Insurance Brokers
+GLDD,0.976,Construction and Engineering
+ALVR,0.843,Biotechnology
+GNE,0.384,Electric Utilities
+ZUMZ,1.5,Apparel Retail
+VOR,-0.69,Biotechnology
+GEVO,3.08,Oil and Gas Refining and Marketing
+HYLN,1.51,Construction Machinery and Heavy Transportation Equipment
+ASRT,1.39,Pharmaceuticals
+NETI,1.09,Marine Transportation
+LOCO,1.31,Restaurants
+DNMR,1.42,Specialty Chemicals
+AURA,0.804,Biotechnology
+MCBC,0.654,Regional Banks
+CLAR,0.949,Leisure Products
+BMRC,0.732,Regional Banks
+VIGL,0.836,Biotechnology
+DSKE,1.88,Cargo Ground Transportation
+TNGX,1.73,Biotechnology
+CMTL,1.72,Communications Equipment
+WSBF,0.439,Commercial and Residential Mortgage Finance
+NAUT,0.703,Life Sciences Tools and Services
+SMTI,1.89,Health Care Supplies
+RRBI,0.608,Regional Banks
+NR,2.85,Oil and Gas Equipment and Services
+DXLG,1.48,Apparel Retail
+PTRA,1.19,Construction Machinery and Heavy Transportation Equipment
+UTMD,0.167,Health Care Supplies
+VERA,-0.035,Biotechnology
+REI,1.96,Oil and Gas Exploration and Production
+MRNS,1.21,Pharmaceuticals
+TREE,1.93,Consumer Finance
+TTI,2.59,Oil and Gas Equipment and Services
+SENS,0.926,Health Care Equipment
+BNGO,2.32,Life Sciences Tools and Services
+BLUE,0.987,Biotechnology
+HMST,0.993,Regional Banks
+AMNB,0.96,Regional Banks
+TARS,0.693,Pharmaceuticals
+INSE,1.66,Casinos and Gaming
+WLFC,1.03,Trading Companies and Distributors
+CARE,0.994,Regional Banks
+NGM,1.23,Pharmaceuticals
+LPSN,1.58,Application Software
+BGRY,1.75,Industrial Machinery and Supplies and Components
+RMAX,1.45,Real Estate Services
+VYGR,1.18,Biotechnology
+RCEL,0.969,Biotechnology
+IPI,2.02,Fertilizers and Agricultural Chemicals
+GNTY,0.459,Regional Banks
+CZNC,0.343,Regional Banks
+NVTA,1.87,Health Care Services
+VLGE.A,0.268,Food Retail
+TSP,2.89,Cargo Ground Transportation
+OMGA,1.82,Biotechnology
+PETQ,1.87,Health Care Distributors
+FMAO,0.405,Regional Banks
+PETS,0.684,Other Specialty Retail
+BBW,1.91,Other Specialty Retail
+SKIL,1.28,Human Resource and Employment Services
+WEAV,1.56,Application Software
+SWIM,2.05,Leisure Products
+GLRE,0.958,Reinsurance
+CSTR,0.86,Regional Banks
+CRBU,1.93,Biotechnology
+GCMG,0.507,Asset Management and Custody Banks
+KODK,3.76,"Technology Hardware, Storage and Peripherals"
+SCPH,0.217,Pharmaceuticals
+DHC,1.71,Health Care REITs
+OUST,2.57,Electronic Equipment and Instruments
+FF,0.718,Specialty Chemicals
+KOD,1.79,Biotechnology
+DSGN,1.26,Biotechnology
+ALRS,0.64,Diversified Financial Services
+SRDX,0.955,Health Care Equipment
+HLLY,1.16,Automotive Parts and Equipment
+LE,2.83,Apparel Retail
+QUOT,0.97,Advertising
+SPWH,0.909,Other Specialty Retail
+HUMA,1.21,Biotechnology
+BIG,2.04,Broadline Retail
+NNOX,1.9,Health Care Equipment
+TPC,1.5,Construction and Engineering
+RAIN,1.66,Pharmaceuticals
+RLGT,0.899,Air Freight and Logistics
+RELL,0.796,Technology Distributors
+AKYA,1.44,Life Sciences Tools and Services
+TIG,-0.356,Property and Casualty Insurance
+USX,1.75,Cargo Ground Transportation
+WISH,1.56,Broadline Retail
+NWPX,0.899,Construction and Engineering
+PFIS,0.245,Regional Banks
+OOMA,0.855,Integrated Telecommunication Services
+GOEV,1.23,Automobile Manufacturers
+NATH,0.195,Restaurants
+AAN,1.11,Homefurnishing Retail
+OSG,0.319,Oil and Gas Storage and Transportation
+TG,0.908,Aluminum
+WTBA,0.857,Regional Banks
+FLIC,0.541,Regional Banks
+JMSB,0.736,Regional Banks
+HNRG,0.745,Coal and Consumable Fuels
+MEC,0.868,Industrial Machinery and Supplies and Components
+BWB,0.675,Regional Banks
+ESQ,0.841,Regional Banks
+BRCC,0.465,Packaged Foods and Meats
+PSTL,0.637,Office REITs
+HQI,1.09,Human Resource and Employment Services
+FUBO,2.45,Interactive Media and Services
+ODC,0.482,Household Products
+PHAT,0.377,Pharmaceuticals
+CMAX,1.88,Health Care Services
+LMNR,0.616,Agricultural Products and Services
+GWRS,0.73,Water Utilities
+SGMO,1.17,Biotechnology
+NRGV,0.057,Heavy Electrical Equipment
+FISI,0.923,Regional Banks
+CNSL,1.25,Integrated Telecommunication Services
+NL,0.799,Office Services and Supplies
+VEL,0.814,Commercial and Residential Mortgage Finance
+RBB,0.84,Regional Banks
+ASUR,0.712,Application Software
+PRTS,2.2,Automotive Retail
+OMER,1.02,Pharmaceuticals
+WGS,2.21,Health Care Services
+VOXX,1.4,Consumer Electronics
+KNTE,0.19,Biotechnology
+PEPG,2.847781333,Biotechnology
+WW,1.63,Specialized Consumer Services
+IMMR,1.43,"Technology Hardware, Storage and Peripherals"
+SBT,0.753,Regional Banks
+FNLC,0.502,Regional Banks
+LVOX,-0.423,Application Software
+INGN,1.05,Health Care Equipment
+SOI,1.48,Oil and Gas Equipment and Services
+ITIC,0.689,Property and Casualty Insurance
+RBOT,1.26,Health Care Equipment
+AIRS,2.37,Health Care Services
+SHBI,0.878,Regional Banks
+UONE,0.935,Broadcasting
+UONE.K,0.935,Broadcasting
+ARAY,1.52,Health Care Equipment
+PRTH,0.855,Transaction and Payment Processing Services
+BIVI,2.54,Biotechnology
+GBIO,1.95,Biotechnology
+PPTA,0.979,Gold
+OTLK,0.689,Biotechnology
+ORGO,1.46,Biotechnology
+AVIR,0.253,Pharmaceuticals
+MULN,2.91,Automobile Manufacturers
+ACRV,2.847781333,Biotechnology
+ATRA,0.982,Biotechnology
+STRO,0.92,Biotechnology
+ACNB,0.368,Regional Banks
+PRPL,1.66,Home Furnishings
+MASS,0.621,Electronic Equipment and Instruments
+CIO,1.58,Office REITs
+HLTH,1.57,Health Care Equipment
+FFIE,2.1,Automobile Manufacturers
+PKE,0.565,Aerospace and Defense
+CMCL,0.769,Gold
+EP,1.53,Oil and Gas Exploration and Production
+NODK,0.263,Property and Casualty Insurance
+URG,1.51,Coal and Consumable Fuels
+HBCP,0.662,Regional Banks
+JILL,1.3,Apparel Retail
+CDXS,1.63,Life Sciences Tools and Services
+PANL,0.738,Marine Transportation
+DC,2.042666667,Gold
+VRCA,2.03,Pharmaceuticals
+PRLD,0.442,Biotechnology
+NC,0.838,Coal and Consumable Fuels
+AGS,2.34,Casinos and Gaming
+NRIM,0.684,Regional Banks
+CDZI,0.699,Water Utilities
+KALV,1.11,Biotechnology
+NREF,1.73,Mortgage REITs
+PGEN,1.92,Biotechnology
+HMPT,1.4,Commercial and Residential Mortgage Finance
+HT,2.04,Hotel and Resort REITs
+NGVC,0.918,Food Retail
+PSTX,0.373,Biotechnology
+AMPY,2.55,Oil and Gas Exploration and Production
+LLAP,0.578,Aerospace and Defense
+CIVB,0.793,Regional Banks
+SMMF,0.433,Regional Banks
+KRT,0.471,Trading Companies and Distributors
+CARA,0.98,Pharmaceuticals
+UIS,0.739,IT Consulting and Other Services
+GCI,2.47,Publishing
+DOUG,1.51,Real Estate Services
+FET,2.85,Oil and Gas Equipment and Services
+VUZI,2.03,Consumer Electronics
+AEVA,1.19,Electronic Equipment and Instruments
+MVBF,0.822,Regional Banks
+GPMT,1.63,Mortgage REITs
+FHTX,2.15,Biotechnology
+CABA,2.57,Biotechnology
+KLTR,0.588,Application Software
+BSRR,0.933,Regional Banks
+EHTH,0.57,Insurance Brokers
+FDBC,0.355,Regional Banks
+DAKT,1.15,Electronic Equipment and Instruments
+BARK,1.5,Other Specialty Retail
+TDUP,0.445,Apparel Retail
+ORIC,0.404,Biotechnology
+IMRX,0.098,Biotechnology
+PFMT,-0.389,Diversified Support Services
+STKS,2.23,Restaurants
+CCRD,0.983,Application Software
+LCTX,1.66,Biotechnology
+FBIZ,0.725,Regional Banks
+RNGR,1.28,Oil and Gas Equipment and Services
+QIPT,1.55,Health Care Services
+NBN,1.29,Regional Banks
+EEX,1.27,Advertising
+MGTX,1.44,Biotechnology
+CWCO,0.169,Water Utilities
+BHR,2.36,Hotel and Resort REITs
+UTI,0.884,Education Services
+INZY,0.786,Biotechnology
+SKLZ,2.68,Interactive Home Entertainment
+OPRX,1.03,Health Care Technology
+AFCG,1.09,Mortgage REITs
+FLL,1.83,Casinos and Gaming
+EVI,0.298,Trading Companies and Distributors
+BLFY,0.321,Regional Banks
+RM,1.49,Consumer Finance
+OBT,0.258,Regional Banks
+PBFS,0.404,Regional Banks
+ACET,2.02,Biotechnology
+SFST,0.824,Regional Banks
+THRN,0.884,Personal Care Products
+III,0.903,IT Consulting and Other Services
+QSI,2.31,Life Sciences Tools and Services
+SEER,1.26,Life Sciences Tools and Services
+RDVT,1.24,Research and Consulting Services
+JYNT,1.35,Health Care Facilities
+DZSI,1.35,Communications Equipment
+REFI,0.461,Mortgage REITs
+EGAN,0.608,Application Software
+GRTS,0.525,Biotechnology
+CPS,2.67,Automotive Parts and Equipment
+BLDE,0.803,Passenger Airlines
+CVGI,3.06,Construction Machinery and Heavy Transportation Equipment
+LSEA,0.622,Homebuilding
+CVCY,0.81,Regional Banks
+XOMA,0.888,Biotechnology
+BLND,0.945,Application Software
+UNTY,1.02,Regional Banks
+PBPB,1.34,Restaurants
+ATNM,0.434,Biotechnology
+CANO,0.081,Health Care Facilities
+LUNA,1.31,Electronic Equipment and Instruments
+ICVX,0.408,Biotechnology
+WEYS,0.873,Distributors
+NWFL,0.441,Regional Banks
+FTCI,1.87,Electrical Components and Equipment
+BHIL,1.54,Agricultural Products and Services
+FRST,0.77,Regional Banks
+FEAM,0.864,Diversified Metals and Mining
+PINE,0.854,Diversified REITs
+EOSE,2.41,Electrical Components and Equipment
+CBNK,0.515,Regional Banks
+MLP,0.54,Real Estate Development
+ARIS,0.953,Environmental and Facilities Services
+CLMB,0.885,Technology Distributors
+INOD,2.06,Research and Consulting Services
+VATE,2.23,Construction and Engineering
+POWW,0.484,Leisure Products
+TLYS,1.8,Apparel Retail
+RGCO,-0.04,Gas Utilities
+RIGL,0.756,Biotechnology
+QUAD,1.77,Commercial Printing
+SWKH,0.325,Specialized Finance
+RRGB,2.72,Restaurants
+FSBW,1.05,Regional Banks
+VCSA,1.47,"Hotels, Resorts and Cruise Lines"
+CRGE,3.03,Alternative Carriers
+TGAN,0.312,Semiconductors
+WKHS,2.86,Automobile Manufacturers
+PCYO,0.878,Water Utilities
+MBCN,0.549,Regional Banks
+ACTG,0.426,Specialized Finance
+GENC,0.49,Industrial Machinery and Supplies and Components
+NDLS,1.47,Restaurants
+BSVN,1.61,Regional Banks
+INTT,1.93,Semiconductor Materials and Equipment
+XERS,1.05,Pharmaceuticals
+CIX,0.635,Office Services and Supplies
+BCBP,0.625,Regional Banks
+SVRA,0.939,Biotechnology
+CELC,0.63,Biotechnology
+TSBK,0.944,Regional Banks
+KZR,0.255,Biotechnology
+AKTS,1.74,Electronic Components
+CPSS,2.22,Consumer Finance
+FENC,0.11,Biotechnology
+CNTY,2.57,Casinos and Gaming
+YMAB,0.717,Biotechnology
+KFS,-0.261,Property and Casualty Insurance
+PMVP,0.986,Biotechnology
+KVHI,0.56,Communications Equipment
+BCML,0.719,Regional Banks
+NN,1.89,Application Software
+RLYB,0.311,Biotechnology
+PLM,0.625,Diversified Metals and Mining
+CLSK,3.29,Application Software
+URGN,0.763,Biotechnology
+OPTN,-0.266,Pharmaceuticals
+INO,1.09,Biotechnology
+SCU,1.73,Asset Management and Custody Banks
+GWH,1.94,Electrical Components and Equipment
+FRGI,1.78,Restaurants
+DLTH,1.14,Apparel Retail
+TCBX,0.258,Regional Banks
+VERI,3.15,Application Software
+AMRX,1.37,Pharmaceuticals
+ORRF,0.879,Regional Banks
+PKBK,0.764,Regional Banks
+MHLD,1.1,Reinsurance
+OB,1.51,Interactive Media and Services
+TCX,0.845,Internet Services and Infrastructure
+HFFG,1.56,Food Distributors
+APLD,4.84,Application Software
+WLDN,1.26,Research and Consulting Services
+EPM,0.995,Oil and Gas Exploration and Production
+GRWG,3.11,Home Improvement Retail
+TTSH,1.39,Home Improvement Retail
+BKSY,0.722,Research and Consulting Services
+ALT,0.095,Biotechnology
+PCB,0.702,Regional Banks
+CLPT,1.15,Health Care Equipment
+IPSC,0.987,Biotechnology
+TELA,0.979,Health Care Supplies
+OCN,2.04,Commercial and Residential Mortgage Finance
+TRUE,1.42,Interactive Media and Services
+SMHI,1.52,Oil and Gas Equipment and Services
+HOFT,0.963,Home Furnishings
+XAIR,-0.273,Health Care Equipment
+MG,1.5,Research and Consulting Services
+SPOK,0.262,Wireless Telecommunication Services
+RSI,1.64,Casinos and Gaming
+ILPT,1.12,Industrial REITs
+PLBC,0.653,Regional Banks
+TUSK,1.75,Oil and Gas Equipment and Services
+HYZN,2.42,Construction Machinery and Heavy Transportation Equipment
+ITI,0.917,Electronic Equipment and Instruments
+CVLY,0.539,Regional Banks
+ESCA,1.15,Leisure Products
+BPRN,0.573,Regional Banks
+JSPR,2.02,Biotechnology
+USCB,0.366,Regional Banks
+SSBK,0.292,Regional Banks
+FRBA,0.763,Regional Banks
+KRMD,0.423,Health Care Equipment
+LRMR,0.241,Biotechnology
+CHMG,0.137,Regional Banks
+RDW,1.75,Aerospace and Defense
+NATR,0.84,Personal Care Products
+ANNX,0.527,Biotechnology
+OVLY,0.294,Regional Banks
+NECB,0.575,Regional Banks
+NVCT,-0.009,Biotechnology
+AVAH,1.32,Health Care Services
+BRBS,0.386,Regional Banks
+OCGN,3.79,Biotechnology
+NINE,3.43,Oil and Gas Equipment and Services
+CVRX,1.37,Health Care Equipment
+CTV,0.833,Advertising
+VABK,0.545,Regional Banks
+ANTX,1.83,Pharmaceuticals
+KLXE,2.08,Oil and Gas Equipment and Services
+TNYA,2.21,Biotechnology
+ZIMV,1.09,Health Care Equipment
+PAYS,1.06,Transaction and Payment Processing Services
+ZVRA,2.14,Pharmaceuticals
+COFS,0.296,Regional Banks
+BWFG,0.699,Regional Banks
+IVAC,0.654,"Technology Hardware, Storage and Peripherals"
+PDSB,1.93,Biotechnology
+BCOV,0.761,Internet Services and Infrastructure
+FVCB,0.286,Regional Banks
+MYFW,0.725,Regional Banks
+MKFG,0.961,Industrial Machinery and Supplies and Components
+TCFC,0.776,Regional Banks
+ATLO,0.517,Regional Banks
+ZVIA,1.75,Soft Drinks and Non-alcoholic Beverages
+NKSH,0.412,Regional Banks
+RENT,1.95,Other Specialty Retail
+CIA,0.143,Life and Health Insurance
+ALXO,1.76,Biotechnology
+CRMD,2.22,Pharmaceuticals
+LCNB,0.694,Regional Banks
+ALCO,0.821,Agricultural Products and Services
+VRA,1.91,"Apparel, Accessories and Luxury Goods"
+SMLR,0.796,Health Care Equipment
+WNEB,0.53,Regional Banks
+PDLB,0.34,Regional Banks
+BBBY,1.64,Homefurnishing Retail
+AOMR,1.31,Mortgage REITs
+OVID,1.1,Biotechnology
+EVBN,0.916,Regional Banks
+LMB,1.07,Construction and Engineering
+HRTX,0.861,Biotechnology
+BIRD,2,Footwear
+CBAN,0.55,Regional Banks
+CFFI,0.274,Regional Banks
+PEBK,0.606,Regional Banks
+LINC,1.07,Education Services
+TLS,0.535,Systems Software
+GLSI,3.66,Biotechnology
+HBIO,1.55,Life Sciences Tools and Services
+AADI,0.621,Biotechnology
+DHX,1.28,Interactive Media and Services
+FULC,2.25,Pharmaceuticals
+EGIO,0.969,Internet Services and Infrastructure
+MACK,1.86,Biotechnology
+ELA,0.092,Other Specialty Retail
+WULF,1.24,Application Software
+SAMG,0.855,Asset Management and Custody Banks
+NKTX,0.178,Biotechnology
+TCS,1.47,Other Specialty Retail
+MFIN,2.02,Consumer Finance
+CATO,1.06,Apparel Retail
+CTXR,1.4,Pharmaceuticals
+MNSB,0.491,Regional Banks
+AXTI,2.11,Semiconductor Materials and Equipment
+RCKY,1.16,Footwear
+TBNK,0.558,Regional Banks
+JAKK,2.2,Leisure Products
+HNST,1.58,Personal Care Products
+FGBI,0.473,Regional Banks
+LMST,0.769,Regional Banks
+ABOS,0.248,Biotechnology
+SRT,1.41,Data Processing and Outsourced Services
+HEAR,1.98,"Technology Hardware, Storage and Peripherals"
+THRD,1.901531532,Pharmaceuticals
+BGFV,2.73,Other Specialty Retail
+BYRN,1.47,Aerospace and Defense
+SOND,2.17,"Hotels, Resorts and Cruise Lines"
+XXII,1.84,Tobacco
+FOSL,2.08,"Apparel, Accessories and Luxury Goods"
+HURC,0.467,Industrial Machinery and Supplies and Components
+STRS,1.12,Real Estate Development
+PWOD,0.454,Regional Banks
+PNRG,0.75,Oil and Gas Exploration and Production
+CALB,1.04,Regional Banks
+GHL,1.28,Investment Banking and Brokerage
+FSP,0.863,Office REITs
+FCUV,-0.071,Electronic Equipment and Instruments
+INFU,1.2,Health Care Services
+ABSI,2.05,Biotechnology
+BEEM,1.24,Electrical Components and Equipment
+BSET,1.58,Home Furnishings
+LTRX,2.29,Communications Equipment
+RIDE,1.32,Automobile Manufacturers
+HWBK,0.422,Regional Banks
+DLHC,1.44,Human Resource and Employment Services
+UP,1.95,Passenger Airlines
+PESI,0.826,Environmental and Facilities Services
+DIBS,1.33,Broadline Retail
+ATOM,1.6,Semiconductor Materials and Equipment
+CTRN,2.29,Apparel Retail
+LAB,1.56,Life Sciences Tools and Services
+CUE,1.98,Biotechnology
+CCCC,2.25,Biotechnology
+SACH,1.43,Mortgage REITs
+ESSA,0.311,Regional Banks
+STXS,1.7,Health Care Equipment
+AJX,1.76,Mortgage REITs
+FCCO,0.499,Regional Banks
+CMT,1.78,Commodity Chemicals
+BODY,1.51,Specialized Consumer Services
+RPHM,1.51,Biotechnology
+AGIL,-0.224,IT Consulting and Other Services
+INBK,0.543,Regional Banks
+WMPN,0.518,Regional Banks
+ADTH,0.725,Advertising
+ML,1.94,Consumer Finance
+UFI,0.902,Textiles
+LTRP.A,2.32,Interactive Media and Services
+AIP,1.52,Systems Software
+CTSO,0.764,Health Care Equipment
+CONN,2.58,Computer and Electronics Retail
+MTRX,1.63,Construction and Engineering
+PKOH,1.33,Industrial Machinery and Supplies and Components
+PRTK,1.52,Pharmaceuticals
+BDSX,1.49,Health Care Services
+AMSC,1.35,Electrical Components and Equipment
+MPAA,1.38,Automotive Parts and Equipment
+PLBY,2.29,"Apparel, Accessories and Luxury Goods"
+PBYI,1.03,Biotechnology
+HBB,0.752,Household Appliances
+MHH,0.723,Human Resource and Employment Services
+GLT,1.66,Paper Products
+GRPH,1.12,Biotechnology
+CSTE,0.562,Building Products
+BKKT,4.51,Financial Exchanges and Data
+OLMA,2.36,Biotechnology
+MRBK,0.509,Regional Banks
+PTRS,0.639,Regional Banks
+BHG,1.74,Life and Health Insurance
+INVE,1.61,Electronic Equipment and Instruments
+MRAM,1.32,Semiconductors
+TSQ,1.53,Broadcasting
+GHM,0.481,Industrial Machinery and Supplies and Components
+PRCH,0.998,Application Software
+SUP,3.92,Automotive Parts and Equipment
+UPLD,0.868,Application Software
+ISTR,0.474,Regional Banks
+GTHX,1.83,Biotechnology
+SAL,0.634,Regional Banks
+CHMI,1.34,Mortgage REITs
+TRHC,1.54,Health Care Technology
+ARC,1.41,Office Services and Supplies
+OPBK,0.539,Regional Banks
+PYXS,1.12,Biotechnology
+SGA,0.466,Broadcasting
+SNFC.A,0.743,Commercial and Residential Mortgage Finance
+DOMA,1.5,Real Estate Services
+ASYS,1.57,Semiconductor Materials and Equipment
+ANIX,0.929,Biotechnology
+NKTR,1.1,Pharmaceuticals
+CAMP,2.03,Communications Equipment
+TWIN,1.04,Construction Machinery and Heavy Transportation Equipment
+BSBK,0.593,Regional Banks
+IVVD,0.977,Biotechnology
+PRPH,-0.371,Pharmaceuticals
+CMPO,0.831,"Technology Hardware, Storage and Peripherals"
+FRAF,0.517,Regional Banks
+OPAD,1.82,Real Estate Services
+AOUT,0.193,Leisure Products
+SGC,1.11,"Apparel, Accessories and Luxury Goods"
+LAZY,1.76,Automotive Retail
+UEIC,1.26,Consumer Electronics
+EYEN,1.67,Pharmaceuticals
+HNVR,1.535628049,Regional Banks
+GRPN,1.82,Broadline Retail
+PSNL,1.44,Life Sciences Tools and Services
+OPRT,1.73,Consumer Finance
+NGS,1.34,Oil and Gas Equipment and Services
+ISSC,0.925,Aerospace and Defense
+BCAB,0.245,Biotechnology
+ECBK,1.535628049,Regional Banks
+BTBT,4.55,Application Software
+CFBK,0.615,Regional Banks
+BRID,-0.479,Packaged Foods and Meats
+BBLN,1.42,Health Care Technology
+LCUT,1.23,Housewares and Specialties
+FSTR,1.01,Industrial Machinery and Supplies and Components
+ANVS,1.25,Biotechnology
+FNWD,0.424,Regional Banks
+PLSE,1.12,Health Care Equipment
+IKNA,0.796,Pharmaceuticals
+REAL,2.4,Apparel Retail
+GALT,1.42,Biotechnology
+STTK,1.21,Biotechnology
+VRM,1.67,Automotive Retail
+FORA,1.1,Health Care Technology
+RAD,1.2,Drug Retail
+MDWD,0.98,Pharmaceuticals
+EPSN,0.315,Oil and Gas Exploration and Production
+RMBI,0.606,Regional Banks
+UIHC,-0.13,Property and Casualty Insurance
+FNCB,0.336,Regional Banks
+ESPR,0.246,Pharmaceuticals
+CASA,1.11,Communications Equipment
+PWFL,1.45,Electronic Equipment and Instruments
+TAST,2.37,Restaurants
+SPRU,1.24,Automotive Parts and Equipment
+EML,1.04,Industrial Machinery and Supplies and Components
+QRHC,0.744,Environmental and Facilities Services
+BCLI,-0.444,Biotechnology
+QMCO,2.54,"Technology Hardware, Storage and Peripherals"
+MITT,1.9,Mortgage REITs
+CENN,1.93,Automobile Manufacturers
+ENZ,0.875,Health Care Services
+CPHC,-0.108,Casinos and Gaming
+PLX,1.47,Biotechnology
+VNRX,1.73,Health Care Supplies
+ARAV,2.34,Biotechnology
+GOSS,1.25,Biotechnology
+KOPN,2.48,Semiconductors
+OPOF,0.23,Regional Banks
+TTCF,0.568,Packaged Foods and Meats
+SERA,1.3,Biotechnology
+PVBC,0.698,Regional Banks
+NPCE,1.04,Health Care Equipment
+FFNW,0.408,Regional Banks
+LL,2.18,Home Improvement Retail
+INMB,2.01,Biotechnology
+VERY,0.342,Life and Health Insurance
+PCYG,1.12,Application Software
+FAT,2.05,Restaurants
+FATB.B,2.05,Restaurants
+MLVF,0.66,Regional Banks
+ASTR,2.16,Aerospace and Defense
+BGSF,1.79,Human Resource and Employment Services
+CDXC,1.86,Life Sciences Tools and Services
+RVSB,0.707,Regional Banks
+LFCR,1.11,Packaged Foods and Meats
+CTG,0.885,IT Consulting and Other Services
+CDLX,1.83,Advertising
+ARMP,0.609,Biotechnology
+SCOR,1.14,Advertising
+RVLP,1.1,Pharmaceuticals
+FINW,0.421,Regional Banks
+FXLV,1.05,Leisure Facilities
+NTIC,0.873,Specialty Chemicals
+ALTO,2.52,Oil and Gas Refining and Marketing
+TALK,1.08,Health Care Services
+FUNC,0.753,Regional Banks
+DMTK,2.58,Biotechnology
+OVBC,0.126,Regional Banks
+LIFE,1.23,Biotechnology
+AFMD,2.57,Biotechnology
+CBFV,0.549,Regional Banks
+CMRX,1.18,Biotechnology
+CZWI,0.939,Regional Banks
+TUP,2.26,Housewares and Specialties
+TRVI,0.735,Pharmaceuticals
+BFIN,0.39,Regional Banks
+NOTV,2.57,Life Sciences Tools and Services
+CWBC,0.642,Regional Banks
+VIEW,1.08,Building Products
+LTCH,1.78,Application Software
+AHT,2.29,Hotel and Resort REITs
+FSFG,0.656,Regional Banks
+EBMT,0.529,Regional Banks
+GRTX,1.75,Biotechnology
+UBFO,0.601,Regional Banks
+GNSS,0.337,Communications Equipment
+BATL,1.21,Oil and Gas Exploration and Production
+FONR,0.871,Health Care Equipment
+FREE,0.485,Packaged Foods and Meats
+LARK,0.324,Regional Banks
+LAKE,0.483,"Apparel, Accessories and Luxury Goods"
+CAPR,4.1,Biotechnology
+DRIO,1.35,Health Care Equipment
+MNOV,0.98,Biotechnology
+XFOR,0.259,Biotechnology
+LFT,1.21,Mortgage REITs
+HGBL,1.32,Asset Management and Custody Banks
+YELL,2.83,Cargo Ground Transportation
+XBIT,1.19,Biotechnology
+MNTX,0.614,Construction Machinery and Heavy Transportation Equipment
+RCMT,0.871,Research and Consulting Services
+FBIO,1.96,Biotechnology
+OFED,0.37,Regional Banks
+AREC,-5.13,Coal and Consumable Fuels
+APEI,0.773,Education Services
+ALOT,0.637,"Technology Hardware, Storage and Peripherals"
+PBHC,0.039,Regional Banks
+RDI,1.58,Movies and Entertainment
+VXRT,0.828,Biotechnology
+HYPR,0.31,Health Care Equipment
+FNWB,0.697,Regional Banks
+DIT,0.421,Distributors
+KULR,0.443,Electrical Components and Equipment
+CVM,1.71,Biotechnology
+SONX,2.15,Health Care Equipment
+SCTL,0.693,Pharmaceuticals
+EYPT,1.04,Pharmaceuticals
+INTG,0.394,Real Estate Operating Companies
+EARN,1.82,Mortgage REITs
+STRM,1.31,Health Care Technology
+CTMX,0.693,Biotechnology
+UNB,0.787,Regional Banks
+FLXS,0.647,Home Furnishings
+APYX,1.29,Health Care Equipment
+FXNC,0.608,Regional Banks
+SBFG,0.822,Regional Banks
+RMBL,2.31,Automotive Retail
+ETON,1.45,Pharmaceuticals
+SCYX,2.03,Pharmaceuticals
+LIVE,1.17,Home Furnishings
+PFSW,1.61,IT Consulting and Other Services
+EAR,1.6,Health Care Equipment
+JNCE,0.633,Biotechnology
+PROV,0.474,Regional Banks
+SMID,0.796,Construction Materials
+MESA,2.47,Passenger Airlines
+SPIR,1.42,Research and Consulting Services
+AE,0.894,Oil and Gas Refining and Marketing
+GMGI,2.33,Interactive Home Entertainment
+SFBC,0.684,Regional Banks
+PHX,0.624,Oil and Gas Exploration and Production
+DBD,3.02,"Technology Hardware, Storage and Peripherals"
+CELU,0.217,Biotechnology
+ASPS,1.15,Real Estate Services
+ATHA,2.9,Pharmaceuticals
+APPH,2.87,Agricultural Products and Services
+TZOO,1.56,Interactive Media and Services
+AFBI,0.377,Regional Banks
+VERU,-0.153,Personal Care Products
+VHC,1.19,Application Software
+LVLU,2.21,Apparel Retail
+ACNT,0.711,Steel
+RGTI,1.03,Semiconductors
+KORE,2.9,Wireless Telecommunication Services
+SSBI,0.576,Regional Banks
+GORO,1.52,Gold
+GEOS,1.35,Oil and Gas Equipment and Services
+CMCT,0.556,Office REITs
+PED,1.19,Oil and Gas Exploration and Production
+CLPR,1.11,Multi-Family Residential REITs
+AREN,0.248,Interactive Media and Services
+LBPH,1.16,Pharmaceuticals
+TBIO,1.15,Life Sciences Tools and Services
+ATOS,1.25,Biotechnology
+HOWL,0.918,Biotechnology
+STRT,1.18,Automotive Parts and Equipment
+WHG,1.22,Asset Management and Custody Banks
+CVV,1.61,Semiconductor Materials and Equipment
+BRDS,2.25,Passenger Ground Transportation
+DARE,1.27,Pharmaceuticals
+MAYS,0.022,Real Estate Operating Companies
+XOS,2.16,Construction Machinery and Heavy Transportation Equipment
+LWAY,1.51,Packaged Foods and Meats
+ELMD,0.47,Health Care Equipment
+BKSC,0.388,Regional Banks
+SPRB,2.33,Biotechnology
+CLNN,0.384,Biotechnology
+OMIC,2.01,Life Sciences Tools and Services
+FRBK,0.963,Regional Banks
+XLO,1.97,Biotechnology
+ORMP,1.83,Pharmaceuticals
+HYMC,1.97,Gold
+FCAP,0.225,Regional Banks
+UBCP,0.241,Regional Banks
+TIL,1.31,Biotechnology
+PPIH,0.242,Industrial Machinery and Supplies and Components
+VNCE,1.72,"Apparel, Accessories and Luxury Goods"
+SRTS,0.67,Health Care Equipment
+AMTX,0.875,Oil and Gas Refining and Marketing
+USAP,1.07,Steel
+DTIL,1.43,Biotechnology
+KRON,1.47,Biotechnology
+HMNF,0.15,Regional Banks
+SCX,0.552,Industrial Machinery and Supplies and Components
+RBKB,0.772,Regional Banks
+CELL,1.36,Life Sciences Tools and Services
+FRD,1.07,Steel
+TKNO,0.756,Life Sciences Tools and Services
+VSTM,0.807,Biotechnology
+ORN,0.793,Construction and Engineering
+AEYE,1.14,Application Software
+LOCL,0.953,Agricultural Products and Services
+STIM,2.03,Health Care Equipment
+AQMS,1.24,Environmental and Facilities Services
+PXLW,1.96,Semiconductors
+VBFC,0.695,Regional Banks
+ACU,0.916,Office Services and Supplies
+QUIK,1.55,Semiconductors
+SNCR,1.39,Application Software
+AAIC,1.49,Mortgage REITs
+SOTK,-0.229,Electronic Equipment and Instruments
+CODA,1.16,Electronic Equipment and Instruments
+MDV,1.02,Diversified REITs
+BWEN,1.54,Heavy Electrical Equipment
+BYFC,0.759,Regional Banks
+BBIG,0.633,Interactive Media and Services
+BNED,2.06,Other Specialty Retail
+ISDR,0.907,Application Software
+CULL,0.21,Regional Banks
+AUBN,0.551,Regional Banks
+QUBT,2.15,Application Software
+FOA,0.738,Commercial and Residential Mortgage Finance
+PCTI,0.429,Communications Equipment
+ACR,1.8,Mortgage REITs
+PRDS,0.364,Biotechnology
+MAPS,1.05,Application Software
+TALS,1.73,Biotechnology
+VBIV,1.91,Biotechnology
+HYFM,2.3,Agricultural and Farm Machinery
+OCUP,-0.068,Pharmaceuticals
+KTCC,1.46,Electronic Manufacturing Services
+FLUX,1.18,Electrical Components and Equipment
+ELYM,-0.083,Biotechnology
+FARM,1.53,Packaged Foods and Meats
+DLA,1.44,"Apparel, Accessories and Luxury Goods"
+HRTG,0.769,Property and Casualty Insurance
+WFCF,0.747,Research and Consulting Services
+LUXH,1.8082,Real Estate Operating Companies
+SPRO,0.806,Biotechnology
+BHM,1.6884,Single-Family Residential REITs
+REKR,2.17,Application Software
+DBTX,-0.024,Biotechnology
+MCHX,2.09,Advertising
+LEE,1.23,Publishing
+FTHM,1.79,Real Estate Services
+FNGR,0.825,Wireless Telecommunication Services
+ANEB,1.29,Pharmaceuticals
+CRDF,1.72,Biotechnology
+PHUN,11.6,Application Software
+STRC,2.32,Industrial Machinery and Supplies and Components
+AXR,0.981,Real Estate Development
+CPTN,-0.17,Electronic Equipment and Instruments
+UPXI,0.986,Personal Care Products
+PIRS,1.17,Biotechnology
+MCOM,0.799,Passenger Ground Transportation
+ADVM,0.754,Biotechnology
+MGYR,0.167,Regional Banks
+SND,1.5,Oil and Gas Equipment and Services
+CURI,0.858,Movies and Entertainment
+WRAP,1.78,Electronic Equipment and Instruments
+RZLT,2.24,Biotechnology
+AIRT,1,Air Freight and Logistics
+CURO,2.67,Consumer Finance
+AKA,1.97,Apparel Retail
+MGLD,0.411,Asset Management and Custody Banks
+BDTX,1.87,Biotechnology
+STCN,0.35,Data Processing and Outsourced Services
+MMMB,0.882,Packaged Foods and Meats
+AXDX,1.13,Health Care Equipment
+SMSI,1.1,Application Software
+CMLS,1.55,Broadcasting
+RLMD,0.155,Pharmaceuticals
+MYMD,1.88,Pharmaceuticals
+HHS,0.886,Advertising
+CIZN,0.074,Regional Banks
+HVBC,0.578,Regional Banks
+SLNG,0.943,Oil and Gas Storage and Transportation
+TCBC,0.21,Regional Banks
+GEG,0.979,Health Care Distributors
+BVS,0.493,Health Care Supplies
+IMUX,1.7,Biotechnology
+ATER,2.04,Household Appliances
+FLNT,2.43,Advertising
+SBEV,1.48,Distillers and Vintners
+OESX,1.96,Electrical Components and Equipment
+GRNA,1.48,Biotechnology
+AUGX,-0.674,Health Care Technology
+JOAN,1.42,Other Specialty Retail
+LUCD,1.6,Health Care Equipment
+ULBI,1.24,Electrical Components and Equipment
+CYT,1.41,Biotechnology
+FEIM,0.287,Electronic Equipment and Instruments
+INKT,1.5,Biotechnology
+AAOI,1.38,Communications Equipment
+VIRC,0.88,Office Services and Supplies
+LYRA,-0.387,Pharmaceuticals
+ROOT,0.974,Property and Casualty Insurance
+CULP,1.22,Textiles
+CLSD,1.96,Pharmaceuticals
+BAFN,1.1,Regional Banks
+OMEX,0.537,Diversified Support Services
+DSP,0.215,Application Software
+ARKR,1.08,Restaurants
+SURG,1.54,Wireless Telecommunication Services
+CSPI,1.2,IT Consulting and Other Services
+INSG,1.63,Communications Equipment
+VWE,1.14,Distillers and Vintners
+MLSS,1.41,Health Care Equipment
+ISPO,-0.553,"Hotels, Resorts and Cruise Lines"
+AQST,2.68,Pharmaceuticals
+HSON,0.512,Human Resource and Employment Services
+SIEB,0.008,Investment Banking and Brokerage
+IPWR,1.09,Electrical Components and Equipment
+SANW,1.12,Agricultural Products and Services
+EMKR,1.39,Communications Equipment
+TACT,1.85,"Technology Hardware, Storage and Peripherals"
+VIRX,-0.286,Biotechnology
+IMNM,1.74,Biotechnology
+GMDA,1.67,Biotechnology
+LINK,1.27,Electronic Equipment and Instruments
+IDR,0.595,Diversified Metals and Mining
+LOAN,0.542,Mortgage REITs
+FIXX,-0.024,Biotechnology
+FTK,1.79,Specialty Chemicals
+HEPA,1.64,Pharmaceuticals
+AKU,0.885,Health Care Services
+GIFI,0.626,Oil and Gas Equipment and Services
+MDWT,0.004,Life and Health Insurance
+TCRR,1.9,Biotechnology
+FKWL,0.163,Communications Equipment
+PFIE,0.887,Oil and Gas Equipment and Services
+HNNA,0.898,Asset Management and Custody Banks
+CRWS,0.763,Textiles
+VIA,1.18,Electric Utilities
+JRSH,0.992,"Apparel, Accessories and Luxury Goods"
+PDEX,0.982,Health Care Equipment
+DCTH,0.874,Health Care Equipment
+CGTX,1.4,Pharmaceuticals
+GAIA,0.963,Movies and Entertainment
+NCSM,1.6,Oil and Gas Equipment and Services
+CRIS,2.89,Biotechnology
+REFR,0.568,Electronic Equipment and Instruments
+GANX,0.266,Biotechnology
+SELF,0.249,Self-Storage REITs
+NHTC,0.764,Personal Care Products
+RCAT,-0.027,Electronic Equipment and Instruments
+QNCX,1.26,Biotechnology
+LSBK,0.45,Regional Banks
+LGVN,0.757,Biotechnology
+CLST,0.138,Regional Banks
+NAII,0.656,Personal Care Products
+WWR,1.61,Electrical Components and Equipment
+RPID,1.64,Life Sciences Tools and Services
+RAIL,2.14,Construction Machinery and Heavy Transportation Equipment
+AIRG,1.04,Electronic Components
+WMC,1.69,Mortgage REITs
+MNTS,0.889,Aerospace and Defense
+CYXT,1.47,Internet Services and Infrastructure
+ADN,-0.03,Electrical Components and Equipment
+POL,1.64,Home Improvement Retail
+CSBR,0.884,Life Sciences Tools and Services
+GAN,1.35,Casinos and Gaming
+LFMD,1.33,Personal Care Products
+SYRS,1.65,Biotechnology
+RSSS,0.59,IT Consulting and Other Services
+PRTG,115.1,Biotechnology
+EXPR,1.79,Apparel Retail
+MKTW,0.562,Financial Exchanges and Data
+WEJO,3.07,Interactive Media and Services
+LIDR,2.77,Electronic Equipment and Instruments
+ADES,2.681459459,Specialty Chemicals
+ONDS,0.783,Communications Equipment
+VRAR,1.7,IT Consulting and Other Services
+ATIP,0.415,Health Care Services
+BOLT,1.03,Biotechnology
+BDL,0.722,Restaurants
+LTRN,0.673,Biotechnology
+RVP,2.15,Health Care Supplies
+ASRV,0.646,Regional Banks
+PASG,1.03,Biotechnology
+BCOW,0.374,Regional Banks
+CCLD,0.919,Health Care Technology
+LPTH,1.64,Electronic Equipment and Instruments
+MIMO,0.728,Communications Equipment
+MKUL,-2.79,Building Products
+DYAI,0.633,Biotechnology
+NTIP,0.336,Communications Equipment
+HFBL,0.452,Regional Banks
+ENOB,1.12,Biotechnology
+SUNW,1.97,Electrical Components and Equipment
+KFFB,0.3,Regional Banks
+APT,-0.736,Building Products
+TCRX,0.164,Biotechnology
+PMCB,-0.018,Biotechnology
+VANI,2.012752294,Health Care Equipment
+RGS,1.82,Specialized Consumer Services
+OSS,1.45,"Technology Hardware, Storage and Peripherals"
+TOI,1.02,Health Care Facilities
+HCWB,0.42,Biotechnology
+CISO,1.69,IT Consulting and Other Services
+AAME,0.326,Multi-line Insurance
+TSHA,1.22,Biotechnology
+ESP,0.141,Electrical Components and Equipment
+DPSI,1.68,IT Consulting and Other Services
+NSTS,0.081,Regional Banks
+MPU,2.75,Trading Companies and Distributors
+CFSB,-0.017,Regional Banks
+BOTJ,0.743,Regional Banks
+CHCI,1.11,Diversified Real Estate Activities
+BKTI,1.09,Communications Equipment
+MGTA,2.09,Biotechnology
+IDN,1.68,Application Software
+LTBR,2.79,Coal and Consumable Fuels
+AP,0.962,Steel
+IOR,0.063,Commercial and Residential Mortgage Finance
+GNPX,-0.37,Biotechnology
+NRXP,1.02,Pharmaceuticals
+MOVE,0.36,"Technology Hardware, Storage and Peripherals"
+WATT,2.65,Electrical Components and Equipment
+HLGN,1.59,Electrical Components and Equipment
+NNBR,2.81,Industrial Machinery and Supplies and Components
+APRN,-2.82,Food Retail
+USAU,1.15,Diversified Metals and Mining
+AGAE,1.4,Leisure Facilities
+ONCT,1.34,Biotechnology
+SNSE,-0.219,Biotechnology
+USIO,2.06,Transaction and Payment Processing Services
+CODX,-0.557,Health Care Equipment
+LFVN,1.12,Personal Care Products
+ICCH,0.285,Property and Casualty Insurance
+RFIL,1.02,Electronic Manufacturing Services
+TCON,1.32,Biotechnology
+ELEV,0.955,Biotechnology
+NICK,0.64,Consumer Finance
+SNDA,1.72,Health Care Facilities
+DMS,0.623,Advertising
+BCEL,1.12,Biotechnology
+ICD,5.04,Oil and Gas Drilling
+NVNO,1.28,Health Care Equipment
+TESS,0.9,Communications Equipment
+PIII,1.45,Health Care Services
+AVRO,1.63,Biotechnology
+USEG,0.92,Oil and Gas Exploration and Production
+KPLT,0.756,Consumer Finance
+FUSB,1.11,Regional Banks
+FSEA,0.431,Regional Banks
+SYPR,1.24,Automotive Parts and Equipment
+ASMB,0.747,Biotechnology
+BYSI,0.105,Biotechnology
+VTSI,0.696,Aerospace and Defense
+KEQU,0.342,Health Care Equipment
+UG,0.517,Personal Care Products
+BMTX,-0.029,Transaction and Payment Processing Services
+RWLK,2.48,Health Care Equipment
+SYBX,1.03,Biotechnology
+NLS,1.58,Leisure Products
+KOSS,-0.361,Consumer Electronics
+GSIT,0.922,Semiconductors
+CXDO,0.888,Internet Services and Infrastructure
+CRVS,1.04,Biotechnology
+SURF,1.68,Biotechnology
+PRAX,3.25,Biotechnology
+AQB,1.32,Biotechnology
+OCX,1.7,Biotechnology
+CYN,0.268,Application Software
+TCBS,0,Regional Banks
+CPSH,1.8,Electronic Components
+NM,1.75,Marine Transportation
+NXTC,0.067,Biotechnology
+XGN,1.27,Biotechnology
+AINC,1.99,Asset Management and Custody Banks
+IZEA,2.35,Interactive Media and Services
+DMAC,1.7,Biotechnology
+SLS,2.3,Biotechnology
+LPTX,0.756,Biotechnology
+ACXP,0.51,Biotechnology
+HOOK,0.843,Biotechnology
+ICCC,0.688,Biotechnology
+MNDO,0.848,Application Software
+EIGR,1.95,Biotechnology
+WTT,0.914,Electronic Equipment and Instruments
+COYA,2.847781333,Biotechnology
+FGH,1.32,Movies and Entertainment
+APLT,1.9,Biotechnology
+CADL,1.42,Biotechnology
+FTEK,4.32,Environmental and Facilities Services
+UTRS,1.2,Health Care Equipment
+FSI,1.76,Specialty Chemicals
+ESOA,0.661,Oil and Gas Equipment and Services
+MAIA,2.847781333,Biotechnology
+RFL,1.68,Real Estate Operating Companies
+SOHO,1.69,Hotel and Resort REITs
+ALGS,2.5,Biotechnology
+OMQS,1.45,IT Consulting and Other Services
+OWLT,1.49,Health Care Equipment
+VLCN,1.2,Motorcycle Manufacturers
+DWSN,0.957,Oil and Gas Equipment and Services
+PAVM,0.887,Health Care Equipment
+SSKN,1.72,Health Care Equipment
+IRNT,1.3,Systems Software
+NOVN,0.203,Pharmaceuticals
+KIRK,1.84,Homefurnishing Retail
+PEAR,0.841,Health Care Technology
+AWRE,0.317,Application Software
+FATH,1.36,Industrial Machinery and Supplies and Components
+TARA,1.57,Biotechnology
+MIRO,0.836,Life Sciences Tools and Services
+AXLA,1.6,Biotechnology
+PBBK,-0.029,Regional Banks
+PPSI,0.187,Heavy Electrical Equipment
+OCC,0.567,Communications Equipment
+LODE,1.94,Oil and Gas Refining and Marketing
+IMPL,1.11,Biotechnology
+RMCF,0.938,Packaged Foods and Meats
+SNCE,1.36,Life Sciences Tools and Services
+ELDN,2.04,Biotechnology
+IRIX,1.26,Health Care Equipment
+GTIM,2,Restaurants
+ZEV,2.72,Construction Machinery and Heavy Transportation Equipment
+MTEX,1.19,Personal Care Products
+ORGS,0.883,Biotechnology
+ASPI,2.681459459,Specialty Chemicals
+SWAG,0.758,Advertising
+INAB,1.21,Biotechnology
+BMRA,-0.534,Health Care Equipment
+ICAD,1.21,Health Care Technology
+OPFI,0.698,Consumer Finance
+MSVB,0.139,Regional Banks
+NYMX,0.75,Biotechnology
+VAPO,-1.08,Health Care Equipment
+CLIR,1.1,Electronic Equipment and Instruments
+SGTX,0.856,Biotechnology
+WVVI,0.724,Distillers and Vintners
+XWEL,2.04,Specialized Consumer Services
+NLTX,1.19,Biotechnology
+NTWK,0.703,Application Software
+PMD,0.615,Health Care Services
+SALM,1.29,Broadcasting
+MPTI,2.724571429,Electronic Components
+UGRO,2.59,Agricultural and Farm Machinery
+ZIVO,0.247,Personal Care Products
+NSYS,0.858,Electronic Manufacturing Services
+ABIO,1.46,Biotechnology
+TGL,2.648076923,Advertising
+CSSE,1.43,Movies and Entertainment
+OPTT,1.93,Heavy Electrical Equipment
+BOXL,2.5,"Technology Hardware, Storage and Peripherals"
+ZDGE,1.2,Interactive Media and Services
+CTHR,0.659,"Apparel, Accessories and Luxury Goods"
+LPCN,1.03,Pharmaceuticals
+CPIX,0.357,Pharmaceuticals
+SAI,0.413,Application Software
+SFE,0.943,Asset Management and Custody Banks
+DERM,0.744,Pharmaceuticals
+HARP,1.56,Biotechnology
+LNSR,-0.239,Health Care Equipment
+SOPA,3.16,Interactive Media and Services
+MBRX,2.03,Biotechnology
+VTGN,1.1,Biotechnology
+LUMO,0.667,Biotechnology
+RGF,0.4,Packaged Foods and Meats
+WLMS,1.13,Construction and Engineering
+CKPT,1.53,Biotechnology
+BFI,0.375,Restaurants
+SDPI,0.148,Oil and Gas Equipment and Services
+NMRD,-0.023,Health Care Equipment
+NTRB,0.005,Pharmaceuticals
+HUSA,0.792,Oil and Gas Exploration and Production
+EDUC,0.848,Distributors
+SUNL,2.67,Consumer Finance
+CCEL,0.301,Health Care Services
+BTCY,2.45,Health Care Technology
+EQ,1.24,Biotechnology
+INTZ,0.53,Systems Software
+TFFP,1.21,Pharmaceuticals
+AZYO,-0.11,Biotechnology
+CGRN,2.1,Heavy Electrical Equipment
+OIG,1.12,Construction and Engineering
+BBGI,1.15,Broadcasting
+MXC,1.19,Oil and Gas Exploration and Production
+TISI,1.94,Environmental and Facilities Services
+DALN,0.895,Publishing
+UBX,0.788,Biotechnology
+STSA,0.13,Pharmaceuticals
+MDVL,-0.765,Drug Retail
+LGL,0.379,Electronic Components
+GREE,3.4,Application Software
+NHWK,0.567,Biotechnology
+SABS,1.38,Biotechnology
+ZYNE,1.74,Pharmaceuticals
+VINC,0.498,Biotechnology
+NCMI,1.98,Advertising
+KLR,1.81,Application Software
+MTEM,1.42,Biotechnology
+ABVC,0.381,Biotechnology
+GLBZ,0.67,Regional Banks
+SLGG,1.71,Interactive Media and Services
+AIM,-0.23,Biotechnology
+CORR,1.28,Other Specialized REITs
+AYRO,3.92,Automobile Manufacturers
+RVYL,4.08,Transaction and Payment Processing Services
+EVLO,1.38,Biotechnology
+TNON,2.012752294,Health Care Equipment
+VCNX,1.06,Biotechnology
+SDIG,2.86,Application Software
+NYC,0.213,Diversified REITs
+SFT,1.49,Automotive Retail
+ENG,1.93,Oil and Gas Equipment and Services
+AGLE,1.71,Biotechnology
+FNCH,-0.011,Biotechnology
+AUD,1.59,Broadcasting
+SEAC,1.08,Application Software
+BRFH,0.096,Packaged Foods and Meats
+GTBP,0.885,Biotechnology
+SRZN,-0.193,Biotechnology
+ACER,0.649,Pharmaceuticals
+BTCS,1.91,Application Software
+NVOS,-0.333,Health Care Services
+FREQ,0.689,Biotechnology
+TPHS,0.35,Real Estate Operating Companies
+JEWL,,Precious Metals and Minerals
+VERO,1.01,Health Care Equipment
+ANGN,0.545,Pharmaceuticals
+ERNA,10.9,Biotechnology
+NVVE,1.82,Electrical Components and Equipment
+HGEN,-0.828,Biotechnology
+POLA,0.87,Heavy Electrical Equipment
+BWV,2.22,Biotechnology
+CLVR,1.38,Pharmaceuticals
+SHPW,0.861,Commercial Printing
+CARV,1.25,Regional Banks
+BTTX,1.65,Health Care Technology
+ISUN,1.22,Construction and Engineering
+SQZ,2.77,Biotechnology
+MBOT,3.24,Health Care Equipment
+BFRI,1.2,Pharmaceuticals
+SGMA,1.12,Electronic Manufacturing Services
+IPW,1.54,Trading Companies and Distributors
+MODD,-3.15,Health Care Equipment
+LFLY,1.35,Interactive Media and Services
+MRIN,0.584,Application Software
+GVP,1.24,Application Software
+SIEN,1.59,Health Care Supplies
+WYY,1.09,IT Consulting and Other Services
+EFTR,0.398,Biotechnology
+ALIM,1.42,Pharmaceuticals
+IMBI,2.1,Broadline Retail
+KINS,0.478,Property and Casualty Insurance
+LTRY,1.82,Casinos and Gaming
+MGAM,2.668153846,Movies and Entertainment
+BOXD,2.83,Food Retail
+SQFT,1.09,Diversified REITs
+IDAI,-0.221,Systems Software
+PRSO,1.38,Semiconductors
+PW,1.02,Other Specialized REITs
+DGLY,0.863,Electronic Equipment and Instruments
+AMTI,2.08,Biotechnology
+PCSA,0.056,Pharmaceuticals
+PEV,3.908,Automobile Manufacturers
+GLS,0.994,Biotechnology
+HALL,1.19,Property and Casualty Insurance
+DATS,1.51,Application Software
+AUID,2.36,Systems Software
+BTTR,0.667,Packaged Foods and Meats
+DXYN,2.39,Home Furnishings
+QTEK,-0.006,Construction and Engineering
+DRCT,1.65,Advertising
+EBET,1.89,Casinos and Gaming
+OXBR,1.37,Reinsurance
+BLBX,0.047,Application Software
+ADIL,0.983,Pharmaceuticals
+NEXI,2.34,Biotechnology
+FUV,2.25,Motorcycle Manufacturers
+LABP,-1.13,Pharmaceuticals
+VVOS,2.83,Health Care Services
+APTX,1.39,Biotechnology
+VINE,0.363,Distillers and Vintners
+ID,-0.363,Automotive Retail
+ID,-0.363,Automotive Retail
+ENSV,1.54,Oil and Gas Equipment and Services
+CHRA,0.724,Environmental and Facilities Services
+VIRI,1.85,Biotechnology
+TYDE,2.1886,Paper and Plastic Packaging Products and Materials
+NBSE,0.893,Biotechnology
+SNPX,1.72,Biotechnology
+WAVD,2.9,IT Consulting and Other Services
+SLNH,2.39,Application Software
+RNAZ,0.993,Biotechnology
+BSFC,2.5,Packaged Foods and Meats
+BNMV,1.48,Oil and Gas Exploration and Production
+PLXP,3.92,Pharmaceuticals
+AGFY,2.05,Agricultural and Farm Machinery
+ATNF,0.591,Biotechnology
+HCDI,0.706,Homebuilding
+CFRX,0.492,Biotechnology

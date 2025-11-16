@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block main %}
+    <div class="bg-success-subtle d-flex p-2 justify-content-around shadow tick-container">
+      <div class="border border-success rounded text-center"><p class="pt-2 ps-2 pe-2 mb-0 text-success"><strong>TSX</strong></p><p class="pb-2 ps-2 pe-2 mb-0">{{tickers.3|stringformat:".2f"}}</p></div>
+      <div class="border border-success rounded text-center"><p class="pt-2 ps-2 pe-2 mb-0 text-success"><strong>NASDAQ</strong></p><p class="pb-2 ps-2 pe-2 mb-0">{{tickers.4|stringformat:".2f"}}</p></div>
+      <div class="border border-success rounded text-center"><p class="pt-2 ps-2 pe-2 mb-0 text-success"><strong>NYSE</strong></p><p class="pb-2 ps-2 pe-2 mb-0">{{tickers.1|stringformat:".2f"}}</p></div>
+      <div class="border border-success rounded text-center"><p class="pt-2 ps-2 pe-2 mb-0 text-success"><strong>S&P500</strong></p><p class="pb-2 ps-2 pe-2 mb-0">{{tickers.2|stringformat:".2f"}}</p></div>
+      <div class="border border-success rounded text-center"><p class="pt-2 ps-2 pe-2 mb-0 text-success"><strong>CAD/USD</strong></p><p class="pb-2 ps-2 pe-2 mb-0">{{tickers.0|stringformat:".3f"}}</p></div>
+    </div>
+
+    <div class="container main my-2 mx-auto">
+      <h1 class="display-5 text-center">Let's Be Wealthy</h1>
+      <div class="text-center"><img class="img-fluid my-3" src="{% static 'finapp/coverpic.jpg' %}" style="height:200px; text-align: center;" alt="home picture"/></div>
+      <p>Our focus on value investing is different from traditional growth and value approach. We believe that valuation should be relative. With our tool, our users should be able to:
+        <ul>
+          <li>Compare between high multiples stock and low multiples stock</li>
+          <li>Compare market's historical forecast of future operational performance</li>
+          <li>Compare historical actual performance with market implied performance</li>
+          <li>Able to analyze different scenarios and take calculated investment risk for alpha returns</li>
+        </ul>
+      </p>
+
+      <h1 class="display-5 text-center">Our Future Goals</h1>
+      <p>We want to be a place where our customer can generate analytics at high speed with least effort. We are working towards achieving:
+        <ul>
+          <li>Automation of Key DataInputs</li>
+          <li>Automated Market and Sector Analysis for inflection points</li>
+          <li>Automated categorisation and empirical studies of stocks with identical market views</li>
+          <li>Automated advise on expected performance based on empirical studies</li>
+        </ul>
+      </p>
+      <div class="bg-primary border rounded text-light">
+        <div class="m-2 p-3 border border-light rounded">
+          <h1 class="text-center">Get Started</h1>
+          <p class="lead">We have a collection of financial data for more than 3000 publicly traded companies from the US exchanges. You can check how the stocks of different companies are performing based on recent and historical data. Click on stocks to see the performance of selected companies.</p>
+          <p class="lead">Get started by creating your free account <a class="links" href="{% url 'home:register' %}?next={% url 'finapp:main_view' %}">here</a>.<span class="muted"> Also check out our <a class="links" href="{% url 'finapp:plans' %}">Pricing Plan</a> for full access.</span></p>
+        </div>
+      </div>
+
+    </div>
+    <style>
+      @media only screen and (max-width:768px){
+        .tick-container{font-size:0.65rem;}
+      }
+    </style>
+
+
+{% endblock %}
+
+
+
+
+
+
+
