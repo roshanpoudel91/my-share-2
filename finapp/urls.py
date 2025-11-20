@@ -7,6 +7,7 @@ urlpatterns = [
     path('', views.mainview, name='main_view'),
     #path('stockdata/',views.StockInputView.as_view(), name='stock_input'),
     path('stock/',views.StockSelectionView.as_view(), name='stock_selection'),
+    path('/prescreen_list',views.PreScreenListView.as_view(),name='prescreen_list'),
     path('realestate/',views.RealEstateView.as_view(), name='real_estate'),
     path('contact/',views.ContactView.as_view(),name='contact'),
     path('extra/',views.ExtraView.as_view(),name='extra'),

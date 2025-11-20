@@ -41,7 +41,7 @@ def get_sharpe(ret_data,n):
     else:
         return ('n/a','n/a')
 
-def alpha_calc(ticker):
+def alpha_calc(ticker,isPreScreen=0):
     base_url='https://www.alphavantage.co/query?'
     params={'function':'OVERVIEW','symbol':ticker,'apikey':'DFHG4DGYXZA59F12'}
 
@@ -640,6 +640,18 @@ def alpha_calc(ticker):
         ebitda_margin_py=round(ebitda[1]*100/revenue[1],2)
         imp_growth_py=imp_growth[1]
         prev_yr_str='Previous Year (Ending ' + fiscal_date[1].strftime("%Y-%m-%d") + ')'
+    
+     # return imp_growth_TTM
+    if isPreScreen:
+        return (imp_growth_TTM,
+               rev_growth_TTM,
+			   rev_growth_3y,
+			   ecos_margin_TTM,
+			   ecos_margin_3y,
+			   ebitda_margin_TTM,
+			   ebitda_margin_3y,
+               industry
+               )
 
     final_data={ttm_str:[rev_growth_TTM,ecos_margin_TTM,debt_TTM,imp_growth_TTM,imp_growth_TTM_b1,ebitda_margin_TTM,debt_ebitda_TTM],
         prev_yr_str:[rev_growth_py,ecos_margin_py,debt_py,imp_growth_py,imp_growth_py_b1,ebitda_margin_py,debt_ebitda_py],

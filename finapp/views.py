@@ -147,6 +147,20 @@ class StockSelectionView(LoginRequiredMixin, View):
             return render(request, 'finapp/stockresult2.html',context)
 
 
+class PreScreenListView(View):
+    def get(self, request):
+       
+     tickers = ['AMZN', 'WMT', 'COST']
+     data_list = []
+
+     for ticker in tickers:
+       result = alpha_calc(ticker, 1)
+       data_list.append({'ticker': ticker, 'data': result})
+
+     context = {'data_list': data_list, 'tickers': tickers}
+     return render(request, 'finapp/prescreenlist.html', context)
+         
+
 def stockPerformaceTab(request):
      comparative = request.session.get('comparative_table')
      new_result = request.session.get('new_result')

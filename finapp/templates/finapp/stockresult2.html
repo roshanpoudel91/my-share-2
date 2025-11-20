@@ -1,115 +1,180 @@
 {% extends 'base.html' %}
 {% block main %}
 <div class="container-md my-5">
-    <h1 class="display-5 text-center" >{{tick_detail.0}} :: <span class="text-info fw-light">{{tick_detail.19}}</span></h1>
-    <div id="tick" style="display: none;">{{tick_detail.19}}</div>
-    <h4 class="text-secondary text-center">({{tick_detail.20}})</h4>
-    <nav>
-      <div class="nav nav-tabs mt-5" id="nav-tab" role="tablist">
-        <button class="nav-link active" id="nav-summary-tab" data-bs-toggle="tab" data-bs-target="#nav-summary" type="button" role="tab" aria-controls="nav-summary" aria-selected="true">Summary</button>
-        <button class="nav-link" id="nav-performance-tab" data-bs-toggle="tab" data-bs-target="#nav-performance" type="button" role="tab" aria-controls="nav-performance" aria-selected="false">Performance</button>
-        <button class="nav-link" id="nav-visual-tab" data-bs-toggle="tab" data-bs-target="#nav-visual" type="button" role="tab" aria-controls="nav-visual" aria-selected="false">Visualization</button>
-        <button class="nav-link" id="nav-backtest-tab" data-bs-toggle="tab" data-bs-target="#nav-backtest" type="button" role="tab" aria-controls="nav-backtest" aria-selected="false">Back Testing</button>
-      </div>
-    </nav>
+  <h1 class="display-5 text-center">{{tick_detail.0}} :: <span class="text-info fw-light">{{tick_detail.19}}</span></h1>
+  <div id="tick" style="display: none;">{{tick_detail.19}}</div>
+  <h4 class="text-secondary text-center">({{tick_detail.20}})</h4>
+  <div style="display: flex; justify-content: flex-end;">
+        <input type="checkbox" name="agree" value="yes" style="margin-right: 8px;">
+        <label for="mycheck">Prescreen List</label>
+        
+  </div>
+  <nav>
+    <div class="nav nav-tabs mt-5" id="nav-tab" role="tablist">
+      <button class="nav-link active" id="nav-summary-tab" data-bs-toggle="tab" data-bs-target="#nav-summary"
+        type="button" role="tab" aria-controls="nav-summary" aria-selected="true">Summary</button>
+      <button class="nav-link" id="nav-performance-tab" data-bs-toggle="tab" data-bs-target="#nav-performance"
+        type="button" role="tab" aria-controls="nav-performance" aria-selected="false">Performance</button>
+      <button class="nav-link" id="nav-visual-tab" data-bs-toggle="tab" data-bs-target="#nav-visual" type="button"
+        role="tab" aria-controls="nav-visual" aria-selected="false">Visualization</button>
+      <button class="nav-link" id="nav-backtest-tab" data-bs-toggle="tab" data-bs-target="#nav-backtest" type="button"
+        role="tab" aria-controls="nav-backtest" aria-selected="false">Back Testing</button>
+    </div>
+  </nav>
 
-    <div class="tab-content" id="nav-tabContent">
-      <!--Summary Tab-->
-        <div class="tab-pane fade show active" id="nav-summary" role="tabpanel" aria-labelledby="nav-summary-tab" tabindex="0">
-            <div class="row mt-3">
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold">Market Cap ($): <span class="fw-normal text-dark ps-2">{{tick_detail.11}} M</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold">Current Enterprise Value ($): <span class="fw-normal text-dark ps-2">{{tick_detail.12}} M</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Current Stock Price ($): <span class="fw-normal text-dark ps-2">{{tick_detail.2}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> 52 Week High ($): <span class="fw-normal text-dark ps-2">{{tick_detail.3}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> 52 Week Low ($): <span class="fw-normal text-dark ps-2">{{tick_detail.4}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Dividend Yield (%): <span class="fw-normal text-dark ps-2">{{tick_detail.5}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> EBITDA Margin (%): <span class="fw-normal text-dark ps-2">{{tick_detail.17}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Operating Margin (%): <span class="fw-normal text-dark ps-2">{{tick_detail.18}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Next Earnings Date: <span class="fw-normal text-dark ps-2">{{tick_detail.6}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Ex Dividend Date: <span class="fw-normal text-dark ps-2">{{tick_detail.7}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Last 10 Yr Return (%): <span class="fw-normal text-dark ps-2">{{tick_detail.8}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Last 5 Yr Return (%): <span class="fw-normal text-dark ps-2">{{tick_detail.9}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Last 3 Yr Return (%): <span class="fw-normal text-dark ps-2">{{tick_detail.10}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Extrapolated Revenue Growth (%): <span class="fw-normal text-dark ps-2">{{tick_detail.13}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Quarterly Earnings Growth (%): <span class="fw-normal text-dark ps-2">{{tick_detail.14}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Earnings Growth (%): <span class="fw-normal text-dark ps-2">{{tick_detail.15}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Quarterly Revenue Growth (%): <span class="fw-normal text-dark ps-2">{{tick_detail.16}}</span></p></div>
-              <div class="col-xl-4 col-md-6"><p class="text-success fw-bold"> Volume: <span class="fw-normal text-dark ps-2">{{tick_detail.21}} M</span></p></div>
-            </div>
-            <hr>
-            <div class="stock-table"><table class="dataframe">
-              <thead>
-                <tr style="text-align: center;">
-                  <th></th>
-                  <th>10-Year</th>
-                  <th>5-Year</th>
-                  <th>3-Year</th>
-                </tr>
-              </thead>
-              <tbody>
-                <tr>
-                  <th>Sharpe Ratio</th>
-                  <td>{{tick_detail.32.0|floatformat:4}}</td>
-                  <td>{{tick_detail.33.0|floatformat:4}}</td>
-                  <td>{{tick_detail.34.0|floatformat:4}}</td>
-                </tr>
-                <tr>
-                  <th>Variance</th>
-                  <td>{{tick_detail.32.1|floatformat:4}}</td>
-                  <td>{{tick_detail.33.1|floatformat:4}}</td>
-                  <td>{{tick_detail.34.1|floatformat:4}}</td>
-                </tr>
-              </tbody>
-                </table>
-            </div>
-            <hr>
-            <p class="display-6 text-success">Company Info</p>
-            <p>{{tick_detail.1}}</p>
-
-            <p class="display-6 text-success">Y-News Feed</p>
-            {% if ynews %}
-            {% for news,link in ynews %}
-            <p><a href="{{link}}" target="_blank">{{news}}</a></p>
-            {% endfor %}
-            {% endif %}
-
-
-            <p class="display-6 text-success">News Feed</p>
-            {% if tick_detail.22 %}
-            <p><a href="{{tick_detail.27}}">{{tick_detail.22}}</a></p>
-            {% endif %}
-            {% if tick_detail.23 %}
-            <p><a href="{{tick_detail.28}}">{{tick_detail.23}}</a></p>
-            {% endif %}
-            {% if tick_detail.24 %}
-            <p><a href="{{tick_detail.29}}">{{tick_detail.24}}</a></p>
-            {% endif %}
-            {% if tick_detail.25 %}
-            <p><a href="{{tick_detail.30}}">{{tick_detail.25}}</a></p>
-            {% endif %}
-            {% if tick_detail.26 %}
-            <p><a href="{{tick_detail.31}}">{{tick_detail.26}}</a></p>
-            {% endif %}
-
-
+  <div class="tab-content" id="nav-tabContent">
+    <!--Summary Tab-->
+    <div class="tab-pane fade show active" id="nav-summary" role="tabpanel" aria-labelledby="nav-summary-tab"
+      tabindex="0">
+      <div class="row mt-3">
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold">Market Cap ($): <span class="fw-normal text-dark ps-2">{{tick_detail.11}}
+              M</span></p>
         </div>
-       <!--Performance Tab-->
-        <div id="performance-tab"></div>
-        <!--Visualization Tab-->
-        <div id="visual-tab"></div>
-        <div id="performance-tab"></div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold">Current Enterprise Value ($): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.12}} M</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Current Stock Price ($): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.2}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> 52 Week High ($): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.3}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> 52 Week Low ($): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.4}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Dividend Yield (%): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.5}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> EBITDA Margin (%): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.17}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Operating Margin (%): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.18}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Next Earnings Date: <span
+              class="fw-normal text-dark ps-2">{{tick_detail.6}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Ex Dividend Date: <span
+              class="fw-normal text-dark ps-2">{{tick_detail.7}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Last 10 Yr Return (%): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.8}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Last 5 Yr Return (%): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.9}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Last 3 Yr Return (%): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.10}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Extrapolated Revenue Growth (%): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.13}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Quarterly Earnings Growth (%): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.14}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Earnings Growth (%): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.15}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Quarterly Revenue Growth (%): <span
+              class="fw-normal text-dark ps-2">{{tick_detail.16}}</span></p>
+        </div>
+        <div class="col-xl-4 col-md-6">
+          <p class="text-success fw-bold"> Volume: <span class="fw-normal text-dark ps-2">{{tick_detail.21}} M</span>
+          </p>
+        </div>
+      </div>
+      <hr>
+      <div class="stock-table">
+        <table class="dataframe">
+          <thead>
+            <tr style="text-align: center;">
+              <th></th>
+              <th>10-Year</th>
+              <th>5-Year</th>
+              <th>3-Year</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>Sharpe Ratio</th>
+              <td>{{tick_detail.32.0|floatformat:4}}</td>
+              <td>{{tick_detail.33.0|floatformat:4}}</td>
+              <td>{{tick_detail.34.0|floatformat:4}}</td>
+            </tr>
+            <tr>
+              <th>Variance</th>
+              <td>{{tick_detail.32.1|floatformat:4}}</td>
+              <td>{{tick_detail.33.1|floatformat:4}}</td>
+              <td>{{tick_detail.34.1|floatformat:4}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <hr>
+      <p class="display-6 text-success">Company Info</p>
+      <p>{{tick_detail.1}}</p>
 
-        <div id="visual-tab"></div>
-        <!--Back Test Tab-->
-        <div id="backTest-tab"></div>
-    </div>
-    <!-- <div class="overlay"></div> -->
-        <div class="spanner">
-        <div class="loader"></div>
-        <p>Getting data, Please wait...</p>
-    </div>
+      <p class="display-6 text-success">Y-News Feed</p>
+      {% if ynews %}
+      {% for news,link in ynews %}
+      <p><a href="{{link}}" target="_blank">{{news}}</a></p>
+      {% endfor %}
+      {% endif %}
 
-    <!--<div class="summary">
+
+      <p class="display-6 text-success">News Feed</p>
+      {% if tick_detail.22 %}
+      <p><a href="{{tick_detail.27}}">{{tick_detail.22}}</a></p>
+      {% endif %}
+      {% if tick_detail.23 %}
+      <p><a href="{{tick_detail.28}}">{{tick_detail.23}}</a></p>
+      {% endif %}
+      {% if tick_detail.24 %}
+      <p><a href="{{tick_detail.29}}">{{tick_detail.24}}</a></p>
+      {% endif %}
+      {% if tick_detail.25 %}
+      <p><a href="{{tick_detail.30}}">{{tick_detail.25}}</a></p>
+      {% endif %}
+      {% if tick_detail.26 %}
+      <p><a href="{{tick_detail.31}}">{{tick_detail.26}}</a></p>
+      {% endif %}
+
+
+    </div>
+    <!--Performance Tab-->
+    <div id="performance-tab"></div>
+    <!--Visualization Tab-->
+    <div id="visual-tab"></div>
+    <div id="performance-tab"></div>
+
+    <div id="visual-tab"></div>
+    <!--Back Test Tab-->
+    <div id="backTest-tab"></div>
+  </div>
+  <!-- <div class="overlay"></div> -->
+  <div class="spanner">
+    <div class="loader"></div>
+    <p>Getting data, Please wait...</p>
+  </div>
+
+  <!--<div class="summary">
         <div class="data">
             <div class="left-data">
                 <p class="question">Market Cap ($): <span class="answer">{{tick_detail.11}}M</span></p>
@@ -139,7 +204,8 @@
         <h2>Comparing Past Performances</h2>
         <p class="item">Let's see how this company's implied growth compares to its last years' and 3-year average performance. We can also compare other significant parameters,
         how the current earnings compares to historical performances.</p>
-        <div class="stock-table">{{comparative|safe}}</div>
+        <div class="stock-table">{{
+          |safe}}</div>
         <p class="item">By analyzing the historical performance and comparing it with current parameters:</p>
         <ul>
           <li>This company seems to be {{our_result.0}} compared to average 3-year performance.</li>
@@ -167,104 +233,158 @@
 
 </div>
 <style>
-    .title{font-family:Acme, sans-serif; text-align:center;padding:20px 0 20px 0;}
-    .stock-summary{width:90%; margin:10px 10px 30px 40px; }
-    .error{width:90%; margin:10px auto;color:red;}
-    .stock-table{border:solid 2px rgb(220,220,220); border-radius:8px;width:90%;margin:0 auto;}
-    .dataframe{width:100%;text-align:center;}
-    .dataframe thead{text-align:center;background-color:rgb(255,217,102);color:#002060;}
-    .dataframe tbody{text-align:center;font-size:1.0rem;}
-    .dataframe tr:nth-child(even){background-color:rgb(226,237,253);}
-    .suggestion{width:80%;margin:20px 10px 30px 40px;}
-    .suggestion ul{list-style:square inside none;}
-    .suggestion ul li{padding-left:20px;}
-    strong{color:#198754;}
-    .item{margin-top:10px;}
-    .item-second{padding-left:20px; margin-bottom:20px;}
+  .title {
+    font-family: Acme, sans-serif;
+    text-align: center;
+    padding: 20px 0 20px 0;
+  }
 
+  .stock-summary {
+    width: 90%;
+    margin: 10px 10px 30px 40px;
+  }
+
+  .error {
+    width: 90%;
+    margin: 10px auto;
+    color: red;
+  }
+
+  .stock-table {
+    border: solid 2px rgb(220, 220, 220);
+    border-radius: 8px;
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  .dataframe {
+    width: 100%;
+    text-align: center;
+  }
+
+  .dataframe thead {
+    text-align: center;
+    background-color: rgb(255, 217, 102);
+    color: #002060;
+  }
+
+  .dataframe tbody {
+    text-align: center;
+    font-size: 1.0rem;
+  }
+
+  .dataframe tr:nth-child(even) {
+    background-color: rgb(226, 237, 253);
+  }
+
+  .suggestion {
+    width: 80%;
+    margin: 20px 10px 30px 40px;
+  }
+
+  .suggestion ul {
+    list-style: square inside none;
+  }
+
+  .suggestion ul li {
+    padding-left: 20px;
+  }
+
+  strong {
+    color: #198754;
+  }
+
+  .item {
+    margin-top: 10px;
+  }
+
+  .item-second {
+    padding-left: 20px;
+    margin-bottom: 20px;
+  }
 </style>
 <script>
-    var summaryTabContent = document.getElementById('nav-summary');
-    var performanceTabContent = document.getElementById('performance-tab');
-    var visualTabContent = document.getElementById('visual-tab');
-    var backTestTabContent = document.getElementById('backTest-tab');
-    var backTestTabclickCount = 0;
-    var performanceTabclickCount = 0;
-    var visualTabclickCount = 0;
+  var summaryTabContent = document.getElementById('nav-summary');
+  var performanceTabContent = document.getElementById('performance-tab');
+  var visualTabContent = document.getElementById('visual-tab');
+  var backTestTabContent = document.getElementById('backTest-tab');
+  var backTestTabclickCount = 0;
+  var performanceTabclickCount = 0;
+  var visualTabclickCount = 0;
 
 
-    // JavaScript code to load additional content with Ajax
-    document.querySelectorAll('.nav-link').forEach(function(tab) {
-      tab.addEventListener('click', function(event) {
-        var ticker = document.getElementById('tick').innerHTML;
-        clickedTab = tab.getAttribute("id");
-        if(clickedTab == 'nav-performance-tab'){
-                    var xhr = new XMLHttpRequest();
-                    xhr.onreadystatechange = function() {
-                    if (xhr.readyState === 4 && xhr.status === 200) {
-                        console.log(xhr.responseText)
-                        performanceTabContent.innerHTML = xhr.responseText;
-                    }
-                    };
-                    xhr.open('GET', '/performance-tab', true);
-                    xhr.send();
+  // JavaScript code to load additional content with Ajax
+  document.querySelectorAll('.nav-link').forEach(function (tab) {
+    tab.addEventListener('click', function (event) {
+      var ticker = document.getElementById('tick').innerHTML;
+      clickedTab = tab.getAttribute("id");
+      if (clickedTab == 'nav-performance-tab') {
+        var xhr = new XMLHttpRequest();
+        xhr.onreadystatechange = function () {
+          if (xhr.readyState === 4 && xhr.status === 200) {
+            console.log(xhr.responseText)
+            performanceTabContent.innerHTML = xhr.responseText;
+          }
+        };
+        xhr.open('GET', '/performance-tab', true);
+        xhr.send();
 
-                    summaryTabContent.style.display='none';
-                    visualTabContent.style.display='none';
-                    backTestTabContent.style.display='none';
-                    performanceTabContent.style.display='block';
+        summaryTabContent.style.display = 'none';
+        visualTabContent.style.display = 'none';
+        backTestTabContent.style.display = 'none';
+        performanceTabContent.style.display = 'block';
 
-        }else if(clickedTab == 'nav-visual-tab'){
-            if(performanceTabclickCount == 0 ){
-                    var xhr = new XMLHttpRequest();
-                    xhr.onreadystatechange = function() {
-                    if (xhr.readyState === 4 && xhr.status === 200) {
-                        visualTabContent.innerHTML = xhr.responseText;
-                    }
-                    };
-                    xhr.open('GET', '/visual-tab', true);
-                    xhr.send();
-                }
-                    summaryTabContent.style.display='none';
-                    performanceTabContent.style.display='none';
-                    backTestTabContent.style.display='none';
-                    visualTabContent.style.display='block';
-
-        }else if(clickedTab == 'nav-backtest-tab'){
-               if(backTestTabclickCount == 0){
-                $("div.spanner").addClass("show");
-                $("div.overlay").addClass("show");
-                $("#back").addClass("back-test");
-
-                    var xhr = new XMLHttpRequest();
-                    xhr.onreadystatechange = function() {
-                    if (xhr.readyState === 4 && xhr.status === 200) {
-                        console.log(xhr.responseText)
-                        $("div.spanner").removeClass("show");
-                        $("div.overlay").removeClass("show");
-                        $("#back").removeClass("back-test");
-                        backTestTabContent.innerHTML = xhr.responseText;
-                    }
-                    };
-                    xhr.open('GET', `/backTest-tab/?ticker=${ticker}`, true);
-                    xhr.send();
-                    backTestTabclickCount++;
-               }
-                    summaryTabContent.style.display='none';
-                    visualTabContent.style.display='none';
-                    performanceTabContent.style.display='none';
-                    backTestTabContent.style.display='block';
-
-
-
-        }else if(clickedTab=='nav-summary-tab'){
-                    backTestTabContent.style.display='none';
-                    visualTabContent.style.display='none';
-                    performanceTabContent.style.display='none';
-                    summaryTabContent.style.display='block';
+      } else if (clickedTab == 'nav-visual-tab') {
+        if (performanceTabclickCount == 0) {
+          var xhr = new XMLHttpRequest();
+          xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+              visualTabContent.innerHTML = xhr.responseText;
+            }
+          };
+          xhr.open('GET', '/visual-tab', true);
+          xhr.send();
         }
-      });
-    });
+        summaryTabContent.style.display = 'none';
+        performanceTabContent.style.display = 'none';
+        backTestTabContent.style.display = 'none';
+        visualTabContent.style.display = 'block';
 
-  </script>
+      } else if (clickedTab == 'nav-backtest-tab') {
+        if (backTestTabclickCount == 0) {
+          $("div.spanner").addClass("show");
+          $("div.overlay").addClass("show");
+          $("#back").addClass("back-test");
+
+          var xhr = new XMLHttpRequest();
+          xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+              console.log(xhr.responseText)
+              $("div.spanner").removeClass("show");
+              $("div.overlay").removeClass("show");
+              $("#back").removeClass("back-test");
+              backTestTabContent.innerHTML = xhr.responseText;
+            }
+          };
+          xhr.open('GET', `/backTest-tab/?ticker=${ticker}`, true);
+          xhr.send();
+          backTestTabclickCount++;
+        }
+        summaryTabContent.style.display = 'none';
+        visualTabContent.style.display = 'none';
+        performanceTabContent.style.display = 'none';
+        backTestTabContent.style.display = 'block';
+
+
+
+      } else if (clickedTab == 'nav-summary-tab') {
+        backTestTabContent.style.display = 'none';
+        visualTabContent.style.display = 'none';
+        performanceTabContent.style.display = 'none';
+        summaryTabContent.style.display = 'block';
+      }
+    });
+  });
+
+</script>
 {% endblock %}
