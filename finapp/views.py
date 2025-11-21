@@ -4,7 +4,8 @@ from .forms import CompanyForm, PostCompanyForm, LocationForm, TickerInput, Cont
 from .newscript import main_calculation
 from django.contrib.auth.mixins import LoginRequiredMixin
 from .backscript import backtest
-from .models import HousePrice, BasicData, CompanyBeta, Company
+from .models import HousePrice, BasicData, CompanyBeta, Company, UserTicker, TickerPrescreenData
+from django.http import JsonResponse
 
 from .alphascript import alpha_calc
 
@@ -26,6 +27,7 @@ from dal import autocomplete
 import traceback, sys
 from finapp.scripts import company_upload, industry_upload, upload_global, upload_basic_data, data_upload2, update_beta
 from django.http import HttpResponse
+import json
 #import yahooquery as yq
 
 #===========================================================
@@ -75,6 +77,48 @@ def coming(request):
     context={}
     return render(request, 'finapp/comingsoon.html',context)
 
+
+def update_prescreenList(request):
+     data = request.GET.get('checked')
+     ticker = request.GET.get('ticker')
+
+     if data == "true":
+         user = request.user  
+         result = alpha_calc(ticker, 1)
+         data_dict = {
+                    'imp_growth_TTM': result[0],
+                    'rev_growth_TTM': result[1],
+                    'rev_growth_3y': result[2],
+                    'ecos_margin_TTM': result[3],
+                    'ecos_margin_3y': result[4],
+                    'ebitda_margin_TTM': result[5],
+                    'ebitda_margin_3y': result[6],
+                    'industry': result[7],
+                    'sharpe_ratio_5':result[8][0],
+                    'variance_5':result[8][1],
+                    'ttm_date':result[9]
+            }
+            # obj = TickerPrescreenData(ticker=ticker,fetched_data=data_dict)
+            # obj.save()
+         obj, created = TickerPrescreenData.objects.update_or_create(
+                                                        ticker=ticker,
+                                                        defaults={'fetched_data': data_dict}
+                                                        )
+         
+
+         new_row = UserTicker(ticker=ticker,user=user)
+         new_row.save()
+        
+    
+     if data == "false":
+        obj =  UserTicker.objects.filter(user_id=request.user,ticker=ticker).first()
+        if obj:
+         obj.delete()
+
+     return JsonResponse({
+            'status': 'success',
+            'checked': data,
+        })
 
 #==================================================================
 # Stock Selection View with company selection.
@@ -142,23 +186,38 @@ class StockSelectionView(LoginRequiredMixin, View):
             request.session['plot1']=plot1
             request.session['waterfallchart']=waterfallchart
 
+            # check if ticker has been in prescreen list by user
+            isPrescreenExist = UserTicker.objects.filter(user=request.user,ticker=ticker).exists()
 
-            context = {'tick_detail':tick_detail,'ticker':ticker, 'ynews':ynews}
+            context = {'tick_detail':tick_detail,'ticker':ticker, 'ynews':ynews,'isPrescreenExist':isPrescreenExist}
             return render(request, 'finapp/stockresult2.html',context)
 
 
-class PreScreenListView(View):
-    def get(self, request):
+class PreScreenListView(LoginRequiredMixin, View):
+  def get(self, request):
        
-     tickers = ['AMZN', 'WMT', 'COST']
-     data_list = []
+    #  tickers = ['AMZN', 'WMT', 'COST']
+    #  data_list = []
 
-     for ticker in tickers:
-       result = alpha_calc(ticker, 1)
-       data_list.append({'ticker': ticker, 'data': result})
+    #  for ticker in tickers:
+    #    result = alpha_calc(ticker, 1)
+    #    data_list.append({'ticker': ticker, 'data': result})
 
-     context = {'data_list': data_list, 'tickers': tickers}
-     return render(request, 'finapp/prescreenlist.html', context)
+    user_ticker_records = {ut.ticker: ut for ut in UserTicker.objects.filter(user=request.user)}
+
+    user_ticker = UserTicker.objects.filter(user=request.user).values_list('ticker', flat=True)
+    ticker_data = TickerPrescreenData.objects.filter(ticker__in=user_ticker)
+
+    data = []
+    for prescreen in ticker_data:
+        ticker = prescreen.ticker
+        date_added = user_ticker_records[ticker].date_added if ticker in user_ticker_records else None
+        data.append({'ticker':ticker,'date_added':date_added,'fetched_data':prescreen.fetched_data})
+        print(data)
+
+    context = {'data_list': data}
+
+    return render(request, 'finapp/prescreenlist.html', context)
          
 
 def stockPerformaceTab(request):

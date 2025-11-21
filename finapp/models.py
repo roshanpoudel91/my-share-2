@@ -266,5 +266,23 @@ class Beta(models.Model):
     def __str__(self):
         return f'{self.ticker.ticker}:{self.quarter}'
 
+
 # ========= End Beta Models ======================
 
+
+class UserTicker(models.Model):
+    ticker = models.CharField(max_length=20)                   
+    user = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)    
+    date_added = models.DateTimeField(auto_now_add=True)       
+
+    def __str__(self):
+        return f"{self.ticker}"
+
+
+class TickerPrescreenData(models.Model):
+    ticker = models.CharField(max_length=20)
+    fetched_data = models.JSONField() 
+    last_modified = models.DateTimeField(auto_now=True)
+
+    def __str__(self):
+        return f"{self.ticker}"

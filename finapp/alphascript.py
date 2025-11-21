@@ -641,7 +641,7 @@ def alpha_calc(ticker,isPreScreen=0):
         imp_growth_py=imp_growth[1]
         prev_yr_str='Previous Year (Ending ' + fiscal_date[1].strftime("%Y-%m-%d") + ')'
     
-     # return imp_growth_TTM
+     # For Prescreen list
     if isPreScreen:
         return (imp_growth_TTM,
                rev_growth_TTM,
@@ -650,7 +650,9 @@ def alpha_calc(ticker,isPreScreen=0):
 			   ecos_margin_3y,
 			   ebitda_margin_TTM,
 			   ebitda_margin_3y,
-               industry
+               industry,
+               sharpe5,
+               fiscal_date_TTM.strftime("%Y-%m-%d")
                )
 
     final_data={ttm_str:[rev_growth_TTM,ecos_margin_TTM,debt_TTM,imp_growth_TTM,imp_growth_TTM_b1,ebitda_margin_TTM,debt_ebitda_TTM],

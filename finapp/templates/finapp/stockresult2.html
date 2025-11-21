@@ -1,12 +1,13 @@
 {% extends 'base.html' %}
 {% block main %}
 <div class="container-md my-5">
-  <h1 class="display-5 text-center">{{tick_detail.0}} :: <span class="text-info fw-light">{{tick_detail.19}}</span></h1>
+  <h1 class="display-5 text-center">{{tick_detail.0}} :: <span class="text-info fw-light" id="ticker">{{tick_detail.19}}</span></h1>
   <div id="tick" style="display: none;">{{tick_detail.19}}</div>
   <h4 class="text-secondary text-center">({{tick_detail.20}})</h4>
-  <div style="display: flex; justify-content: flex-end;">
-        <input type="checkbox" name="agree" value="yes" style="margin-right: 8px;">
-        <label for="mycheck">Prescreen List</label>
+  <div style="display: flex; justify-content: flex-end; gap:8px;">
+        <input type="checkbox" name="agree" value="yes" style="margin-right: 8px;" id="myCheckbox" {% if isPrescreenExist %}checked{% endif %}>
+        <label for="mycheck" style="margin: 0;">Prescreen List</label>
+        <div id="updateStatus" style="color: green;"></div>
         
   </div>
   <nav>
@@ -387,4 +388,40 @@
   });
 
 </script>
+
+
+<script>
+document.getElementById('myCheckbox').addEventListener('change', function(e) {
+  
+
+    // Checkbox state: true (checked), false (unchecked)
+    const isChecked = e.target.checked;
+    const ticker = document.getElementById('ticker').textContent;
+    updateStatus.textContent = 'Updating...'; // Show progress text
+    // Send fetch request with method type and data
+    fetch(`/update-prescreenList/?checked=${isChecked}&ticker=${ticker}`,
+      {
+        method:'GET',
+        headers:{
+          'Content-Type':'application/json',
+          'X-Requested-With': 'XMLHttpRequest',
+        }
+      }
+    )
+    .then(response => response.json())
+    .then(data => {
+       updateStatus.textContent = 'Updated!'; // Success feedback
+       setTimeout(() => {
+                updateStatus.textContent = '';
+            }, 2000);
+        console.log("Response:", data);
+    })
+    .catch(error => {
+        updateStatus.textContent = 'Error!';
+        console.error("Error:", error);
+    });
+
+});
+</script>
+
 {% endblock %}

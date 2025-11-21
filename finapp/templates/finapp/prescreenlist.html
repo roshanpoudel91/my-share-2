@@ -10,16 +10,16 @@
               <th data-sortable="true" style="border: 1px solid black;">Date Added</th>
               <th data-sortable="true" style="border: 1px solid black;">Ticker</th>
               <th data-sortable="true" style="border: 1px solid black;">Category</th>
+              <th data-sortable="true" style="border: 1px solid black;">TTM Date</th>
                <th data-sortable="true" style="border: 1px solid black;"><div style="white-space: normal;">IGRTTM(%)</div></th>
-               <th data-sortable="true" style="border: 1px solid black;"><div style="white-space: normal;">RevGTTM 2025-09-30(%)</div></th>
+               <th data-sortable="true" style="border: 1px solid black;"><div style="white-space: normal;">RevGTTM(%)</div></th>
                <th data-sortable="true" style="border: 1px solid black;"><div style="white-space: normal;">RevG3YA(%)</div></th>
-               <th data-sortable="true" style="border: 1px solid black;"><div style="white-space: normal;">ECOSTTM 2025-09-30(%)</div></th>
+               <th data-sortable="true" style="border: 1px solid black;"><div style="white-space: normal;">ECOSTTM(%)</div></th>
                <th data-sortable="true" style="border: 1px solid black;"><div style="white-space: normal;">ECOS3YA(%)</div></th>
-               <th data-sortable="true" style="border: 1px solid black;"><div style="white-space: normal;">EBITDATTM 2025-09-30(%)</div></th>
+               <th data-sortable="true" style="border: 1px solid black;"><div style="white-space: normal;">EBITDATTM(%)</div></th>
                <th data-sortable="true" style="border: 1px solid black;"><div style="white-space: normal;">EBITDA3YA(%)</div></th>
-              <!-- <th data-sortable="true" style="border: 1px solid black;">Extrapolated Revenue Growth (%)</th>
-              <th data-sortable="true" style="border: 1px solid black;">Sharpe Ratio - 5 Yr</th>
-              <th data-sortable="true" style="border: 1px solid black;">Variance  - 5 Yr </th> -->
+              <th data-sortable="true" style="border: 1px solid black;">Sharpe5Y</th>
+              <th data-sortable="true" style="border: 1px solid black;">Variance5Y </th>
              
              
             </tr>
@@ -27,25 +27,28 @@
           <tbody>
              {% for item in data_list %}
             <tr style="border: 1px solid black;">
-              <td style="border: 1px solid black;">2025-11-20</td>
+              <td style="border: 1px solid black;">{{item.date_added | date:"Y-m-d"}}</td>
               <td style="border: 1px solid black;">{{item.ticker}}</td>
-              <td style="border: 1px solid black;">{{item.data.7}}</td>
-              <td style="border: 1px solid black;">{{item.data.0}}</td>
-              <td style="border: 1px solid black;">{{item.data.1}}</td>
-              <td style="border: 1px solid black;">{{item.data.2}}</td>
-              <td style="border: 1px solid black;">{{item.data.3}}</td>
-              <td style="border: 1px solid black;">{{item.data.4}}</td>
-              <td style="border: 1px solid black;">{{item.data.5}}</td>
-              <td style="border: 1px solid black;">{{item.data.6}}</td>
-              <!-- <td style="border: 1px solid black;">N/A</td>
-              <td style="border: 1px solid black;">N/A</td>
-              <td style="border: 1px solid black;">N/A</td> -->
+              <td style="border: 1px solid black;">{{item.fetched_data.industry}}</td>
+              <td style="border: 1px solid black;">{{item.fetched_data.ttm_date}}</td>
+              <td style="border: 1px solid black;">{{item.fetched_data.imp_growth_TTM}}</td>
+              <td style="border: 1px solid black;">{{item.fetched_data.rev_growth_TTM}}</td>
+              <td style="border: 1px solid black;">{{item.fetched_data.rev_growth_3y}}</td>
+              <td style="border: 1px solid black;">{{item.fetched_data.ecos_margin_TTM}}</td>
+              <td style="border: 1px solid black;">{{item.fetched_data.ecos_margin_3y}}</td>
+              <td style="border: 1px solid black;">{{item.fetched_data.ebitda_margin_TTM}}</td>
+              <td style="border: 1px solid black;">{{item.fetched_data.ebitda_margin_3y}}</td>
+              <td style="border: 1px solid black;">{{item.fetched_data.sharpe_ratio_5 | floatformat:4}}</td>
+              <td style="border: 1px solid black;">{{item.fetched_data.variance_5 | floatformat:4}}</td> 
             </tr>
             {% endfor %}
            
           </tbody>
         </table>
       </div>
+
+
+
 
 
 
